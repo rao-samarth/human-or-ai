@@ -51,6 +51,8 @@ This library has 2 main functions - `simple_cleaner`, and `super_cleaner`. I use
 After using the simple_cleaner, I still found that many of the txt files still had Project Gutenberg tags in the top / bottom of the file. I thus added this functionality manually in my [cleaner.py](cleaner.py).
 
 
-Note:  
-I also first tried using step 2 of [mbforbes/Gutenberg](https://github.com/mbforbes/Gutenberg) to clean the data.  However, this ended up deleting significantly more of the actual content than required.
+Notes:
+- I have kept chapter names, epilogues, tables of contents, character lists (only relevant for Shakespeare) as is. My reasoning for this is that it is relevant to the authors style and tonality. I did contemplate removing them, but decided not to as they are also a unique style of each of the authors.
+- I have removed all general `NOTES.` and `Transcribers Notes` sections. This was because they were not written by the author itself and thus will corrupt the datasets. 
+- I also first tried using step 2 of [mbforbes/Gutenberg](https://github.com/mbforbes/Gutenberg) to clean the data.  However, this ended up deleting significantly more of the actual content than required.  
 
