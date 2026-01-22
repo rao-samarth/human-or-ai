@@ -572,7 +572,6 @@ The atmosphere of the room was of a horrible and depressing stuffiness.
 The servant who had first entered had thrown up the window, or it would
 have been even more intolerable.  This might partly be due to the fact
 that a lamp stood flaring and smoking on the centre table.  Beside it
-sat the dead man, leaning back in his chair, his thin beard projecting,
 his spectacles pushed up on to his forehead, and his lean dark face
 turned towards the window and twisted into the same distortion of
 terror which had marked the features of his dead sister.  His limbs
@@ -1043,7 +1042,4 @@ successive links in a fairly obvious chain.  And now, my dear Watson, I
 think we may dismiss the matter from our mind and go back with a clear
 conscience to the study of those Chaldean roots which are surely to be
 traced in the Cornish branch of the great Celtic speech."
-
-
-
 

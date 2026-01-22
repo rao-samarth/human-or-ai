@@ -211,7 +211,6 @@ Milverton had glided as quick as a rat to the side of the room and stood
 with his back against the wall.
 
 "Mr. Holmes, Mr. Holmes," he said, turning the front of his coat and
-exhibiting the butt of a large revolver, which projected from the inside
 pocket. "I have been expecting you to do something original. This has
 been done so often, and what good has ever come from it? I assure you
 that I am armed to the teeth, and I am perfectly prepared to use my
@@ -492,7 +491,6 @@ but that he had been sitting up in some smoking or billiard room in the
 farther wing of the house, the windows of which we had not seen. His
 broad, grizzled head, with its shining patch of baldness, was in the
 immediate foreground of our vision. He was leaning far back in the red
-leather chair, his legs outstretched, a long, black cigar projecting
 at an angle from his mouth. He wore a semi-military smoking jacket,
 claret-coloured, with a black velvet collar. In his hand he held a long,
 legal document which he was reading in an indolent fashion, blowing
@@ -529,7 +527,6 @@ So this was the explanation of the unlocked door and of the nocturnal
 vigil of Milverton. There was the gentle rustle of a woman's dress. I
 had closed the slit between the curtains as Milverton's face had turned
 in our direction, but now I ventured very carefully to open it once
-more. He had resumed his seat, the cigar still projecting at an insolent
 angle from the corner of his mouth. In front of him, in the full glare
 of the electric light, there stood a tall, slim, dark woman, a veil over
 her face, a mantle drawn round her chin. Her breath came quick and fast,
@@ -697,5 +694,3 @@ at the straight mouth, and the strong little chin beneath it. Then I
 caught my breath as I read the time-honoured title of the great nobleman
 and statesman whose wife she had been. My eyes met those of Holmes, and
 he put his finger to his lips as we turned away from the window.
-
-

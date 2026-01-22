@@ -1,29 +1,3 @@
-The Project Gutenberg EBook of A Tramp Abroad, by Mark Twain (Samuel Clemens)
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: A Tramp Abroad
-       Complete
-
-Author: Mark Twain (Samuel Clemens)
-
-Release Date: June 3, 2009 [EBook #119]
-Last Updated: February 23, 2018
-
-Language: English
-
-Character set encoding: UTF-8
-
-*** START OF THIS PROJECT GUTENBERG EBOOK A TRAMP ABROAD ***
-
-
-
-
-Produced by Anonymous Volunteers, John Greenman and David Widger
 
 
 
@@ -936,7 +910,6 @@ To return to my narrative. A student in a white cap met us and
 introduced us to six or eight friends of his who also wore white caps,
 and while we stood conversing, two strange-looking figures were led in
 from another room. They were students panoplied for the duel. They were
-bareheaded; their eyes were protected by iron goggles which projected an
 inch or more, the leather straps of which bound their ears flat against
 their heads were wound around and around with thick wrappings which
 a sword could not cut through; from chin to ankle they were padded
@@ -945,7 +918,6 @@ layer upon layer, until they looked like solid black logs. These weird
 apparitions had been handsome youths, clad in fashionable attire,
 fifteen minutes before, but now they did not resemble any beings one
 ever sees unless in nightmares. They strode along, with their arms
-projecting straight out from their bodies; they did not hold them out
 themselves, but fellow-students walked beside them and gave the needed
 support.
 
@@ -1789,7 +1761,6 @@ At half past nine in the morning the procession approached the field of
 Plessis-Piquet in the following order: first came our carriage--nobody
 in it but M. Gambetta and myself; then a carriage containing M. Fourtou
 and his second; then a carriage containing two poet-orators who did not
-believe in God, and these had MS. funeral orations projecting from their
 breast pockets; then a carriage containing the head surgeons and their
 cases of instruments; then eight private carriages containing consulting
 surgeons; then a hack containing a coroner; then the two hearses; then a
@@ -2689,7 +2660,6 @@ We took a turn around the town, after dinner, and found it fully as
 interesting in the moonlight as it had been in the daytime. The streets
 were narrow and roughly paved, and there was not a sidewalk or a
 street-lamp anywhere. The dwellings were centuries old, and vast enough
-for hotels. They widened all the way up; the stories projected further
 and further forward and aside as they ascended, and the long rows
 of lighted windows, filled with little bits of panes, curtained with
 figured white muslin and adorned outside with boxes of flowers, made a
@@ -2983,7 +2953,6 @@ The river is not always allowed to spread over its whole bed--which is
 as much as thirty, and sometimes forty yards wide--but is split into
 three equal bodies of water, by stone dikes which throw the main
 volume, depth, and current into the central one. In low water these neat
-narrow-edged dikes project four or five inches above the surface, like
 the comb of a submerged roof, but in high water they are overflowed. A
 hatful of rain makes high water in the Neckar, and a basketful produces
 an overflow.
@@ -3233,7 +3202,6 @@ the scenery, with our sun-umbrellas over our heads and our legs dangling
 in the water.
 
 
-Every now and then we plunged in and had a swim. Every projecting grassy
 cape had its joyous group of naked children, the boys to themselves and
 the girls to themselves, the latter usually in care of some motherly
 dame who sat in the shade of a tree with her knitting. The little boys
@@ -3249,7 +3217,6 @@ was a pretty creature, and she and her willow bough made a very
 pretty picture, and one which could not offend the modesty of the most
 fastidious spectator. Her white skin had a low bank of fresh green
 willows for background and effective contrast--for she stood against
-them--and above and out of them projected the eager faces and white
 shoulders of two smaller girls.
 
 
@@ -3724,7 +3691,6 @@ CHAPTER XVII
 [Why Germans Wear Spectacles]
 
 
-A mile or two above Eberbach we saw a peculiar ruin projecting above the
 foliage which clothed the peak of a high and very steep hill. This ruin
 consisted of merely a couple of crumbling masses of masonry which bore
 a rude resemblance to human faces; they leaned forward and touched
@@ -5479,7 +5445,6 @@ more. This roof was of ancient mud-colored straw thatch a foot thick,
 and was covered all over, except in a few trifling spots, with a
 thriving and luxurious growth of green vegetation, mainly moss. The
 mossless spots were places where repairs had been made by the insertion
-of bright new masses of yellow straw. The eaves projected far down, like
 sheltering, hospitable wings. Across the gable that fronted the road,
 and about ten feet above the ground, ran a narrow porch, with a wooden
 railing; a row of small windows filled with very small panes looked upon
@@ -7292,7 +7257,6 @@ around it which had a white anchor embroidered on it in front; nobby
 short-tailed coat, pantaloons, vest, all trim and neat and up with the
 fashion; red-striped stockings, very low-quarter patent-leather shoes,
 tied with black ribbon; blue ribbon around his neck, wide-open collar;
-tiny diamond studs; wrinkleless kids; projecting cuffs, fastened with
 large oxidized silver sleeve-buttons, bearing the device of a dog's
 face--English pug. He carried a slim cane, surmounted with an English
 pug's head with red glass eyes. Under his arm he carried a German
@@ -7864,7 +7828,6 @@ densely, and we took to the railway-ties to keep from getting lost.
 Sometimes we slopped along in a narrow path on the left-hand side of the
 track, but by and by when the fog blew aside a little and we saw that we
 were treading the rampart of a precipice and that our left elbows were
-projecting over a perfectly boundless and bottomless vacancy, we gasped,
 and jumped for the ties again.
 
 
@@ -8244,7 +8207,6 @@ winding streams, a dozen blue lakes, a block of busy steamboats--we saw
 all this little world in unique circumstantiality of detail--saw it just
 as the birds see it--and all reduced to the smallest of scales and as
 sharply worked out and finished as a steel engraving. The numerous toy
-villages, with tiny spires projecting out of them, were just as the
 children might have left them when done with play the day before; the
 forest tracts were diminished to cushions of moss; one or two big lakes
 were dwarfed to ponds, the smaller ones to puddles--though they did not
@@ -8476,7 +8438,6 @@ the snow sometimes shakes the house to its foundations.
 Next morning the HOGGLEBUMGULLUP still continued bad, but we made up our
 minds to go on, and make the best of it. Half an hour after we started,
 the REGEN thickened unpleasantly, and we attempted to get shelter under
-a projecting rock, but being far to NASS already to make standing at
 all AGRÉABLE, we pushed on for the Handeck, consoling ourselves with the
 reflection that from the furious rushing of the river Aar at our
 side, we should at all events see the celebrated WASSERFALL in GRANDE
@@ -8717,7 +8678,6 @@ captivating cottage of Switzerland.
 
 The ordinary chalet turns a broad, honest gable end to the road, and
 its ample roof hovers over the home in a protecting, caressing way,
-projecting its sheltering eaves far outward. The quaint windows are
 filled with little panes, and garnished with white muslin curtains,
 and brightened with boxes of blooming flowers. Across the front of the
 house, and up the spreading eaves and along the fanciful railings of
@@ -8844,7 +8804,6 @@ the break in two minutes.
 
 So much for one European fashion. Every country has its own ways. It may
 interest the reader to know how they “put horses to” on the continent.
-The man stands up the horses on each side of the thing that projects
 from the front end of the wagon, and then throws the tangled mess of
 gear forward through a ring, and hauls it aft, and passes the other
 thing through the other ring and hauls it aft on the other side of the
@@ -9505,7 +9464,6 @@ illustration.
 The road was smooth; it led up and over and down a continual succession
 of hills; but it was narrow, the horses were used to it, and could
 not well get out of it anyhow; so why shouldn't the drivers entertain
-themselves and us? The noses of our horses projected sociably into the
 rear of the forward carriage, and as we toiled up the long hills our
 driver stood up and talked to his friend, and his friend stood up and
 talked back to him, with his rear to the scenery. When the top was
@@ -9882,7 +9840,6 @@ in length, looked uncommonly awkward; but, like the sword leading true
 believers to the gates of Paradise, they must needs be passed before
 we could attain to the summit of our ambition. These were in one or two
 places so narrow, that in stepping over them with toes well turned
-out for greater security, ONE END OF THE FOOT PROJECTED OVER THE AWFUL
 PRECIPICE ON THE RIGHT, WHILE THE OTHER WAS ON THE BEGINNING OF THE
 ICE SLOPE ON THE LEFT, WHICH WAS SCARCELY LESS STEEP THAN THE ROCKS. On
 these occasions Peter would take my hand, and each of us stretching as
@@ -9909,7 +9866,6 @@ Now they arrived at the base of a great knob or dome veneered with ice
 and powdered with snow--the utmost, summit, the last bit of solidity
 between them and the hollow vault of heaven. They set to work with their
 hatchets, and were soon creeping, insectlike, up its surface, with their
-heels projecting over the thinnest kind of nothingness, thickened up a
 little with a few wandering shreds and films of cloud moving in a lazy
 procession far below. Presently, one man's toe-hold broke and he fell!
 There he dangled in mid-air at the end of the rope, like a spider, till
@@ -9955,7 +9911,6 @@ their grandeur and their noble beauty was neither lost nor impaired; I
 had gained a new interest in the mountains without losing the old ones.
 I followed the steep lines up, inch by inch, with my eye, and noted the
 possibility or impossibility of following them with my feet. When I saw
-a shining helmet of ice projecting above the clouds, I tried to imagine
 I saw files of black specks toiling up it roped together with a gossamer
 thread.
 
@@ -10029,7 +9984,6 @@ breadth of solid rock just above his head, like the roof of a narrow
 porch; he could look out from this gallery and see a sheer summitless
 and bottomless wall of rock before him, across a gorge or crack a
 biscuit's toss in width--but he could not see the bottom of his own
-precipice unless he lay down and projected his nose over the edge. I did
 not do this, because I did not wish to soil my clothes.
 
 Every few hundred yards, at particularly bad places, one came across
@@ -10283,7 +10237,6 @@ sit and stare up there and study the features and exquisite graces of
 this grand structure, bit by bit, and day after day, and never weary his
 interest. The termination, toward the town, observed in profile, is the
 perfection of shape. It comes down out of the clouds in a succession of
-rounded, colossal, terracelike projections--a stairway for the gods; at
 its head spring several lofty storm-scarred towers, one after another,
 with faint films of vapor curling always about them like spectral
 banners. If there were a king whose realms included the whole world,
@@ -10653,7 +10606,6 @@ was pretending to secure people from tumbling over a perpendicular wall
 forty feet high and into the river. Three children were approaching; one
 of them, a little girl, about eight years old, was running; when pretty
 close to us she stumbled and fell, and her feet shot under the rail of
-the fence and for a moment projected over the stream. It gave us a
 sharp shock, for we thought she was gone, sure, for the ground slanted
 steeply, and to save herself seemed a sheer impossibility; but she
 managed to scramble up, and ran by us laughing.
@@ -10939,7 +10891,6 @@ curiosity; for the news was already abroad. It is not easy to eat calmly
 when you are a lion; but it is very pleasant, nevertheless.
 
 As usual, at Zermatt, when a great ascent is about to be undertaken,
-everybody, native and foreign, laid aside his own projects and took up
 a good position to observe the start. The expedition consisted of 198
 persons, including the mules; or 205, including the cows. As follows:
 
@@ -11828,7 +11779,6 @@ there are a great many pleasanter roads to the devil than that.”
 
 
 Upon a discussion of the subject with him, it appeared that he
-considered the project distinctly and decidedly dangerous. I was not
 convinced, yet I was not willing to try the experiment in any risky
 way--that is, in a way that might cripple the strength and efficiency
 of the Expedition. I was about at my wits' end when it occurred to me to
@@ -12261,7 +12211,6 @@ Many fragments of clothing which had belonged to the lost guides were
 discovered; also, part of a lantern, and a green veil with blood-stains
 on it. But the interesting feature was this:
 
-One of the searchers came suddenly upon a sleeved arm projecting from
 a crevice in the ice-wall, with the hand outstretched as if offering
 greeting! “The nails of this white hand were still rosy, and the pose
 of the extended fingers seemed to express an eloquent welcome to the
@@ -12377,7 +12326,6 @@ northern side. The work became difficult, and required caution. In some
 places there was little to hold; the general slope of the mountain was
 LESS than forty degrees, and snow had accumulated in, and had filled
 up, the interstices of the rock-face, leaving only occasional fragments
-projecting here and there. These were at times covered with a thin film
 of ice. It was a place which any fair mountaineer might pass in safety.
 We bore away nearly horizontally for about four hundred feet, then
 ascended directly toward the summit for about sixty feet, then doubled
@@ -13426,7 +13374,6 @@ This accident occurred in 1866, a year and a month after the disaster
 on the Matterhorn. Three adventurous English gentlemen, [1] of great
 experience in mountain-climbing, made up their minds to ascend Mont
 Blanc without guides or porters. All endeavors to dissuade them from
-their project failed. Powerful telescopes are numerous in Chamonix.
 These huge brass tubes, mounted on their scaffoldings and pointed
 skyward from every choice vantage-ground, have the formidable look of
 artillery, and give the town the general aspect of getting ready
@@ -14068,7 +14015,6 @@ three fat hogs lying asleep, and a boy (also asleep) taking care of
 them.
 
 
-From queer old-fashioned windows along the curve projected boxes of
 bright flowers, and over the edge of one of these boxes hung the head
 and shoulders of a cat--asleep. The five sleeping creatures were the
 only living things visible in that street. There was not a sound;
@@ -14914,7 +14860,6 @@ would sigh and say, “Where's your missionary?”
 I have a neat talent in matters pertaining to nourishment. This has
 met with professional recognition. I have often furnished recipes for
 cook-books. Here are some designs for pies and things, which I recently
-prepared for a friend's projected cook-book, but as I forgot to furnish
 diagrams and perspectives, they had to be left out, of course.
 
 RECIPE FOR AN ASH-CAKE Take a lot of water and add to it a lot of coarse
@@ -15059,7 +15004,6 @@ before the reader in this volume.
 
 We took a turn to Rome and some other Italian cities--then to Munich,
 and thence to Paris--partly for exercise, but mainly because these
-things were in our projected program, and it was only right that we
 should be faithful to it.
 
 From Paris I branched out and walked through Holland and Belgium,
@@ -15269,7 +15213,6 @@ The stone is brown, with a pinkish tint, and does not seem to stain
 easily. The dainty and elaborate ornamentation upon its two chief fronts
 is as delicately carved as if it had been intended for the interior of
 a drawing-room rather than for the outside of a house. Many fruit and
-flower clusters, human heads and grim projecting lions' heads are still
 as perfect in every detail as if they were new. But the statues which
 are ranked between the windows have suffered. These are life-size
 statues of old-time emperors, electors, and similar grandees, clad in
@@ -16974,367 +16917,3 @@ look at them! I haven't seen them for three weeks!
 
 
 
-
-
-
-End of Project Gutenberg's A Tramp Abroad, by Mark Twain (Samuel Clemens)
-
-*** END OF THIS PROJECT GUTENBERG EBOOK A TRAMP ABROAD ***
-
-***** This file should be named 119-0.txt or 119-0.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/1/1/119/
-
-Produced by Anonymous Volunteers, John Greenman and David Widger
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase “Project
-Gutenberg”), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  “Project Gutenberg” is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation (“the Foundation”
- or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase “Project Gutenberg” appears, or with which the phrase “Project
-Gutenberg” is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase “Project Gutenberg” associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-“Plain Vanilla ASCII” or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original “Plain Vanilla ASCII” or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, “Information about donations to
-     the Project Gutenberg Literary Archive Foundation.”
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-“Defects,” such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
-of Replacement or Refund” described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at http://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
