@@ -1,6 +1,9 @@
-## Public domain texts
+## Public domain Mark Twain texts
 
-This repository includes plain-text versions of public domain works by William Shakespeare
+This is part of the extended set of the task.  
+
+
+This repository includes plain-text versions of public domain works by Mark Twain
 
 Source:
 - Project Gutenberg (https://www.gutenberg.org)

@@ -1,6 +1,9 @@
-## Public domain texts
+## Public domain texts (Sherlock Holmes)
 
-This repository includes plain-text versions of public domain works by Mark Twain
+This is part of the baseline set of the task.  
+
+
+This repository includes plain-text versions of public domain works by Arthur Conan Doyle featuring Sherlock Holmes.
 
 Source:
 - Project Gutenberg (https://www.gutenberg.org)

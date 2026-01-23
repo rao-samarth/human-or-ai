@@ -1,58 +1,22 @@
 # The Dataset
 
-I have created a dataset of multiple novels / short stories from 4 authors:
-1. Sir Arthur Conan Doyle 
-2. (Not) Shakespeare
-3. P. G. Wodehouse
-4. Mark Twain
+> You will build a dataset where the primary variable is authorship, not topic.
+
+I treated this instruction as the core constraint of the assignment. Since the end goal is to distinguish **human-written** text from **AI-generated** text, the dataset must minimize “shortcuts” where a classifier can succeed simply by learning **topic differences**. Instead, we want the signal to come primarily from **style** (lexical choices, sentence structure, punctuation habits, rhythm, etc.).
+
+To achieve this, I designed the dataset so that:
+- **Human text spans multiple authors** with highly distinct writing styles.
+- **AI-generated text is constrained to a shared pool of topics**, so topic does not become a proxy for author/source.
+- The dataset supports both the assignment baseline and additional robustness experiments.
 
 
-
-## Reasoning behind choice of authors
-
-I chose these 4 authors specifically because they represent distinctly different literary styles and tonalities, making them ideal for a classification task focused on authorship rather than topic. Each author has a unique voice that should be distinguishable through stylistic features:
-
-### Sir Arthur Conan Doyle
-Writes in a methodological and logical narrative. The Sherlock Holmes stories are predominantly written in first person from Dr. Watson's perspective, featuring:
-- Direct, precise prose with emphasis on observation and deduction
-- Straightforward, journalistic style of storytelling
-
-### William Shakespeare
-Very poetic / dramatic writing with:
-- Elizabethan English with archaic vocabulary and syntax
-- Lot of wordplay and complex rhetoric
-- Distinct from the prose style of the other three authors
-
-### P.G. Wodehouse
-A comedic genius known for light, humorous prose:
-- Whimsical, playful language with elaborate similes
-- British upper-class vernacular and slang
-- Comic timing through sentence structure
-- Ironic and satirical tone
-- Absurd situations described with deadpan sophistication
-
-### Mark Twain
-An American author who uses:
-- Conversational American English
-- Social satire and regional dialects
+As per the assignment instructions:
+**Class 1:** Human Written Text. This can be found in [class1-human-written/](class1-human-written/)
+**Class 2:** AI Generated Text. This can be found in [class2-ai-written/](class2-ai-written)
+**Class 3:** AI Mimicry. The AI is trained on the writing style of the author, it then generates essays on the topics as though written by the author. It exists as a harder class to the data, since the AI is purposely trying to mimic a human author. The question it's trying to answer is like *"Does style prompting actually make AI harder to detect"*
 
 
-These four authors span different time periods (16th-20th centuries), nationalities (English and American), and genres (drama, mystery, comedy, social commentary). Through this I am ensuring maximum stylistic variation while all being available on Project Gutenberg with substantial bodies of work. 
+Further details regarding **Class 1** can be found in [class1-human-written/README.md](class1-human-written/README.md).
 
 
-## Cleaning of the data
-
-The data, while originally from The Gutenberg Project, was all sourced from [rcdm-uga/Gutenberg_Text](https://github.com/rcdm-uga/Gutenberg_Text). In this repository, the text is given in the .txt file format.
-
-Then, I used [kiasar/gutenberg_cleaner](https://github.com/kiasar/gutenberg_cleaner) to clean all the files.
-
-This library has 2 main functions - `simple_cleaner`, and `super_cleaner`. I used `simple_cleaner` as it is significantly more deterministic. The `super_cleaner` functionality removes all paragraphs (blank-line-separated blocks of text) with number of tokens within a range set by the user. This would have resulted in many smaller paragraphs getting deleted.
-
-After using the simple_cleaner, I still found that many of the txt files still had Project Gutenberg tags in the top / bottom of the file. I thus added this functionality manually in my [cleaner.py](cleaner.py).
-
-
-Notes:
-- I have kept chapter names, epilogues, tables of contents, character lists (only relevant for Shakespeare) as is. My reasoning for this is that it is relevant to the authors style and tonality. I did contemplate removing them, but decided not to as they are also a unique style of each of the authors.
-- I have removed all general `NOTES.` and `Transcribers Notes` sections. This was because they were not written by the author itself and thus will corrupt the datasets. 
-- I also first tried using step 2 of [mbforbes/Gutenberg](https://github.com/mbforbes/Gutenberg) to clean the data.  However, this ended up deleting significantly more of the actual content than required.  
-
+## Topic List used for Class 2 and Class 3

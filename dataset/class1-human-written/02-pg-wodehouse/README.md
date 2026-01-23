@@ -1,6 +1,8 @@
-## Public domain texts (Sherlock Holmes)
+## Public domain P. G. Wodehouse texts
 
-This repository includes plain-text versions of public domain works by Arthur Conan Doyle featuring Sherlock Holmes.
+This is part of the baseline set of the task.  
+
+This repository includes plain-text versions of public domain works by PG Wodehouse.
 
 Source:
 - Project Gutenberg (https://www.gutenberg.org)

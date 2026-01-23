@@ -1,6 +1,8 @@
-## Public domain texts
+## Public domain William Shakespeare Texts
 
-This repository includes plain-text versions of public domain works by PG Wodehouse.
+This is part of the extended set of the task.  
+
+This repository includes plain-text versions of public domain works by William Shakespeare
 
 Source:
 - Project Gutenberg (https://www.gutenberg.org)
