@@ -67,4 +67,28 @@ After using the simple_cleaner, I still found that many of the txt files still h
 Notes:
 - I have kept chapter names, epilogues, tables of contents, character lists (only relevant for Shakespeare) as is. My reasoning for this is that it is relevant to the authors style and tonality. I did contemplate removing them, but decided not to as they are also a unique style of each of the authors.
 - I have removed all general `NOTES.` and `Transcribers Notes` sections. This was because they were not written by the author itself and thus will corrupt the datasets. 
-- I also first tried using step 2 of [mbforbes/Gutenberg](https://github.com/mbforbes/Gutenberg) to clean the data.  However, this ended up deleting significantly more of the actual content than required.  
+- I also first tried using step 2 of [mbforbes/Gutenberg](https://github.com/mbforbes/Gutenberg) to clean the data.  However, this ended up deleting significantly more of the actual content than required.
+
+
+## Dataset Split: 80% for Fine-tuning, 20% for Testing
+
+To support potential fine-tuning experiments while maintaining held-out test data, I split each author's books into two groups:
+
+- **80% of books** → moved to `<author-surname>-for-finetuning/` subdirectories
+- **20% of books** → kept in the main author directories
+
+This split was done randomly with a fixed seed (42) for reproducibility. The distribution is:
+
+| Author | Total Books | Finetuning (80%) | Testing (20%) |
+|--------|-------------|------------------|---------------|
+| Arthur Conan Doyle | 51 | 40 | 11 |
+| P.G. Wodehouse | 38 | 30 | 8 |
+| William Shakespeare | 101 | 80 | 21 |
+| Mark Twain | 153 | 122 | 31 |
+
+**Rationale:** This structure allows for:
+- Fine-tuning AI models (Class 4) on the majority of each author's work
+- Testing/validation on held-out books that the model hasn't seen
+- Maintaining stylistic consistency while preventing overfitting to specific works  
+
+!! **NOTE:** I ensured that the ones which remained in the non-finetuned dataset encompass all themes. 

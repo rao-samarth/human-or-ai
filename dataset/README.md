@@ -18,6 +18,14 @@ As per the assignment instructions:
 
 Further details regarding **Class 1** can be found in [class1-human-written/README.md](class1-human-written/README.md).
 
+### Dataset Split for Fine-tuning and Testing
+
+Within Class 1, each author's books are split 80/20:
+- **80%** in `<author-surname>-for-finetuning/` subdirectories (for model training) which will be used for Class-4
+- **20%** kept in main directories (for held-out testing/validation)
+
+This allows fine-tuning experiments (especially for Class 3 AI mimicry) while maintaining unseen test data. The split was randomized with a fixed seed for reproducibility.
+
 
 ## Topic List used for Class 2 and Class 3
 

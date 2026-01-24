@@ -79,3 +79,4 @@ These design choices ensure that:
 3. **The content is topic-agnostic**, forcing classifiers to learn stylistic rather than semantic differences
 4. **The text length and structure match human-written samples**, ensuring fair comparison
 
+* **NOTE:** I ensured that the ones which remained in the non-finetuned dataset encompass all themes. 
