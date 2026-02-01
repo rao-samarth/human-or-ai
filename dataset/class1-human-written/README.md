@@ -22,7 +22,7 @@ A comedic genius known for light, humorous prose:
 - Ironic and satirical tone
 - Absurd situations described with deadpan sophistication
 
-### Mark Twain
+### Mark Twain (extended author)
 An American author who uses:
 - Conversational American English
 - Social satire and regional dialects
@@ -59,3 +59,20 @@ Notes:
 - I have removed all general `NOTES.` and `Transcribers Notes` sections. This was because they were not written by the author itself and thus will corrupt the datasets. 
 - I also first tried using step 2 of [mbforbes/Gutenberg](https://github.com/mbforbes/Gutenberg) to clean the data.  However, this ended up deleting significantly more of the actual content than required.
 
+
+
+## Splitting the books into paragraphs, instead of keeping the whole book
+
+Earlier, the human dataset consisted of full-length books, while the AI dataset consisted of short, standalone paragraphs. Comparing these directly would be misleading, since many linguistic features depend strongly on text length and document structure.
+
+To make the comparison fair, all texts are analyzed at the paragraph level. Each book is split into paragraph-sized chunks (100–250 words), and these chunks are treated as individual samples. This ensures that human and AI texts are comparable in length and format, and that stylistic differences are not simply artifacts of comparing books to paragraphs.
+
+Working at the paragraph level also increases the number of usable samples and allows standard statistical tests and classifiers to be applied reliably. To avoid information leakage, I will later ensure that all paragraphs from the same book are always kept in the same train/test split.
+
+### Files which are doing this
+
+In the directories of each author, `admin.py` creates `admin.csv` which goes through all the books, and lists the number of paragraphs per book, and the number of paragraphs with 100-250 words per book.
+
+Then, `extract_paragraphs.py` randomly selects 25 books which have 20+ paragraphs of 100-250 words, and then randomly selects 20 of these paragraphs, splits them into different .txt files, and saves them.
+
+I have ensured that all the "random" selections are uniformly randomly selected.
