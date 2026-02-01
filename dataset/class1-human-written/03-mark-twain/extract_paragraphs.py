@@ -164,7 +164,7 @@ def main():
     extraction_log = []
     
     for book_filename in selected_books:
-        book_path = script_dir / book_filename
+        book_path = script_dir / 'full_books' / book_filename
         
         if not book_path.exists():
             print(f"\n    ERROR: Book file not found: {book_filename}")
