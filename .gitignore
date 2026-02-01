@@ -3,3 +3,4 @@ venv2/
 .env
 test*.py
 *.zip
+admin*
