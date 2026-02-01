@@ -19,3 +19,13 @@ As per the assignment instructions:
 Further details regarding **Class 1** can be found in [class1-human-written/README.md](class1-human-written/README.md).
 
 
+## My Venn Diagram Thought
+
+When I was thinking of this class and the way in which to design it, I roughly sketched out a venn diagram.  
+My idea is that every single topic / theme in the AI generated text, should have a corresponding mapping in the human written text. This is what I've attempted to implement. 
+
+The converse of this statement: *"Every single topic / theme in the human written text must have a corresponding mapping to the AI generated text"*, is very difficult to achieve with **books**. Had the task been to use Wikipedia articles or instruction manuals or something of the such, this could have maybe been achieved. However, even with books, we should try to minimise the difference between the area in the circles below.
+
+![Venn Diagram](venn-diagram.jpeg "Venn Diagram")
+
+
