@@ -25,8 +25,8 @@ SLEEP_SECONDS = 2.0  # Increased to avoid rate limits
 AUTHORS = [
     {"id": "DOYLE", "name": "Sir Arthur Conan Doyle", "dir": "01-arthur-conan-doyle"},
     {"id": "WODE",  "name": "P. G. Wodehouse", "dir": "02-pg-wodehouse"},
-    {"id": "SHAKE",  "name": "William Shakespeare", "dir": "03-william-shakespeare"},
-    {"id": "TWAIN",  "name": "Mark Twain", "dir": "04-mark-twain"},
+    {"id": "SHAKE",  "name": "William Shakespeare", "dir": "04-william-shakespeare"},
+    {"id": "TWAIN",  "name": "Mark Twain", "dir": "03-mark-twain"},
 ]
 
 # I am adding these 'DIVERSITY_MODES' to ensure that there is diversity in the output.
