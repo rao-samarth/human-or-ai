@@ -2,8 +2,11 @@
 
 - This contains human-written text of 4 authors.  
 - Conan Doyle and P. G. Wodehouse form a baseline, for the required 2 authors.
-- Mark Twain forms an added layer of complexity, which we will see later. This is due to his unique style of writing
+- Mark Twain and William Shakespeare form an added layer of complexity, which we will see later. This is due to their unique style of writing.
 - We know the text is human written since all the books were written before the age of AI.  
+
+IMPORTANT NOTE: The final dataset here consists of everything in `authorname/extracted_paragraphs/` ONLY. The full books are present as well, but this will not be used at any point for any of the tasks.   
+The reasoning for this is [explained below](#splitting-the-books-into-paragraphs-instead-of-keeping-the-whole-book). 
 
 ## Reasoning behind choice of authors
 
@@ -16,7 +19,7 @@ Writes in a methodological and logical narrative. The Sherlock Holmes stories ar
 
 ### P.G. Wodehouse
 A comedic genius known for light, humorous prose:
-- Whimsical, playful language with elaborate similes
+- Whimsical, playful language 
 - British upper-class vernacular and slang
 - Comic timing through sentence structure
 - Ironic and satirical tone
@@ -26,6 +29,9 @@ A comedic genius known for light, humorous prose:
 An American author who uses:
 - Conversational American English
 - Social satire and regional dialects
+
+### Shakespeare
+He has a unique style of writing, with archaic English. I was interested mainly to see what the difference will be between this and class 3 / class 4.
 
 
 ## Note on dataset variants (baseline vs extension)
@@ -41,7 +47,7 @@ Specific further information of writing styles can be found here:
 1. https://iwl.me/writer/Arthur_Conan_Doyle
 2. https://iwl.me/writer/P._G._Wodehouse
 3. https://iwl.me/writer/Mark_Twain
-
+4. https://iwl.me/writer/William_Shakespeare 
 
 ## Cleaning of the data
 

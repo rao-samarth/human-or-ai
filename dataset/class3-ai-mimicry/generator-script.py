@@ -12,7 +12,7 @@ from google import genai
 
 
 OUTPUT_DIR = Path(".")
-TOPICS_CSV = Path("../topic-list.csv")
+TOPIC_DATA_DIR = Path("../topic-data")
 
 MIN_WORDS = 100
 MAX_WORDS = 200
@@ -21,7 +21,7 @@ MODEL_NAME = "gemini-pro-latest"
 SLEEP_SECONDS = 2.0  # Increased to avoid rate limits
 
 # Class 3 requirement:
-# 1000 paragraphs total = 250 per author (4 authors)
+# 2 paragraphs per theme for each author
 AUTHORS = [
     {"id": "DOYLE", "name": "Sir Arthur Conan Doyle", "dir": "01-arthur-conan-doyle"},
     {"id": "WODE",  "name": "P. G. Wodehouse", "dir": "02-pg-wodehouse"},
@@ -115,31 +115,71 @@ Output format:
 - Return only the paragraph text.
 """.strip()
 
-def load_topics(csv_path: Path):
+def load_topics_from_directory(topic_data_dir: Path, author_books: list = None):
+    """
+    Load themes from CSV files in the topic-data directory.
+    If author_books is provided, only load themes from those books.
+    Each CSV file contains themes with columns: theme_id, theme_description
+    """
     topics = []
-    with open(csv_path, "r", encoding="utf-8") as f:
+    theme_files = sorted(topic_data_dir.glob("*-themelist.csv"))
+    
+    for theme_file in theme_files:
+        # Extract book name from CSV filename (keep underscores to match extraction_log format)
+        book_name = theme_file.stem.replace("-themelist", "")
+        
+        # If author_books filter is provided, skip books not in the list
+        if author_books is not None and book_name not in author_books:
+            continue
+        
+        with open(theme_file, "r", encoding="utf-8") as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                # Create a unique ID from the file name and theme_id
+                base_name = theme_file.stem.replace("-themelist", "")
+                theme_id = row.get("theme_id", "").strip()
+                theme_desc = row.get("theme_description", "").strip()
+                
+                if theme_id and theme_desc:  # Only add if we have both
+                    # Create a unique topic_id combining filename and theme_id
+                    topic_id = f"{base_name}_{theme_id}"
+                    # Use the theme description as the topic name
+                    topics.append({
+                        "topic_id": topic_id,
+                        "topic_name": theme_desc,
+                        "topic_description": theme_desc,
+                    })
+    return topics
+
+def get_author_books(author_dir_name: str) -> list:
+    """
+    Read the books for an author from their extraction_log.csv
+    """
+    class1_dir = Path("../class1-human-written")
+    log_file = class1_dir / author_dir_name / "extracted_paragraphs" / "extraction_log.csv"
+    
+    if not log_file.exists():
+        print(f"Warning: {log_file} not found")
+        return []
+    
+    books = set()
+    with open(log_file, "r", encoding="utf-8") as f:
         reader = csv.DictReader(f)
         for row in reader:
-            topics.append({
-                "topic_id": row["topic_id"].strip(),
-                "topic_name": row["topic_name"].strip(),
-                "topic_description": row["topic_description"].strip(),
-            })
-    return topics
+            book_name = row.get("book_name", "").strip()
+            if book_name:
+                books.add(book_name)
+    
+    return sorted(list(books))
 
 def get_counts_per_topic_for_author(topic_ids):
     """
     Returns dict: topic_id -> number_of_paragraphs
-    Per author total must be 250 across 20 topics:
-      10 topics get 13
-      10 topics get 12
+    Always 2 paragraphs per theme for each author.
     """
-    topic_ids = list(topic_ids)
-    random.shuffle(topic_ids)  # shuffle to avoid always giving same topics the +1
-
     counts = {}
-    for idx, tid in enumerate(topic_ids):
-        counts[tid] = 13 if idx < 10 else 12
+    for tid in topic_ids:
+        counts[tid] = 2
     return counts
 
 def main():
@@ -152,22 +192,30 @@ def main():
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-    topics = load_topics(TOPICS_CSV)
-    topic_by_id = {t["topic_id"]: t for t in topics}
-    all_topic_ids = [t["topic_id"] for t in topics]
-
-    # Keep a small memory of previous paragraphs per (author, topic) to discourage repetition
-    topic_history = {(a["id"], tid): [] for a in AUTHORS for tid in all_topic_ids}
-
     for author in AUTHORS:
         author_id = author["id"]
         author_name = author["name"]
-        author_dir = OUTPUT_DIR / author["dir"]
+        author_dir_name = author["dir"]
+        author_dir = OUTPUT_DIR / author_dir_name
         author_dir.mkdir(parents=True, exist_ok=True)
 
         print(f"\n==============================")
         print(f"Generating for author: {author_name} ({author_id})")
         print(f"==============================")
+
+        # Get books for this author
+        author_books = get_author_books(author_dir_name)
+        print(f"Found {len(author_books)} books for {author_name}")
+        
+        # Load only themes from this author's books
+        topics = load_topics_from_directory(TOPIC_DATA_DIR, author_books)
+        print(f"Loaded {len(topics)} themes from author's books")
+        
+        topic_by_id = {t["topic_id"]: t for t in topics}
+        all_topic_ids = [t["topic_id"] for t in topics]
+        
+        # Keep a small memory of previous paragraphs per topic to discourage repetition
+        topic_history = {tid: [] for tid in all_topic_ids}
 
         counts_per_topic = get_counts_per_topic_for_author(all_topic_ids)
 
@@ -188,9 +236,8 @@ def main():
                 setting = random.choice(SETTINGS)
 
                 avoid_hint = ""
-                key = (author_id, tid)
-                if topic_history[key]:
-                    recent = topic_history[key][-5:]
+                if topic_history[tid]:
+                    recent = topic_history[tid][-5:]
                     avoid_hint = (
                         "\nAvoid repeating these recent ideas:\n- "
                         + "\n- ".join(recent)
@@ -259,11 +306,11 @@ def main():
                 print(f"Wrote {outfile.name} ({wc} words)")
 
                 idea_tag = " ".join(text.split()[:12])
-                topic_history[key].append(idea_tag)
+                topic_history[tid].append(idea_tag)
 
                 time.sleep(SLEEP_SECONDS)
 
-    print("\nDone. Generated Class 3 (AI mimicry) paragraphs.")
+    print(f"\nDone. Generated Class 3 (AI mimicry) paragraphs for all authors.")
 
 if __name__ == "__main__":
     main()
