@@ -285,7 +285,7 @@ Theme (do not mention this label explicitly): {theme_description}
 
 Style constraints:
 - Neutral modern English (not imitating any specific author).
-- The paragraph must feel natural and human-like, not like a list or an essay.
+- The paragraph must feel natural, not like a list or an essay.
 - Avoid numbered points, headings, or bullet lists.
 - Avoid phrases like "In conclusion", "This essay discusses", or "Overall".
 - Avoid the words: tapestry, delve, testament (overused AI-isms).
