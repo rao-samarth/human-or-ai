@@ -42,6 +42,33 @@ To prevent overfitting, I also added significantly more diversity modes and sett
 I have manually cross-verified every single theme generated, and they do correlate to the novels chosen, as well as the specific paragraphs of those novels.  
 
 
+## Prompting Strategy
+**Pass 1:**
+- Does not send the full book text. This is done because passing the book text each time will result in processing taking forever. Since each author and all of their works are very well known, I thought it was okay for Gemini to just work on the assumption.
+- Explicitly instructed to avoid mentioning book title, character names, or author
+- Ask for concise themes (3-8 words) to keep them simple
+- Output format: numbered list for easy parsing
+- `temperature=0.7` - Slightly more on the deterministic side. I want themes that accurately reflect the books, so I kept some determinism while allowing variation.
+
+**Pass 2:**
+- Specifies exact word count range (100-200) with retry logic to enforce it
+- Includes "anti-AI" constraints: avoid overused phrases like "tapestry," "delve," "testament"
+- Prohibits essay-like structures ("In conclusion," numbered points, headings)
+- Randomly injects diversity mode (tone/narrative style) and setting (location/context)
+- Emphasizes "neutral modern English" to avoid mimicking specific authors
+- Explicitly asks for spontaneous, natural writing
+- `temperature=1.0` - I wanted more diversity. Since we're generating multiple paragraphs per theme, high temperature prevents repetitive outputs and creates natural stylistic variation. The diversity modes further help with this.
+
+### Technical Implementation
+- **Retry Logic**: Up to 3 attempts per paragraph if word count is out of range
+- **Output Cleaning**: Strips quotes, titles, extra newlines that Gemini sometimes adds
+- **Rate Limiting**: 2-second sleep between API calls to avoid quota issues
+- **Safety Settings**: Set to `BLOCK_ONLY_HIGH` to allow creative freedom while preventing harmful content
+- **Filename Convention**: `bookname_themeID_paranum.txt` for easy tracking and reproducibility
+
+
+
+
 
 ## Examples of very similar generated paragraphs by Gemini in the old version
 **PARAGRAPH 1:**  

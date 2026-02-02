@@ -13,6 +13,12 @@ I generated the paragraphs using [generator-script.py](generator-script.py).
 
 ## Explanation of a few elements of code, and the choices we made
 
+### Temperature Settings
+- **Initial Generation**: `temperature=1.0` - High temperature to maximize diversity in style mimicry. Since we're generating 250 paragraphs per author, we need significant variation to prevent repetitive outputs.
+- **Retry Attempts**: `temperature=1.1` - Slightly higher on retries to encourage the model to generate a different output if the first attempt failed word count validation.
+
+The higher temperature (compared to Class 2's theme generation at 0.7) is intentional: style mimicry requires more creative freedom to capture the nuances of each author's voice while still producing diverse content across multiple paragraphs.
+
 ### Authors and Directory Structure
 
 The script defines 4 authors (Arthur Conan Doyle, P. G. Wodehouse, William Shakespeare, and Mark Twain) and saves their generated paragraphs into separate subdirectories (`01-arthur-conan-doyle/`, `02-pg-wodehouse/`, `03-william-shakespeare/`, `04-mark-twain/`). Each author gets 250 paragraphs, distributed across 20 topics.
