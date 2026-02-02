@@ -1,28 +1,16 @@
-MACBETH. If it were done when 'tis done, then 'twere well
-    It were done quickly. If the assassination
-    Could trammel up the consequence, and catch,
-    With his surcease, success; that but this blow
-    Might be the be-all and the end-all -here,
-    But here, upon this bank and shoal of time,
-    We'ld jump the life to come. But in these cases
-    We still have judgement here, that we but teach
-    Bloody instructions, which being taught return
-    To plague the inventor. This even-handed justice
-    Commends the ingredients of our poison'd chalice
-    To our own lips. He's here in double trust:
-    First, as I am his kinsman and his subject,
-    Strong both against the deed; then, as his host,
-    Who should against his murtherer shut the door,
-    Not bear the knife myself. Besides, this Duncan
-    Hath borne his faculties so meek, hath been
-    So clear in his great office, that his virtues
-    Will plead like angels trumpet-tongued against
-    The deep damnation of his taking-off,
-    And pity, like a naked new-born babe
-    Striding the blast, or heaven's cherubin horsed
-    Upon the sightless couriers of the air,
-    Shall blow the horrid deed in every eye,
-    That tears shall drown the wind. I have no spur
-    To prick the sides of my intent, but only
-    Vaulting ambition, which o'erleaps itself
-    And falls on the other.
+DUNCAN. Is execution done on Cawdor? Are not
+    Those in commission yet return'd?
+  MALCOLM. My liege,
+    They are not yet come back. But I have spoke
+    With one that saw him die, who did report
+    That very frankly he confess'd his treasons,
+    Implored your Highness' pardon, and set forth
+    A deep repentance. Nothing in his life
+    Became him like the leaving it; he died
+    As one that had been studied in his death,
+    To throw away the dearest thing he owed
+    As 'twere a careless trifle.
+  DUNCAN. There's no art
+    To find the mind's construction in the face:
+    He was a gentleman on whom I built
+    An absolute trust.

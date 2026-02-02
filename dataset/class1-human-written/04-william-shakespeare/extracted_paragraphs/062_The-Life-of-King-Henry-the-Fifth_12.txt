@@ -1,23 +1,27 @@
-ERPINGHAM. My lord, your nobles, jealous of your absence,
-    Seek through your camp to find you.
-  KING. Good old knight,
-    Collect them all together at my tent:
-    I'll be before thee.
-  ERPINGHAM. I shall do't, my lord.                         Exit
-  KING. O God of battles, steel my soldiers' hearts,
-    Possess them not with fear! Take from them now
-    The sense of reck'ning, if th' opposed numbers
-    Pluck their hearts from them! Not to-day, O Lord,
-    O, not to-day, think not upon the fault
-    My father made in compassing the crown!
-    I Richard's body have interred new,
-    And on it have bestowed more contrite tears
-    Than from it issued forced drops of blood;
-    Five hundred poor I have in yearly pay,
-    Who twice a day their wither'd hands hold up
-    Toward heaven, to pardon blood; and I have built
-    Two chantries, where the sad and solemn priests
-    Sing still for Richard's soul. More will I do;
-    Though all that I can do is nothing worth,
-    Since that my penitence comes after all,
-    Imploring pardon.
+GRANDPRE. Why do you stay so long, my lords of France?
+    Yond island carrions, desperate of their bones,
+    Ill-favouredly become the morning field;
+    Their ragged curtains poorly are let loose,
+    And our air shakes them passing scornfully;
+    Big Mars seems bankrupt in their beggar'd host,
+    And faintly through a rusty beaver peeps.
+    The horsemen sit like fixed candlesticks
+    With torch-staves in their hand; and their poor jades
+    Lob down their heads, dropping the hides and hips,
+    The gum down-roping from their pale-dead eyes,
+    And in their pale dull mouths the gimmal'd bit
+    Lies foul with chaw'd grass, still and motionless;
+    And their executors, the knavish crows,
+    Fly o'er them, all impatient for their hour.
+    Description cannot suit itself in words
+    To demonstrate the life of such a battle
+    In life so lifeless as it shows itself.
+  CONSTABLE. They have said their prayers and they stay for
+death.
+  DAUPHIN. Shall we go send them dinners and fresh suits,
+    And give their fasting horses provender,
+    And after fight with them?
+  CONSTABLE. I stay but for my guidon. To the field!
+    I will the banner from a trumpet take,
+    And use it for my haste. Come, come, away!
+    The sun is high, and we outwear the day.              Exeunt

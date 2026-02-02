@@ -1,21 +1,16 @@
-TROILUS. How now! What's the matter?
-  AENEAS. My lord, I scarce have leisure to salute you,
-    My matter is so rash. There is at hand
-    Paris your brother, and Deiphobus,
-    The Grecian Diomed, and our Antenor
-    Deliver'd to us; and for him forthwith,
-    Ere the first sacrifice, within this hour,
-    We must give up to Diomedes' hand
-    The Lady Cressida.
-  TROILUS. Is it so concluded?
-  AENEAS. By Priam, and the general state of Troy.
-    They are at hand and ready to effect it.
-  TROILUS. How my achievements mock me!
-    I will go meet them; and, my lord Aeneas,
-    We met by chance; you did not find me here.
-  AENEAS. Good, good, my lord, the secrets of neighbour Pandar
-    Have not more gift in taciturnity.
-                             Exeunt TROILUS and AENEAS
-  PANDARUS. Is't possible? No sooner got but lost? The devil take
-    Antenor! The young prince will go mad. A plague upon Antenor! I
-    would they had broke's neck.
+AENEAS. How now, Prince Troilus! Wherefore not afield?
+  TROILUS. Because not there. This woman's answer sorts,
+    For womanish it is to be from thence.
+    What news, Aeneas, from the field to-day?
+  AENEAS. That Paris is returned home, and hurt.
+  TROILUS. By whom, Aeneas?
+  AENEAS. Troilus, by Menelaus.
+  TROILUS. Let Paris bleed: 'tis but a scar to scorn;
+    Paris is gor'd with Menelaus' horn.
+[Alarum]
+  AENEAS. Hark what good sport is out of town to-day!
+  TROILUS. Better at home, if 'would I might' were 'may.'
+    But to the sport abroad. Are you bound thither?
+  AENEAS. In all swift haste.
+  TROILUS. Come, go we then together.
+Exeunt

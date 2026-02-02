@@ -1,16 +1,31 @@
-DUNCAN. Is execution done on Cawdor? Are not
-    Those in commission yet return'd?
-  MALCOLM. My liege,
-    They are not yet come back. But I have spoke
-    With one that saw him die, who did report
-    That very frankly he confess'd his treasons,
-    Implored your Highness' pardon, and set forth
-    A deep repentance. Nothing in his life
-    Became him like the leaving it; he died
-    As one that had been studied in his death,
-    To throw away the dearest thing he owed
-    As 'twere a careless trifle.
-  DUNCAN. There's no art
-    To find the mind's construction in the face:
-    He was a gentleman on whom I built
-    An absolute trust.
+Here comes the good Macduff.
+    How goes the world, sir, now?
+  MACDUFF. Why, see you not?
+  ROSS. Is't known who did this more than bloody deed?
+  MACDUFF. Those that Macbeth hath slain.
+  ROSS. Alas, the day!
+    What good could they pretend?
+  MACDUFF. They were suborn'd:
+    Malcolm and Donalbain, the King's two sons,
+    Are stol'n away and fled, which puts upon them
+    Suspicion of the deed.
+  ROSS. 'Gainst nature still!
+    Thriftless ambition, that wilt ravin up
+    Thine own life's means! Then 'tis most like
+    The sovereignty will fall upon Macbeth.
+  MACDUFF. He is already named, and gone to Scone
+    To be invested.
+  ROSS. Where is Duncan's body?
+  MACDUFF. Carried to Colmekill,
+    The sacred storehouse of his predecessors
+    And guardian of their bones.
+  ROSS. Will you to Scone?
+  MACDUFF. No, cousin, I'll to Fife.
+  ROSS. Well, I will thither.
+  MACDUFF. Well, may you see things well done there.
+    Adieu,
+    Lest our old robes sit easier than our new!
+  ROSS. Farewell, father.
+  OLD MAN. God's benison go with you and with those
+    That would make good of bad and friends of foes!
+                                                         Exeunt.

@@ -1,15 +1,24 @@
-Re-enter Seyton.
-     Wherefore was that cry?
-  SEYTON. The Queen, my lord, is dead.
-  MACBETH. She should have died hereafter;
-    There would have been a time for such a word.
-    Tomorrow, and tomorrow, and tomorrow
-    Creeps in this petty pace from day to day
-    To the last syllable of recorded time;
-    And all our yesterdays have lighted fools
-    The way to dusty death. Out, out, brief candle!
-    Life's but a walking shadow, a poor player
-    That struts and frets his hour upon the stage
-    And then is heard no more. It is a tale
-    Told by an idiot, full of sound and fury,
-    Signifying nothing.
+Great Glamis! Worthy Cawdor!
+    Greater than both, by the all-hail hereafter!
+    Thy letters have transported me beyond
+    This ignorant present, and I feel now
+    The future in the instant.
+  MACBETH. My dearest love,
+    Duncan comes here tonight.
+  LADY MACBETH. And when goes hence?
+  MACBETH. Tomorrow, as he purposes.
+  LADY MACBETH. O, never
+    Shall sun that morrow see!
+    Your face, my Thane, is as a book where men
+    May read strange matters. To beguile the time,
+    Look like the time; bear welcome in your eye,
+    Your hand, your tongue; look like the innocent flower,
+    But be the serpent under it. He that's coming
+    Must be provided for; and you shall put
+    This night's great business into my dispatch,
+    Which shall to all our nights and days to come
+    Give solely sovereign sway and masterdom.
+  MACBETH. We will speak further.
+  LADY MACBETH. Only look up clear;
+    To alter favor ever is to fear.
+    Leave all the rest to me.                            Exeunt.

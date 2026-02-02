@@ -1,30 +1,22 @@
-What is this,
-    That rises like the issue of a king,
-    And wears upon his baby brow the round
-    And top of sovereignty?
-  ALL. Listen, but speak not to't.
-  THIRD APPARITION. Be lion-mettled, proud, and take no care
-    Who chafes, who frets, or where conspirers are.
-    Macbeth shall never vanquish'd be until
-    Great Birnam Wood to high Dunsinane Hill
-    Shall come against him.                            Descends.
-  MACBETH. That will never be.
-    Who can impress the forest, bid the tree
-    Unfix his earth-bound root? Sweet bodements, good!
-    Rebellion's head, rise never till the Wood
-    Of Birnam rise, and our high-placed Macbeth
-    Shall live the lease of nature, pay his breath
-    To time and mortal custom. Yet my heart
-    Throbs to know one thing: tell me, if your art
-    Can tell so much, shall Banquo's issue ever
-    Reign in this kingdom?
-  ALL. Seek to know no more.
-  MACBETH. I will be satisfied! Deny me this,
-    And an eternal curse fall on you! Let me know.
-    Why sinks that cauldron, and what noise is this?
-                                                       Hautboys.
-  FIRST WITCH. Show!
-  SECOND WITCH. Show!
-  THIRD. WITCH. Show!
-  ALL. Show his eyes, and grieve his heart;
-    Come like shadows, so depart!
+MALCOLM. Well, more anon. Comes the King forth, I pray you?
+  DOCTOR. Ay, sir, there are a crew of wretched souls
+    That stay his cure. Their malady convinces
+    The great assay of art, but at his touch,
+    Such sanctity hath heaven given his hand,
+    They presently amend.
+  MALCOLM. I thank you, Doctor.                     Exit Doctor.
+  MACDUFF. What's the disease he means?
+  MALCOLM. 'Tis call'd the evil:
+    A most miraculous work in this good King,
+    Which often, since my here-remain in England,
+    I have seen him do. How he solicits heaven,
+    Himself best knows; but strangely-visited people,
+    All swol'n and ulcerous, pitiful to the eye,
+    The mere despair of surgery, he cures,
+    Hanging a golden stamp about their necks
+    Put on with holy prayers; and 'tis spoken,
+    To the succeeding royalty he leaves
+    The healing benediction. With this strange virtue
+    He hath a heavenly gift of prophecy,
+    And sundry blessings hang about his throne
+    That speak him full of grace.

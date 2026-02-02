@@ -1,16 +1,25 @@
-MESSENGER. Bless you, fair dame! I am not to you known,
-    Though in your state of honor I am perfect.
-    I doubt some danger does approach you nearly.
-    If you will take a homely man's advice,
-    Be not found here; hence, with your little ones.
-    To fright you thus, methinks I am too savage;
-    To do worse to you were fell cruelty,
-    Which is too nigh your person. Heaven preserve you!
-    I dare abide no longer.                                Exit.
-  LADY MACDUFF. Whither should I fly?
-    I have done no harm. But I remember now
-    I am in this earthly world, where to do harm
-    Is often laudable, to do good sometime
-    Accounted dangerous folly. Why then, alas,
-    Do I put up that womanly defense,
-    To say I have done no harm -What are these faces?
+MACDUFF. Hail, King, for so thou art. Behold where stands
+    The usurper's cursed head. The time is free.
+    I see thee compass'd with thy kingdom's pearl
+    That speak my salutation in their minds,
+    Whose voices I desire aloud with mine-
+    Hail, King of Scotland!
+  ALL. Hail, King of Scotland!                         Flourish.
+  MALCOLM. We shall not spend a large expense of time
+    Before we reckon with your several loves
+    And make us even with you. My Thanes and kinsmen,
+    Henceforth be Earls, the first that ever Scotland
+    In such an honor named. What's more to do,
+    Which would be planted newly with the time,
+    As calling home our exiled friends abroad
+    That fled the snares of watchful tyranny,
+    Producing forth the cruel ministers
+    Of this dead butcher and his fiend-like queen,
+    Who, as 'tis thought, by self and violent hands
+    Took off her life; this, and what needful else
+    That calls upon us, by the grace of Grace
+    We will perform in measure, time, and place.
+    So thanks to all at once and to each one,
+    Whom we invite to see us crown'd at Scone.
+                                               Flourish. Exeunt.
+                 -THE END-

@@ -1,15 +1,14 @@
-Thy news?
-  MESSENGER. The citizens of Corioli have issued
-    And given to Lartius and to Marcius battle;
-    I saw our party to their trenches driven,
-    And then I came away.
-  COMINIUS. Though thou speak'st truth,
-    Methinks thou speak'st not well. How long is't since?
-  MESSENGER. Above an hour, my lord.
-  COMINIUS. 'Tis not a mile; briefly we heard their drums.
-    How couldst thou in a mile confound an hour,
-    And bring thy news so late?
-  MESSENGER. Spies of the Volsces
-    Held me in chase, that I was forc'd to wheel
-    Three or four miles about; else had I, sir,
-    Half an hour since brought my report.
+BRUTUS. What's the matter?
+  MESSENGER. You are sent for to the Capitol. 'Tis thought
+    That Marcius shall be consul.
+    I have seen the dumb men throng to see him and
+    The blind to hear him speak; matrons flung gloves,
+    Ladies and maids their scarfs and handkerchers,
+    Upon him as he pass'd; the nobles bended
+    As to Jove's statue, and the commons made
+    A shower and thunder with their caps and shouts.
+    I never saw the like.
+  BRUTUS. Let's to the Capitol,
+    And carry with us ears and eyes for th' time,
+    But hearts for the event.
+  SICINIUS. Have with you.                                Exeunt

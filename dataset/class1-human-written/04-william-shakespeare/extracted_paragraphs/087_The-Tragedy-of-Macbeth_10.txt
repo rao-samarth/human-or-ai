@@ -1,39 +1,21 @@
-Enter the three Witches.
-  FIRST WITCH. Thrice the brinded cat hath mew'd.
-  SECOND WITCH. Thrice and once the hedge-pig whined.
-  THIRD WITCH. Harpier cries, "'Tis time, 'tis time."
-  FIRST WITCH. Round about the cauldron go;
-    In the poison'd entrails throw.
-    Toad, that under cold stone
-    Days and nights has thirty-one
-    Swelter'd venom sleeping got,
-    Boil thou first i' the charmed pot.
-  ALL. Double, double, toil and trouble;
-    Fire burn and cauldron bubble.
-  SECOND WITCH. Fillet of a fenny snake,
-    In the cauldron boil and bake;
-    Eye of newt and toe of frog,
-    Wool of bat and tongue of dog,
-    Adder's fork and blind-worm's sting,
-    Lizard's leg and howlet's wing,
-    For a charm of powerful trouble,
-    Like a hell-broth boil and bubble.
-  ALL. Double, double, toil and trouble;
-    Fire burn and cauldron bubble.
-  THIRD WITCH. Scale of dragon, tooth of wolf,
-    Witch's mummy, maw and gulf
-    Of the ravin'd salt-sea shark,
-    Root of hemlock digg'd i' the dark,
-    Liver of blaspheming Jew,
-    Gall of goat and slips of yew
-    Sliver'd in the moon's eclipse,
-    Nose of Turk and Tartar's lips,
-    Finger of birth-strangled babe
-    Ditch-deliver'd by a drab,
-    Make the gruel thick and slab.
-    Add thereto a tiger's chawdron,
-    For the ingredients of our cawdron.
-  ALL. Double, double, toil and trouble;
-    Fire burn and cauldron bubble.
-  SECOND WITCH. Cool it with a baboon's blood,
-    Then the charm is firm and good.
+MACDUFF. O horror, horror, horror! Tongue nor heart
+    Cannot conceive nor name thee.
+  MACBETH. LENNOX. What's the matter?
+  MACDUFF. Confusion now hath made his masterpiece.
+    Most sacrilegious murther hath broke ope
+    The Lord's anointed temple and stole thence
+    The life o' the building.
+  MACBETH. What is't you say? the life?
+  LENNOX. Mean you his Majesty?
+  MACDUFF. Approach the chamber, and destroy your sight
+    With a new Gorgon. Do not bid me speak;
+    See, and then speak yourselves.
+                                      Exeunt Macbeth and Lennox.
+    Awake, awake!
+    Ring the alarum bell. Murther and treason!
+    Banquo and Donalbain! Malcolm, awake!
+    Shake off this downy sleep, death's counterfeit,
+    And look on death itself! Up, up, and see
+    The great doom's image! Malcolm! Banquo!
+    As from your graves rise up, and walk like sprites
+    To countenance this horror! Ring the bell.       Bell rings.

@@ -1,16 +1,16 @@
-LADY MACBETH. That which hath made them drunk hath made me
-bold;
-    What hath quench'd them hath given me fire. Hark! Peace!
-    It was the owl that shriek'd, the fatal bellman,
-    Which gives the stern'st good night. He is about it:
-    The doors are open, and the surfeited grooms
-    Do mock their charge with snores. I have drugg'd their
-possets
-    That death and nature do contend about them,
-    Whether they live or die.
-  MACBETH. [Within.] Who's there' what, ho!
-  LADY MACBETH. Alack, I am afraid they have awaked
-    And 'tis not done. The attempt and not the deed
-    Confounds us. Hark! I laid their daggers ready;
-    He could not miss 'em. Had he not resembled
-    My father as he slept, I had done't.
+Glamis thou art, and Cawdor, and shalt be
+    What thou art promised. Yet do I fear thy nature.
+    It is too full o' the milk of human kindness
+    To catch the nearest way. Thou wouldst be great;
+    Art not without ambition, but without
+    The illness should attend it. What thou wouldst highly,
+    That wouldst thou holily; wouldst not play false,
+    And yet wouldst wrongly win. Thou'ldst have, great Glamis,
+    That which cries, "Thus thou must do, if thou have it;
+    And that which rather thou dost fear to do
+    Than wishest should be undone." Hie thee hither,
+    That I may pour my spirits in thine ear,
+    And chastise with the valor of my tongue
+    All that impedes thee from the golden round,
+    Which fate and metaphysical aid doth seem
+    To have thee crown'd withal.

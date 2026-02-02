@@ -1,22 +1,15 @@
-GENTLEWOMAN. Madam, the Lady Valeria is come to visit you.
-  VIRGILIA. Beseech you give me leave to retire myself.
-  VOLUMNIA. Indeed you shall not.
-    Methinks I hear hither your husband's drum;
-    See him pluck Aufidius down by th' hair;
-    As children from a bear, the Volsces shunning him.
-    Methinks I see him stamp thus, and call thus:
-    'Come on, you cowards! You were got in fear,
-    Though you were born in Rome.' His bloody brow
-    With his mail'd hand then wiping, forth he goes,
-    Like to a harvest-man that's task'd to mow
-    Or all or lose his hire.
-  VIRGILIA. His bloody brow? O Jupiter, no blood!
-  VOLUMNIA. Away, you fool! It more becomes a man
-    Than gilt his trophy. The breasts of Hecuba,
-    When she did suckle Hector, look'd not lovelier
-    Than Hector's forehead when it spit forth blood
-    At Grecian sword, contemning. Tell Valeria
-    We are fit to bid her welcome.              Exit GENTLEWOMAN
-  VIRGILIA. Heavens bless my lord from fell Aufidius!
-  VOLUMNIA. He'll beat Aufidius' head below his knee
-    And tread upon his neck.
+Thy news?
+  MESSENGER. The citizens of Corioli have issued
+    And given to Lartius and to Marcius battle;
+    I saw our party to their trenches driven,
+    And then I came away.
+  COMINIUS. Though thou speak'st truth,
+    Methinks thou speak'st not well. How long is't since?
+  MESSENGER. Above an hour, my lord.
+  COMINIUS. 'Tis not a mile; briefly we heard their drums.
+    How couldst thou in a mile confound an hour,
+    And bring thy news so late?
+  MESSENGER. Spies of the Volsces
+    Held me in chase, that I was forc'd to wheel
+    Three or four miles about; else had I, sir,
+    Half an hour since brought my report.

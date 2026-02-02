@@ -1,15 +1,25 @@
-Thy news?
-  MESSENGER. The citizens of Corioli have issued
-    And given to Lartius and to Marcius battle;
-    I saw our party to their trenches driven,
-    And then I came away.
-  COMINIUS. Though thou speak'st truth,
-    Methinks thou speak'st not well. How long is't since?
-  MESSENGER. Above an hour, my lord.
-  COMINIUS. 'Tis not a mile; briefly we heard their drums.
-    How couldst thou in a mile confound an hour,
-    And bring thy news so late?
-  MESSENGER. Spies of the Volsces
-    Held me in chase, that I was forc'd to wheel
-    Three or four miles about; else had I, sir,
-    Half an hour since brought my report.
+AEDILE. Worthy tribunes,
+    There is a slave, whom we have put in prison,
+    Reports the Volsces with several powers
+    Are ent'red in the Roman territories,
+    And with the deepest malice of the war
+    Destroy what lies before 'em.
+  MENENIUS. 'Tis Aufidius,
+    Who, hearing of our Marcius' banishment,
+    Thrusts forth his horns again into the world,
+    Which were inshell'd when Marcius stood for Rome,
+    And durst not once peep out.
+  SICINIUS. Come, what talk you of Marcius?
+  BRUTUS. Go see this rumourer whipp'd. It cannot be
+    The Volsces dare break with us.
+  MENENIUS. Cannot be!
+    We have record that very well it can;
+    And three examples of the like hath been
+    Within my age. But reason with the fellow
+    Before you punish him, where he heard this,
+    Lest you shall chance to whip your information
+    And beat the messenger who bids beware
+    Of what is to be dreaded.
+  SICINIUS. Tell not me.
+    I know this cannot be.
+  BRUTUS. Not Possible.

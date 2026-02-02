@@ -1,13 +1,13 @@
-Enter AENEAS
-  AENEAS. Good morrow, lord, good morrow.
-  PANDARUS. Who's there? My lord Aeneas? By my troth,
-    I knew you not. What news with you so early?
-  AENEAS. Is not Prince Troilus here?
-  PANDARUS. Here! What should he do here?
-  AENEAS. Come, he is here, my lord; do not deny him.
-    It doth import him much to speak with me.
-  PANDARUS. Is he here, say you? It's more than I know, I'll be
-    sworn. For my own part, I came in late. What should he do here?
-  AENEAS. Who!-nay, then. Come, come, you'll do him wrong ere you are
-    ware; you'll be so true to him to be false to him. Do not you
-    know of him, but yet go fetch him hither; go.
+ULYSSES. O, courage, courage, courage, Princes! Great
+    Achilles Is arming, weeping, cursing, vowing vengeance.
+    Patroclus' wounds have rous'd his drowsy blood,
+    Together with his mangled Myrmidons,
+    That noseless, handless, hack'd and chipp'd, come to
+    him, Crying on Hector. Ajax hath lost a friend
+    And foams at mouth, and he is arm'd and at it,
+    Roaring for Troilus; who hath done to-day
+    Mad and fantastic execution,
+    Engaging and redeeming of himself
+    With such a careless force and forceless care
+    As if that luck, in very spite of cunning,
+    Bade him win all.

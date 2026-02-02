@@ -1,12 +1,25 @@
-PANDARUS. Where? yonder? That's Deiphobus. 'Tis Troilus. There's a
-    man, niece. Hem! Brave Troilus, the prince of chivalry!
-  CRESSIDA. Peace, for shame, peace!
-  PANDARUS. Mark him; note him. O brave Troilus! Look well upon him,
-    niece; look you how his sword is bloodied, and his helm more
-    hack'd than Hector's; and how he looks, and how he goes! O
-    admirable youth! he never saw three and twenty. Go thy way,
-    Troilus, go thy way. Had I a sister were a grace or a daughter a
-    goddess, he should take his choice. O admirable man! Paris? Paris
-    is dirt to him; and, I warrant, Helen, to change, would give an
-    eye to boot.
-  CRESSIDA. Here comes more.
+PANDARUS. O, here he comes. How now, how now!
+  TROILUS. Sirrah, walk off.                  Exit Boy
+  PANDARUS. Have you seen my cousin?
+  TROILUS. No, Pandarus. I stalk about her door
+    Like a strange soul upon the Stygian banks
+    Staying for waftage. O, be thou my Charon,
+    And give me swift transportance to these fields
+    Where I may wallow in the lily beds
+    Propos'd for the deserver! O gentle Pandar,
+    From Cupid's shoulder pluck his painted wings,
+    And fly with me to Cressid!
+  PANDARUS. Walk here i' th' orchard, I'll bring her straight.
+      Exit
+  TROILUS. I am giddy; expectation whirls me round.
+    Th' imaginary relish is so sweet
+    That it enchants my sense; what will it be
+    When that the wat'ry palate tastes indeed
+    Love's thrice-repured nectar? Death, I fear me;
+    Swooning destruction; or some joy too fine,
+    Too subtle-potent, tun'd too sharp in sweetness,
+    For the capacity of my ruder powers.
+    I fear it much; and I do fear besides
+    That I shall lose distinction in my joys;
+    As doth a battle, when they charge on heaps
+    The enemy flying.

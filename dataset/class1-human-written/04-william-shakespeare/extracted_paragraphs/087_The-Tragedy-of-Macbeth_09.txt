@@ -1,20 +1,28 @@
-FIRST MURTHERER. But who did bid thee join with us?
-  THIRD MURTHERER. Macbeth.
-  SECOND MURTHERER. He needs not our mistrust, since he delivers
-    Our offices and what we have to do
-    To the direction just.
-  FIRST MURTHERER. Then stand with us.
-    The west yet glimmers with some streaks of day;
-    Now spurs the lated traveler apace
-    To gain the timely inn, and near approaches
-    The subject of our watch.
-  THIRD MURTHERER. Hark! I hear horses.
-  BANQUO. [Within.] Give us a light there, ho!
-  SECOND MURTHERER. Then 'tis he; the rest
-    That are within the note of expectation
-    Already are i' the court.
-  FIRST MURTHERER. His horses go about.
-  THIRD MURTHERER. Almost a mile, but he does usually-
-    So all men do -from hence to the palace gate
-    Make it their walk.
-  SECOND MURTHERER. A light, a light!
+MALCOLM The worthy Thane of Ross.
+  LENNOX. What a haste looks through his eyes! So should he look
+    That seems to speak things strange.
+  ROSS. God save the King!
+  DUNCAN. Whence camest thou, worthy Thane?
+  ROSS. From Fife, great King,
+    Where the Norweyan banners flout the sky
+    And fan our people cold.
+    Norway himself, with terrible numbers,
+    Assisted by that most disloyal traitor
+    The Thane of Cawdor, began a dismal conflict,
+    Till that Bellona's bridegroom, lapp'd in proof,
+    Confronted him with self-comparisons,
+    Point against point rebellious, arm 'gainst arm,
+    Curbing his lavish spirit; and, to conclude,
+    The victory fell on us.
+  DUNCAN. Great happiness!
+  ROSS. That now
+    Sweno, the Norways' king, craves composition;
+    Nor would we deign him burial of his men
+    Till he disbursed, at Saint Colme's Inch,
+    Ten thousand dollars to our general use.
+  DUNCAN. No more that Thane of Cawdor shall deceive
+    Our bosom interest. Go pronounce his present death,
+    And with his former title greet Macbeth.
+  ROSS. I'll see it done.
+  DUNCAN. What he hath lost, noble Macbeth hath won.
+                                                         Exeunt.

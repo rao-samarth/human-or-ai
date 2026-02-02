@@ -1,29 +1,24 @@
-BISHOP OF ELY. In happy time, here comes the Duke himself.
-  GLOUCESTER. My noble lords and cousins all, good morrow.
-    I have been long a sleeper, but I trust
-    My absence doth neglect no great design
-    Which by my presence might have been concluded.
-  BUCKINGHAM. Had you not come upon your cue, my lord,
-  WILLIAM Lord Hastings had pronounc'd your part-
-    I mean, your voice for crowning of the King.
-  GLOUCESTER. Than my Lord Hastings no man might be
-    bolder;
-    His lordship knows me well and loves me well.
-    My lord of Ely, when I was last in Holborn
-    I saw good strawberries in your garden there.
-    I do beseech you send for some of them.
-  BISHOP of ELY. Marry and will, my lord, with all my heart.
- Exit
-  GLOUCESTER. Cousin of Buckingham, a word with you.
-                                               [Takes him aside]
-    Catesby hath sounded Hastings in our business,
-    And finds the testy gentleman so hot
-    That he will lose his head ere give consent
-    His master's child, as worshipfully he terms it,
-    Shall lose the royalty of England's throne.
-  BUCKINGHAM. Withdraw yourself awhile; I'll go with you.
-                                Exeunt GLOUCESTER and BUCKINGHAM
-  DERBY. We have not yet set down this day of triumph.
-    To-morrow, in my judgment, is too sudden;
-    For I myself am not so well provided
-    As else I would be, were the day prolong'd.
+And here he comes. All health, my sovereign lord!
+  KING RICHARD. Kind Tyrrel, am I happy in thy news?
+  TYRREL. If to have done the thing you gave in charge
+    Beget your happiness, be happy then,
+    For it is done.
+  KING RICHARD. But didst thou see them dead?
+  TYRREL. I did, my lord.
+  KING RICHARD. And buried, gentle Tyrrel?
+  TYRREL. The chaplain of the Tower hath buried them;
+    But where, to say the truth, I do not know.
+  KING RICHARD. Come to me, Tyrrel, soon at after supper,
+    When thou shalt tell the process of their death.
+    Meantime, but think how I may do thee good
+    And be inheritor of thy desire.
+    Farewell till then.
+  TYRREL. I humbly take my leave.                           Exit
+  KING RICHARD. The son of Clarence have I pent up close;
+    His daughter meanly have I match'd in marriage;
+    The sons of Edward sleep in Abraham's bosom,
+    And Anne my wife hath bid this world good night.
+    Now, for I know the Britaine Richmond aims
+    At young Elizabeth, my brother's daughter,
+    And by that knot looks proudly on the crown,
+    To her go I, a jolly thriving wooer.

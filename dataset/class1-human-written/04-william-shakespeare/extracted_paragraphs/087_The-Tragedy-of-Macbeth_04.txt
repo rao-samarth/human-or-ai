@@ -1,24 +1,30 @@
-Great Glamis! Worthy Cawdor!
-    Greater than both, by the all-hail hereafter!
-    Thy letters have transported me beyond
-    This ignorant present, and I feel now
-    The future in the instant.
-  MACBETH. My dearest love,
-    Duncan comes here tonight.
-  LADY MACBETH. And when goes hence?
-  MACBETH. Tomorrow, as he purposes.
-  LADY MACBETH. O, never
-    Shall sun that morrow see!
-    Your face, my Thane, is as a book where men
-    May read strange matters. To beguile the time,
-    Look like the time; bear welcome in your eye,
-    Your hand, your tongue; look like the innocent flower,
-    But be the serpent under it. He that's coming
-    Must be provided for; and you shall put
-    This night's great business into my dispatch,
-    Which shall to all our nights and days to come
-    Give solely sovereign sway and masterdom.
-  MACBETH. We will speak further.
-  LADY MACBETH. Only look up clear;
-    To alter favor ever is to fear.
-    Leave all the rest to me.                            Exeunt.
+DUNCAN, King of Scotland
+  MACBETH, Thane of Glamis and Cawdor, a general in the King's
+army
+  LADY MACBETH, his wife
+  MACDUFF, Thane of Fife, a nobleman of Scotland
+  LADY MACDUFF, his wife
+  MALCOLM, elder son of Duncan
+  DONALBAIN, younger son of Duncan
+  BANQUO, Thane of Lochaber, a general in the King's army
+  FLEANCE, his son
+  LENNOX, nobleman of Scotland
+  ROSS, nobleman of Scotland
+  MENTEITH nobleman of Scotland
+  ANGUS, nobleman of Scotland
+  CAITHNESS, nobleman of Scotland
+  SIWARD, Earl of Northumberland, general of the English forces
+  YOUNG SIWARD, his son
+  SEYTON, attendant to Macbeth
+  HECATE, Queen of the Witches
+  The Three Witches
+  Boy, Son of Macduff
+  Gentlewoman attending on Lady Macbeth
+  An English Doctor
+  A Scottish Doctor
+  A Sergeant
+  A Porter
+  An Old Man
+  The Ghost of Banquo and other Apparitions
+  Lords, Gentlemen, Officers, Soldiers, Murtherers, Attendants,
+     and Messengers

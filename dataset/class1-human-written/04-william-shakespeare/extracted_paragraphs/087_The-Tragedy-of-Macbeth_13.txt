@@ -1,25 +1,24 @@
-LENNOX. What's your Grace's will?
-  MACBETH. Saw you the weird sisters?
-  LENNOX. No, my lord.
-  MACBETH. Came they not by you?
-  LENNOX. No indeed, my lord.
-  MACBETH. Infected be the 'air whereon they ride,
-    And damn'd all those that trust them! I did hear
-    The galloping of horse. Who wast came by?
-  LENNOX. 'Tis two or three, my lord, that bring you word
-    Macduff is fled to England.
-  MACBETH. Fled to England?
-  LENNOX. Ay, my good lord.
-  MACBETH. [Aside.] Time, thou anticipatest my dread exploits.
-    The flighty purpose never is o'ertook
-    Unless the deed go with it. From this moment
-    The very firstlings of my heart shall be
-    The firstlings of my hand. And even now,
-    To crown my thoughts with acts, be it thought and done:
-    The castle of Macduff I will surprise,
-    Seize upon Fife, give to the edge o' the sword
-    His wife, his babes, and all unfortunate souls
-    That trace him in his line. No boasting like a fool;
-    This deed I'll do before this purpose cool.
-    But no more sights! -Where are these gentlemen?
-    Come, bring me where they are.                       Exeunt.
+MALCOLM. I would the friends we miss were safe arrived.
+  SIWARD. Some must go off, and yet, by these I see,
+    So great a day as this is cheaply bought.
+  MALCOLM. Macduff is missing, and your noble son.
+  ROSS. Your son, my lord, has paid a soldier's debt.
+    He only lived but till he was a man,
+    The which no sooner had his prowess confirm'd
+    In the unshrinking station where he fought,
+    But like a man he died.
+  SIWARD. Then he is dead?
+  ROSS. Ay, and brought off the field. Your cause of sorrow
+    Must not be measured by his worth, for then
+    It hath no end.
+  SIWARD. Had he his hurts before?
+  ROSS. Ay, on the front.
+  SIWARD. Why then, God's soldier be he!
+    Had I as many sons as I have hairs,
+    I would not wish them to a fairer death.
+    And so his knell is knoll'd.
+  MALCOLM. He's worth more sorrow,
+    And that I'll spend for him.
+  SIWARD. He's worth no more:
+    They say he parted well and paid his score,
+    And so God be with him! Here comes newer comfort.

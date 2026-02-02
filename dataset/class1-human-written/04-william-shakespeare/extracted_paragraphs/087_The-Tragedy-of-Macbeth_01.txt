@@ -1,37 +1,22 @@
-FIRST WITCH. Where hast thou been, sister?
-  SECOND WITCH. Killing swine.
-  THIRD WITCH. Sister, where thou?
-  FIRST WITCH. A sailor's wife had chestnuts in her lap,
-    And mounch'd, and mounch'd, and mounch'd. "Give me," quoth I.
-    "Aroint thee, witch!" the rump-fed ronyon cries.
-    Her husband's to Aleppo gone, master the Tiger;
-    But in a sieve I'll thither sail,
-    And, like a rat without a tail,
-    I'll do, I'll do, and I'll do.
-  SECOND WITCH. I'll give thee a wind.
-  FIRST WITCH. Thou'rt kind.
-  THIRD WITCH. And I another.
-  FIRST WITCH. I myself have all the other,
-    And the very ports they blow,
-    All the quarters that they know
-    I' the shipman's card.
-    I will drain him dry as hay:
-    Sleep shall neither night nor day
-    Hang upon his penthouse lid;
-    He shall live a man forbid.
-    Weary se'nnights nine times nine
-    Shall he dwindle, peak, and pine;
-    Though his bark cannot be lost,
-    Yet it shall be tempest-toss'd.
-    Look what I have.
-  SECOND WITCH. Show me, show me.
-  FIRST WITCH. Here I have a pilot's thumb,
-    Wreck'd as homeward he did come.                Drum within.
-  THIRD WITCH. A drum, a drum!
-    Macbeth doth come.
-  ALL. The weird sisters, hand in hand,
-    Posters of the sea and land,
-    Thus do go about, about,
-    Thrice to thine, and thrice to mine,
-    And thrice again, to make up nine.
-    Peace! The charm's wound up.
+The devil damn thee black, thou cream-faced loon!
+    Where got'st thou that goose look?
+  SERVANT. There is ten thousand-
+  MACBETH. Geese, villain?
+  SERVANT. Soldiers, sir.
+  MACBETH. Go prick thy face and over-red thy fear,
+    Thou lily-liver'd boy. What soldiers, patch?
+    Death of thy soul! Those linen cheeks of thine
+    Are counselors to fear. What soldiers, whey-face?
+  SERVANT. The English force, so please you.
+  MACBETH. Take thy face hence.                    Exit Servant.
+    Seyton-I am sick at heart,
+    When I behold- Seyton, I say!- This push
+    Will cheer me ever or disseat me now.
+    I have lived long enough. My way of life
+    Is fall'n into the sear, the yellow leaf,
+    And that which should accompany old age,
+    As honor, love, obedience, troops of friends,
+    I must not look to have; but in their stead,
+    Curses, not loud but deep, mouth-honor, breath,
+    Which the poor heart would fain deny and dare not.
+    Seyton!

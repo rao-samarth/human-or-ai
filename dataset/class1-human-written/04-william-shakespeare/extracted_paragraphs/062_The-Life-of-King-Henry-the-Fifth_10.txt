@@ -1,30 +1,24 @@
-PISTOL. Qui va la?
-  KING HENRY. A friend.
-  PISTOL. Discuss unto me: art thou officer,
-    Or art thou base, common, and popular?
-  KING HENRY. I am a gentleman of a company.
-  PISTOL. Trail'st thou the puissant pike?
-  KING HENRY. Even so. What are you?
-  PISTOL. As good a gentleman as the Emperor.
-  KING HENRY. Then you are a better than the King.
-  PISTOL. The King's a bawcock and a heart of gold,
-    A lad of life, an imp of fame;
-    Of parents good, of fist most valiant.
-    I kiss his dirty shoe, and from heart-string
-    I love the lovely bully. What is thy name?
-  KING HENRY. Harry le Roy.
-  PISTOL. Le Roy! a Cornish name; art thou of Cornish crew?
-  KING HENRY. No, I am a Welshman.
-  PISTOL. Know'st thou Fluellen?
-  KING HENRY. Yes.
-  PISTOL. Tell him I'll knock his leek about his pate
-    Upon Saint Davy's day.
-  KING HENRY. Do not you wear your dagger in your cap that day,
-lest
-    he knock that about yours.
-  PISTOL. Art thou his friend?
-  KING HENRY. And his kinsman too.
-  PISTOL. The figo for thee, then!
-  KING HENRY. I thank you; God be with you!
-  PISTOL. My name is Pistol call'd.                         Exit
-  KING HENRY. It sorts well with your fierceness.
+MESSENGER. The English are embattl'd, you French peers.
+  CONSTABLE. To horse, you gallant Princes! straight to horse!
+    Do but behold yon poor and starved band,
+    And your fair show shall suck away their souls,
+    Leaving them but the shales and husks of men.
+    There is not work enough for all our hands;
+    Scarce blood enough in all their sickly veins
+    To give each naked curtle-axe a stain
+    That our French gallants shall to-day draw out,
+    And sheathe for lack of sport. Let us but blow on them,
+    The vapour of our valour will o'erturn them.
+    'Tis positive 'gainst all exceptions, lords,
+    That our superfluous lackeys and our peasants-
+    Who in unnecessary action swarm
+    About our squares of battle- were enow
+    To purge this field of, such a hilding foe;
+    Though we upon this mountain's basis by
+    Took stand for idle speculation-
+    But that our honours must not. What's to say?
+    A very little little let us do,
+    And all is done. Then let the trumpets sound
+    The tucket sonance and the note to mount;
+    For our approach shall so much dare the field
+    That England shall couch down in fear and yield.
