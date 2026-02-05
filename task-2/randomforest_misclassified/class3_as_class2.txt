@@ -1,0 +1,141 @@
+================================================================================
+Class 3 (AI-mimicry) misclassified as Class 2 (AI)
+Total: 17 files
+================================================================================
+
+--------------------------------------------------------------------------------
+File: WODE_William-Tell-Told-Again_T01_02.txt
+Actual: Class 3: AI-mimicry
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+It was well past the hour when respectable owls knock off for the night, and yet here we were, young Biffy and I, huddled over the plans like a pair of conspirators in a tuppenny dreadful. The opposition, in the shape of Sir Roderick Finch, a man whose heart was constructed from the same sort of flinty material he intended to pave our village green with, had seemed a dashedly immovable object. For a week, gloom had descended upon the cottage. But then Biffy, after a thoughtful moment with his third crumpet, had produced this absolute corker of a scheme. It was a thing of beautiful, intricate madness, hinging on a misdirected flock of prize-winning geese and an anonymous tip-off to the local bird-watching society. As he sketched the final details, a warm glow began to suffuse the old spirit. One felt, with a surging certainty, that while chaps like Finch might have the big battalions on their side, we had the element of inspired lunacy, and in these sorts of dust-ups, that’s what invariably carries the day.
+
+
+--------------------------------------------------------------------------------
+File: SHAKE_The-TempestThe-Works-of-William-Shakespeare-[Cambridge-Edition]-[9-vols]_T03_02.txt
+Actual: Class 3: AI-mimicry
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+I sit within this small demesne, its stone embrace a gentle warden. Beyond, the wild heath stretches forth, a boundless sea of green and gold, inviting the soul to wander without let or hindrance. A fool might call this garden a gaol and that wild land true liberty; for what man doth not yearn to cast off his fetters and run where he will, with only the heavens for his roof? Yet I have seen the lone hare hunted on that plain, and the winter winds show no mercy to the unsheltered tree. Here, within these very walls some name a prison, the tender rose is shielded from the blast. Is the soaring hawk, then, more truly free, that must forever seek its supper and fear the coming storm, than the penned sheep that knows not the wolf’s tooth? Thus do we oft mistake the nature of our bonds, and see a cage where we have built a sanctuary.
+
+
+--------------------------------------------------------------------------------
+File: WODE_The-Prince-and-Betty_T01_01.txt
+Actual: Class 3: AI-mimicry
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+So that’s what you truly think of me, is it? That I am merely some sort of calculating machine in a fetching frock, ticking off the assets on a ledger while your uncle recites his perfectly ghastly sonnets. It’s a low blow, frankly, and a rummy sort of welcome to the family. I had rather imagined you saw something more in the arrangement—a flicker of warmth, perhaps, a modicum of honest-to-goodness fondness for the old dear—but I see now that was a dashed silly notion. You look at me and all you can see is the glint of the family silver reflected in my eyes, a walking balance sheet with an excellent dress sense. It isn’t the trust fund you mind, is it? It’s the appalling, unbelievable notion that someone could actually *care* for the man, saxophone and all, without a single thought for the consolidated stocks and shares. Well, it stings, you know. It stings like the very deuce.
+
+
+--------------------------------------------------------------------------------
+File: SHAKE_The-Tragedy-of-Macbeth_T02_02.txt
+Actual: Class 3: AI-mimicry
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+The road doth cleave itself in twain, a serpent’s forked tongue laid upon the dust, and I am brought to a sudden halt, a man betwixt two futures. A crone in the last village spake of ruin should I take this leftward path, a doom she read in shifting smoke and brittle bone. Yet my very soul, a mutinous captain warring with my reason, cries out for that shadowed lane, for duty calls me there to face a sworn foe. Is this my moment, then, to fashion my own end, or is the choosing but a player's scene, its final line already writ by some unseen hand? To turn my horse toward the sunlit hill is wisdom, and the long life promised me. But what is life, if I must live a coward, haunted by the ghost of an oath unkept? Nay, I shall spur my steed into the gloom, and by that very act decide if I am master of my days, or but the fool preordained.
+
+
+--------------------------------------------------------------------------------
+File: DOYLE_Sign_of_Four_T02_01.txt
+Actual: Class 3: AI-mimicry
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+The thing was done, and with a terrible swiftness that left the quiet country lane stunned into a deeper silence. What had begun as a grievous slight in some foreign port, a matter of honour lost and pride wounded, had found its final, bloody period here, amongst the sleeping hedgerows. For years, I knew, the man had hunted his quarry, a single-minded pursuit that had consumed his fortune and his soul, reducing a once-noble character to a mere instrument of retribution. He had followed his foe from sun-scorched cities to these green and pleasant lands, all for this one, singular moment. And now? He stood over the still form, the pistol smoking in his hand, a man whose life’s great engine had at last run down. He had achieved his aim, yet in his eyes I saw not the satisfaction of justice, but the vacant horror of a man who, in destroying his enemy, had utterly annihilated himself.
+
+
+--------------------------------------------------------------------------------
+File: SHAKE_Othello-the-Moor-of-Venice_T04_01.txt
+Actual: Class 3: AI-mimicry
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+My Dearest Cousin, I write to you from these quiet fields, where the loudest sound is but the breeze that troubles the barley. Yet even here, my mind finds no true peace, for I have been lately taught a most bitter lesson on that which men call their good name. This cherished prize, which a man may spend a lifetime in honest labour to fashion, is a thing of such brittle and glassy substance that a single stone of calumny, idly cast by some malicious hand, may shatter it beyond all hope of repair. A whispered lie, cousin, hath more wicked potency than a thousand righteous deeds, for it travels on the wind and lodges in the ear of any fool who will give it shelter. Once this poison takes root, it doth blacken the very soul of a man's report, leaving a stain that no passage of time nor earnest protestation of innocence can ever hope to scour away. Beware the praise of the crowd, for their cheers turn to curses with the turning of the tide.
+
+
+--------------------------------------------------------------------------------
+File: SHAKE_The-Life-of-King-Henry-V_T04_01.txt
+Actual: Class 3: AI-mimicry
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+A sheep, Lord Pembroke? Hath some strange fever addled thy wits, that thou shouldst wish to make our new standard the very symbol of a fool's flock? By what mad reckoning shall we hoist a banner that proclaims our chiefest virtues to be timidity and an abundance of wool? Our foes would not tremble; nay, they would fetch their carving knives and think on mutton! We are a people forged in fire, of spirit—a lion, sir, a roaring, golden lion must be our emblem, to show a heart of such courage that none dare question it. Almeric scoffed, waving a dismissive hand. "And be known as common brutes, whose only argument is a claw? Prithee, your lion starves when the hunt is poor. My sheep, good sir, provides for itself, clothes its masters, and through its gentle nature, fosters a land of quiet plenty. Tell me, which image better promises a lasting realm: a beast of ceaseless, hungry fury, or one of unassuming, bountiful strength?"
+
+
+--------------------------------------------------------------------------------
+File: WODE_The-Man-Upstairs-and-Other-Stories_T04_02.txt
+Actual: Class 3: AI-mimicry
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+He sat alone in the library as the clock on the mantelpiece ticked its way towards three, a singularly mournful hour. The whole intricate stratagem, which had seemed so fiendishly sound when he’d first mapped it out on the back of a menu, now looked a bit thin in the cold light of hindsight. His feigned expertise in the migration patterns of the Lesser Spotted Gudgeon, a topic he’d swotted up at ruinous expense to his peace of mind, had precipitated not the melting glance he’d anticipated from Cynthia, but merely a polite, glassy stare. She had then changed the subject to rain. The entire enterprise, he reflected, stirring the dregs of a flat soda water, had been a wash-out from the start. A chap concocts these dashed complicated plans to demonstrate his worth, believing them to be the very pinnacle of romantic engineering, only to discover that the girl of his dreams thinks a gudgeon is a type of hat. It was enough to make a fellow give up altogether and take to bee-keeping.
+
+
+--------------------------------------------------------------------------------
+File: SHAKE_Henry-VIII_T03_01.txt
+Actual: Class 3: AI-mimicry
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+In the great square, where commerce and clamour make their daily war, a silence fell, for the magistrate's decree was to be read aloud. A thousand eyes, hungry for a villain's fall, fixed upon the wretched soul brought forth in chains; he, a simple carter accused of some grand theft, wore not the mien of a cunning rogue, but the bewildered look of a beast caught in a snare it cannot comprehend. The law, that great and heavy book, had been shut upon his fate, and the crowd did roar its satisfaction. Yet who amongst that baying throng, or on that gilded bench, could truly know the heart's own secret? They cheered the sentence, for it gave them comfort and a sense of order restored. But the scales, held by mortal hands, must ever tremble, and a pronouncement made with iron certainty is oft but fortune’s cruelest guess, writ down as truth for all the world to see.
+
+
+--------------------------------------------------------------------------------
+File: DOYLE_MSH_11_Naval_Treaty_T05_01.txt
+Actual: Class 3: AI-mimicry
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+I observed the junior clerk, Mr. Atherton, as the damning telegram was laid upon his desk. For a long, silent moment, he stared at the slip of paper, and I saw in the clenching of his jaw and the sudden pallor of his skin the clear signs of a spirit on the verge of utter ruin. His posture sagged, and his breathing grew shallow; the tempest of despair was gathering to break him. Yet, even as the first tremor of a sob shook his frame, he straightened his back. A new light, hard and analytical, entered his eyes. He took up his pen, not with a flourish of renewed hope, but with the grim, mechanical precision of a man who has set aside all sentiment. He began to calculate, to make notes upon a fresh sheet, his mind seizing upon the practical facts of his disaster. It was a singular display of the will, demonstrating how the disciplined intellect can, when all seems lost, erect a formidable bulwark against the surging tide of pure, unreasoning emotion.
+
+
+--------------------------------------------------------------------------------
+File: WODE_The-White-Feather_T02_02.txt
+Actual: Class 3: AI-mimicry
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+It's a dashed peculiar business, this whole matter of forming a sound judgment of one's fellow man. Take the cove I shared a railway carriage with from Paddington, a rather stout specimen with a tie that was, if not precisely singing in the choir, at least humming the tune respectably. For the first hour, I found him a thoroughly good sort, full of what seemed to be unimpeachable views on the proper way to treat a sprained ankle and the utter folly of the modern novel. A sound egg, I thought to myself. And then, just as we were rattling past Slough, he happened to mention in an off-hand way that he’d spent his formative years at Market Snodsbury Grammar. Well, I ask you. The whole structure of his reasoning immediately collapsed like a badly-made jelly. You can’t, you see, place any real stock in the opinions of a chap who hasn’t had the basic principles of life hammered into him at a proper institution; his entire mental outlook is bound to be wobbly.
+
+
+--------------------------------------------------------------------------------
+File: SHAKE_The-Two-Gentlemen-of-Verona_T03_02.txt
+Actual: Class 3: AI-mimicry
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+Here in the quiet of this meadow, where only the wind stands as witness to thy shame, I call thee to account. That thou, whose fealty I held more constant than the northern star itself, didst conspire with lesser lights to cast a shadow upon my name—'tis a wound most deep, a poison craftily administered in a cup of seeming friendship. The very air, which once did carry naught but our shared vows, now bears the sour echo of thy deceit. What defense canst thou offer for such a turning? None, I think, that would not further shame thy tongue. Yet look upon my face; see there no lasting tempest. My wrath, it seems, is but a fleeting vapour, for I find I cannot nurse a malice where love hath so long made its habitation. Go, thy trespass is forgot ere the sun hath set upon it; let us speak no more of this winter's chill, but look instead toward a greener spring.
+
+
+--------------------------------------------------------------------------------
+File: SHAKE_The-Tragedy-of-Macbeth_T04_01.txt
+Actual: Class 3: AI-mimicry
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+Pray, hear me, sir, for this hollow peace I wear is but a mask for a soul most grievously afflicted. That ledger I presented, which spoke of such fine profit from the northern shipment, was a lie; a cunning fiction painted with a careful quill to hide mine own costly error. Yet what advantage is there in a master’s praise when one’s own conscience proves a ceaseless inquisitor? Since that foul moment, sleep hath forsook my chamber, and every shadow in your office seems a pointing finger, every closing door the sound of my discovery. This secret, like a canker, gnaws within, turning my bread to ash and my labour to a pageant of deceit. I sought to cheat the reckoning, and in so doing have only made my own heart a prison. Therefore, pass what judgment you will, for any penance is a mercy next to the one I do inflict upon myself each waking hour.
+
+
+--------------------------------------------------------------------------------
+File: SHAKE_Shakespeares-Tragedy-of-Romeo-and-Juliet_T02_01.txt
+Actual: Class 3: AI-mimicry
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+You are a fool to strive so," the old man hissed, his voice a dry rustle in the candle's guttering light. "The path was forged when the first star was struck, and we do but walk it to its end. Whether you turn left or right, you shall find the same precipice awaiting you." The young lord slammed his fist upon the oaken table, making the parchments jump. "And you are a coward to yield so! If the heavens have plotted my demise, then they shall have a fight of it. This hand, this will, this very breath—they are mine, not some celestial puppet-master's to command. I would rather choose the abyss and leap into it, a king of my own small moment, than be led to a gentle slope by a destiny I did not author. Let the stars write what they will; I shall write my own last, bloody page.
+
+
+--------------------------------------------------------------------------------
+File: SHAKE_The-Tragedy-of-Julius-Caesar_T02_01.txt
+Actual: Class 3: AI-mimicry
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+Hark, my dear son, and look you upon this gathering, a kingdom built not with the sword but with good cheer. Many a man I have seen in my time, with eyes that burned for a higher seat, who thought to climb upon the backs of their fellows to grasp a barren sceptre. Yet what becomes of their hollow conquests? Their names fade like breath on a winter's morn. But see here the legacy that endures: the laughter of children, the loyalty of kin, the quiet peace of a house filled with love. Let this be the summit of your striving. For true wealth is not counted in coin nor measured in leagues of land, but is found in the steadfast hearts that surround you. A man whose greatest ambition is the happiness of his own hearth shall never know the poverty of a lonely throne.
+
+
+--------------------------------------------------------------------------------
+File: SHAKE_The-Tragedy-of-Julius-Caesar_T04_01.txt
+Actual: Class 3: AI-mimicry
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+The sun warms this old stone wall where I sit, and the clamour of the city's great men doth reach here only as a faint and distant hum. They say a man with a voice of honeyed thunder may sway a thousand souls at once, leading them with promises as bright and hollow as a bubble on the stream. Such a one might fashion a kingdom from the breath of his listeners, building high walls of fear and grand palaces of false hope. Yet I have watched the stubborn oak stand fast against the storm's loudest fury, and have seen the smallest flower find its own sure path to the light. So too, I hold, shall the simple, unadorned truth, which speaks not to the ear but to the very soul, at last outlive the grandest oration. For a man's own conscience, when he but attends to it in the quiet field of his heart, is a truer guide than any sovereign's gilded proclamation.
+
+
+--------------------------------------------------------------------------------
+File: WODE_The-White-Feather_T04_02.txt
+Actual: Class 3: AI-mimicry
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+It’s a rummy business, when you stop to ponder it—this whole affair of simply not giving up. I look at this rose garden now, a thing of beauty and a joy forever and all that sort of rot, and find it dashed difficult to reconcile with the chump who started it. That fellow, I recall, was more of an artist in the business of chucking in the towel; if a thing wasn't a breeze from the word go, he'd be off to the nearest hammock with a stiffish brandy. The early days here were a proper sticky wicket, all thorns and blighted buds, enough to make a chap question his fundamental sanity. Yet, somehow, I gritted the old teeth and ploughed on, day after bally day. And now, blow me down if I haven't become the sort of cove who knows his aphids from his elbow. A reformed character, what? Positively stalwart.
+
+

@@ -1,0 +1,584 @@
+================================================================================
+Class 1 (Human) misclassified as Class 2 (AI)
+Total: 30 files
+================================================================================
+
+--------------------------------------------------------------------------------
+File: 035_The-White-Feather_16.txt
+Actual: Class 1: Human-written
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+Sheen continued his visits to the "Blue Boar", but more because he
+shrank from telling Joe Bevan that all his trouble had been for
+nothing, than because he had any definite object in view. It was bitter
+to listen to the eulogies of the pugilist, when all the while he knew
+that, as far as any immediate results were concerned, it did not really
+matter whether he boxed well or feebly. Some day, perhaps, as Mr Bevan
+was fond of pointing out when he approached the subject of
+disadvantages of boxing, he might meet a hooligan when he was crossing
+a field with his sister; but he found that but small consolation. He
+was in the position of one who wants a small sum of ready money, and is
+told that, in a few years, he may come into a fortune. By the time he
+got a chance of proving himself a man with his hands, he would be an
+Old Wrykinian. He was leaving at the end of the summer term.
+
+--------------------------------------------------------------------------------
+File: 008_Love-Among-the-Chickens_12.txt
+Actual: Class 1: Human-written
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+I opened the envelope. No. Father's blessings were absent. The letter
+was in the third person. Professor Derrick begged to inform Mr. Garnet
+that, by defeating Mr. Saul Potter, he had qualified for the final
+round of the Combe Regis Golf Tournament, in which, he understood, Mr.
+Garnet was to be his opponent. If it would be convenient for Mr. Garnet
+to play off the match on the present afternoon, Professor Derrick would
+be obliged if he would be at the Club House at half-past two. If this
+hour and day were unsuitable, would he kindly arrange others. The
+bearer would wait.
+
+--------------------------------------------------------------------------------
+File: 026_The-Intrusion-of-Jimmy_02.txt
+Actual: Class 1: Human-written
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+Everybody in the room on this July night had come from the theater.
+Most of those present had been acting, but a certain number had been
+to the opening performance of the latest better-than-Raffles play.
+There had been something of a boom that season in dramas whose
+heroes appealed to the public more pleasantly across the footlights
+than they might have done in real life. In the play that had opened
+to-night, Arthur Mifflin, an exemplary young man off the stage, had
+been warmly applauded for a series of actions which, performed
+anywhere except in the theater, would certainly have debarred him
+from remaining a member of the Strollers' or any other club. In
+faultless evening dress, with a debonair smile on his face, he had
+broken open a safe, stolen bonds and jewelry to a large amount, and
+escaped without a blush of shame via the window. He had foiled a
+detective through four acts, and held up a band of pursuers with a
+revolver. A large audience had intimated complete approval
+throughout.
+
+--------------------------------------------------------------------------------
+File: 013_ASH_11_Beryl_Coronet_06.txt
+Actual: Class 1: Human-written
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+My friend rose lazily from his armchair and stood with his hands
+in the pockets of his dressing-gown, looking over my shoulder. It
+was a bright, crisp February morning, and the snow of the day
+before still lay deep upon the ground, shimmering brightly in the
+wintry sun. Down the centre of Baker Street it had been ploughed
+into a brown crumbly band by the traffic, but at either side and
+on the heaped-up edges of the foot-paths it still lay as white as
+when it fell. The grey pavement had been cleaned and scraped, but
+was still dangerously slippery, so that there were fewer
+passengers than usual. Indeed, from the direction of the
+Metropolitan Station no one was coming save the single gentleman
+whose eccentric conduct had drawn my attention.
+
+--------------------------------------------------------------------------------
+File: 036_Three-Men-and-a-Maid_01.txt
+Actual: Class 1: Human-written
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+Sam felt that fortune was playing into his hands. His four-days'
+acquaintance with the bard had been sufficient to show him that the man
+was there forty ways when it came to writing about love. You could open
+his collected works almost anywhere and shut your eyes and dab down
+your finger on some red-hot passage. A proposal of marriage is a thing
+which it is rather difficult to bring neatly into the ordinary run of
+conversation. It wants leading up to. But, if you once start reading
+poetry, especially Tennyson's, almost anything is apt to give you your
+cue. He bounded light-heartedly into the state-room, waking Eustace
+Hignett from an uneasy dose.
+
+--------------------------------------------------------------------------------
+File: 005_ASH_03_Case_Of_Identity_07.txt
+Actual: Class 1: Human-written
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+"Well, of course it was obvious from the first that this Mr.
+Hosmer Angel must have some strong object for his curious
+conduct, and it was equally clear that the only man who really
+profited by the incident, as far as we could see, was the
+stepfather. Then the fact that the two men were never together,
+but that the one always appeared when the other was away, was
+suggestive. So were the tinted spectacles and the curious voice,
+which both hinted at a disguise, as did the bushy whiskers. My
+suspicions were all confirmed by his peculiar action in
+typewriting his signature, which, of course, inferred that his
+handwriting was so familiar to her that she would recognise even
+the smallest sample of it. You see all these isolated facts,
+together with many minor ones, all pointed in the same
+direction."
+
+--------------------------------------------------------------------------------
+File: 034_RSH_06_Black_Peter_02.txt
+Actual: Class 1: Human-written
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+Holmes smiled and shook his head. "It seems to me to have only one
+drawback, Hopkins, and that is that it is intrinsically impossible. Have
+you tried to drive a harpoon through a body? No? Tut, tut my dear sir,
+you must really pay attention to these details. My friend Watson could
+tell you that I spent a whole morning in that exercise. It is no easy
+matter, and requires a strong and practised arm. But this blow was
+delivered with such violence that the head of the weapon sank deep
+into the wall. Do you imagine that this anaemic youth was capable of so
+frightful an assault? Is he the man who hobnobbed in rum and water with
+Black Peter in the dead of the night? Was it his profile that was seen
+on the blind two nights before? No, no, Hopkins, it is another and more
+formidable person for whom we must seek."
+
+--------------------------------------------------------------------------------
+File: 021_The-Gem-Collector_03.txt
+Actual: Class 1: Human-written
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+It was at dinner that Jimmy had his first chance of seeing the rope of
+pearls which had so stimulated the roving fancy of Spike Mullins. Lady
+Blunt sat almost opposite to him. Her dress was of unrelieved black,
+and formed a wonderfully effective foil to the gems. It was not a rope
+of pearls. It was a collar. Her neck was covered with them. There was
+something Oriental and barbaric in the overwhelming display of
+jewelry. And this suggestion of the East was emphasized by the
+wearer's regal carriage. Lady Blunt knew when she looked well. She did
+not hold herself like one apologizing for venturing to exist.
+
+--------------------------------------------------------------------------------
+File: 047_Following-the-Equator:-A-Journey-Around-the-World.-Part-4_06.txt
+Actual: Class 1: Human-written
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+January 4, 1898.   Christmas in Melbourne, New Year's Day in Adelaide,
+and saw most of the friends again in both places .  .  .  .  Lying here
+at anchor all day--Albany (King George's Sound), Western Australia.  It
+is a perfectly landlocked harbor, or roadstead--spacious to look at, but
+not deep water.  Desolate-looking rocks and scarred hills.  Plenty of
+ships arriving now, rushing to the new gold-fields.  The papers are full
+of wonderful tales of the sort always to be heard in connection with new
+gold diggings.  A sample: a youth staked out a claim and tried to sell
+half for L5; no takers; he stuck to it fourteen days, starving, then
+struck it rich and sold out for L10,000.  .  .  About sunset, strong
+breeze blowing, got up the anchor.  We were in a small deep puddle, with
+a narrow channel leading out of it, minutely buoyed, to the sea.
+
+--------------------------------------------------------------------------------
+File: 002_A-Prefect's-Uncle_07.txt
+Actual: Class 1: Human-written
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+With the arrival of the Deathless Author an unwelcome change came over
+the game. His cricket style resembled his literary style. Both were
+straightforward and vigorous. The first two balls he received from
+Gosling he drove hard past cover point to the ropes. Gosling, who had
+been bowling unchanged since the innings began, was naturally feeling a
+little tired. He was losing his length, and bowling more slowly than
+was his wont. Norris now gave him a rest for a few overs, Bruce going
+on with rather innocuous medium left-hand bowling. The professional
+continued to jog along slowly. The novelist hit. Everything seemed to
+come alike to him. Gosling resumed, but without effect, while at the
+other end bowler after bowler was tried. From a hundred and ten the
+score rose and rose, and still the two remained together. A hundred and
+ninety went up, and Norris in despair threw the ball to Marriott.
+
+--------------------------------------------------------------------------------
+File: 013_Psmith-in-the-City_07.txt
+Actual: Class 1: Human-written
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+'That's a sample of Rossiter,' he said. 'You'd think from the fuss he's
+made that the business of the place was at a standstill till we got to
+work. Perfect rot! There's never anything to do here till after lunch,
+except checking the stamps and petty cash, and I've done that ages ago.
+There are three letters. You may as well enter them. It all looks like
+work. But you'll find the best way is to wait till you get a couple of
+dozen or so, and then work them off in a batch. But if you see Rossiter
+about, then start stamping something or writing something, or he'll run
+you in for neglecting your job. He's a nut. I'm jolly glad I'm under
+old Waller now. He's the pick of the bunch. The other heads of
+departments are all nuts, and Bickersdyke's the nuttiest of the lot.
+Now, look here. This is all you've got to do. I'll just show you, and
+then you can manage for yourself. I shall have to be shunting off to my
+own work in a minute.'
+
+--------------------------------------------------------------------------------
+File: 029_The-Man-Upstairs-and-Other-Stories_07.txt
+Actual: Class 1: Human-written
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+The reaction would come with the end of the fight. Her private
+hostilities began when the firm's ceased. She became an ordinary
+individual again, and so did Joe. And to Joe, as an ordinary
+individual, she objected. There was an indefinable something in his
+manner which jarred on her. She came to the conclusion that it was
+principally his insufferable good-humour. If only he would lose his
+temper with her now and then, she felt he would be bearable. He lost it
+with others. Why not with her? Because, she told herself bitterly, he
+wanted to show her that she mattered so little to him that it was not
+worth while quarrelling with her; because he wanted to put her in the
+wrong, to be superior. She had a perfect right to hate a man who
+treated her in that way.
+
+--------------------------------------------------------------------------------
+File: 050_Following-the-Equator:-A-Journey-Around-the-World.-Part-7_07.txt
+Actual: Class 1: Human-written
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+After the seizure of the Transvaal and the suppression of the Boer
+government by England in 1877, the Boers fretted for three years, and
+made several appeals to England for a restoration of their liberties,
+but without result.  Then they gathered themselves together in a great
+mass-meeting at Krugersdorp, talked their troubles over, and resolved to
+fight for their deliverance from the British yoke.  (Krugersdorp--the
+place where the Boers interrupted the Jameson raid.)  The little handful
+of farmers rose against the strongest empire in the world.  They
+proclaimed martial law and the re-establishment of their Republic.  They
+organized their forces and sent them forward to intercept the British
+battalions. This, although Sir Garnet Wolseley had but lately made
+proclamation that "so long as the sun shone in the heavens," the
+Transvaal would be and remain English territory.  And also in spite of
+the fact that the commander of the 94th regiment--already on the march to
+suppress this rebellion--had been heard to say that "the Boers would turn
+tail at the first beat of the big drum."--["South Africa As It Is,"
+by F. Reginald Statham, page 82.  London: T.  Fisher Unwin, 1897.]
+
+--------------------------------------------------------------------------------
+File: 012_Piccadilly-Jim_16.txt
+Actual: Class 1: Human-written
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+To this remarkable metamorphosis in Mr. Peter Pett several causes
+had contributed. In the first place, the sudden dismissal of
+Jerry Mitchell had obliged him to go two days without the
+physical exercises to which his system had become accustomed, and
+this had produced a heavy, irritable condition of body and mind.
+He had brooded on the injustice of his lot until he had almost
+worked himself up to rebellion. And then, as sometimes happened
+with him when he was out of sorts, a touch of gout came to add to
+his troubles. Being a patient man by nature, he might have borne
+up against these trials, had he been granted an adequate night's
+rest. But, just as he had dropped off after tossing restlessly
+for two hours, things had begun to happen noisily in the library.
+He awoke to a vague realisation of tumult below.
+
+--------------------------------------------------------------------------------
+File: 086_Roughing-It,-Part-3._04.txt
+Actual: Class 1: Human-written
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+The boys were as hungry as usual, but I could eat nothing.  Neither could
+I talk.  I was full of dreams and far away.  Their conversation
+interrupted the flow of my fancy somewhat, and annoyed me a little, too.
+I despised the sordid and commonplace things they talked about.  But as
+they proceeded, it began to amuse me.  It grew to be rare fun to hear
+them planning their poor little economies and sighing over possible
+privations and distresses when a gold mine, all our own, lay within sight
+of the cabin and I could point it out at any moment.  Smothered hilarity
+began to oppress me, presently.  It was hard to resist the impulse to
+burst out with exultation and reveal everything; but I did resist.  I
+said within myself that I would filter the great news through my lips
+calmly and be serene as a summer morning while I watched its effect in
+their faces.  I said:
+
+--------------------------------------------------------------------------------
+File: 081_The-Tragedy-of-Coriolanus_06.txt
+Actual: Class 1: Human-written
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+AEDILE. Worthy tribunes,
+    There is a slave, whom we have put in prison,
+    Reports the Volsces with several powers
+    Are ent'red in the Roman territories,
+    And with the deepest malice of the war
+    Destroy what lies before 'em.
+  MENENIUS. 'Tis Aufidius,
+    Who, hearing of our Marcius' banishment,
+    Thrusts forth his horns again into the world,
+    Which were inshell'd when Marcius stood for Rome,
+    And durst not once peep out.
+  SICINIUS. Come, what talk you of Marcius?
+  BRUTUS. Go see this rumourer whipp'd. It cannot be
+    The Volsces dare break with us.
+  MENENIUS. Cannot be!
+    We have record that very well it can;
+    And three examples of the like hath been
+    Within my age. But reason with the fellow
+    Before you punish him, where he heard this,
+    Lest you shall chance to whip your information
+    And beat the messenger who bids beware
+    Of what is to be dreaded.
+  SICINIUS. Tell not me.
+    I know this cannot be.
+  BRUTUS. Not Possible.
+
+--------------------------------------------------------------------------------
+File: 145_The-Prince-and-the-Pauper,-Part-9._04.txt
+Actual: Class 1: Human-written
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+The hours drag along tediously enough.  All stir has ceased for some
+time, for every gallery has long ago been packed.  We may sit, now, and
+look and think at our leisure.  We have glimpses, here and there and
+yonder, through the dim cathedral twilight, of portions of many galleries
+and balconies, wedged full with other people, the other portions of these
+galleries and balconies being cut off from sight by intervening pillars
+north transept--empty, and waiting for England's privileged ones.  We see
+also the ample area or platform, carpeted with rich stuffs, whereon the
+throne stands.  The throne occupies the centre of the platform, and is
+raised above it upon an elevation of four steps. Within the seat of the
+throne is enclosed a rough flat rock--the stone of Scone--which many
+generations of Scottish kings sat on to be crowned, and so it in time
+became holy enough to answer a like purpose for English monarchs.  Both
+the throne and its footstool are covered with cloth of gold.
+
+--------------------------------------------------------------------------------
+File: 017_Tales-of-St.-Austin's_06.txt
+Actual: Class 1: Human-written
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+The kick-off from the twenty-five line which followed upon the small
+discussion alluded to above, reached Graham. Under ordinary
+circumstances he would have kicked, but in a winning game original
+methods often pay. He dodged a furious sportsman in green and yellow,
+and went away down the touch-line. He was almost through when he
+stumbled. He recovered himself, but too late. Before he could pass,
+someone was on him. Graham was not heavy, and his opponent was
+muscular. He was swung off his feet, and the next moment the two came
+down together, Graham underneath. A sharp pain shot through his
+shoulder.
+
+--------------------------------------------------------------------------------
+File: 086_Roughing-It,-Part-3._02.txt
+Actual: Class 1: Human-written
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+We slept in the sand close to the water's edge, between two protecting
+boulders, which took care of the stormy night-winds for us.  We never
+took any paregoric to make us sleep.  At the first break of dawn we were
+always up and running foot-races to tone down excess of physical vigor
+and exuberance of spirits.  That is, Johnny was--but I held his hat.
+While smoking the pipe of peace after breakfast we watched the sentinel
+peaks put on the glory of the sun, and followed the conquering light as
+it swept down among the shadows, and set the captive crags and forests
+free.  We watched the tinted pictures grow and brighten upon the water
+till every little detail of forest, precipice and pinnacle was wrought in
+and finished, and the miracle of the enchanter complete.  Then to
+"business."
+
+--------------------------------------------------------------------------------
+File: 009_Coriolanus_14.txt
+Actual: Class 1: Human-written
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+AEDILE. Worthy tribunes,
+    There is a slave, whom we have put in prison,
+    Reports the Volsces with several powers
+    Are ent'red in the Roman territories,
+    And with the deepest malice of the war
+    Destroy what lies before 'em.
+  MENENIUS. 'Tis Aufidius,
+    Who, hearing of our Marcius' banishment,
+    Thrusts forth his horns again into the world,
+    Which were inshell'd when Marcius stood for Rome,
+    And durst not once peep out.
+  SICINIUS. Come, what talk you of Marcius?
+  BRUTUS. Go see this rumourer whipp'd. It cannot be
+    The Volsces dare break with us.
+  MENENIUS. Cannot be!
+    We have record that very well it can;
+    And three examples of the like hath been
+    Within my age. But reason with the fellow
+    Before you punish him, where he heard this,
+    Lest you shall chance to whip your information
+    And beat the messenger who bids beware
+    Of what is to be dreaded.
+  SICINIUS. Tell not me.
+    I know this cannot be.
+  BRUTUS. Not possible.
+
+--------------------------------------------------------------------------------
+File: 041_Extract-from-Captain-Stormfield's-Visit-to-Heaven_15.txt
+Actual: Class 1: Human-written
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+He got a balloon and sailed up and up and up, in front of a map that was
+as big as Rhode Island.  He went on up till he was out of sight, and by
+and by he came down and got something to eat and went up again.  To cut a
+long story short, he kept on doing this for a day or two, and finally he
+came down and said he thought he had found that solar system, but it
+might be fly-specks.  So he got a microscope and went back.  It turned
+out better than he feared.  He had rousted out our system, sure enough.
+He got me to describe our planet and its distance from the sun, and then
+he says to his chief—
+
+--------------------------------------------------------------------------------
+File: 031_King-Lear_07.txt
+Actual: Class 1: Human-written
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+Gon. [aside] I had rather lose the battle than that sister
+     Should loosen him and me.
+  Alb. Our very loving sister, well bemet.
+     Sir, this I hear: the King is come to his daughter,
+     With others whom the rigour of our state
+     Forc'd to cry out. Where I could not be honest,
+     I never yet was valiant. For this business,
+     It toucheth us as France invades our land,
+     Not bolds the King, with others whom, I fear,
+     Most just and heavy causes make oppose.
+  Edm. Sir, you speak nobly.
+  Reg. Why is this reason'd?
+  Gon. Combine together 'gainst the enemy;
+     For these domestic and particular broils
+     Are not the question here.
+  Alb. Let's then determine
+     With th' ancient of war on our proceeding.
+  Edm. I shall attend you presently at your tent.
+  Reg. Sister, you'll go with us?
+  Gon. No.
+  Reg. 'Tis most convenient. Pray you go with us.
+  Gon. [aside] O, ho, I know the riddle.- I will go.
+
+--------------------------------------------------------------------------------
+File: 132_The-Innocents-Abroad-—-Volume-06_17.txt
+Actual: Class 1: Human-written
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+Carefully preserved among the sacred archives of this curious community
+is a MSS.  copy of the ancient Jewish law, which is said to be the oldest
+document on earth.  It is written on vellum, and is some four or five
+thousand years old.  Nothing but bucksheesh can purchase a sight.  Its
+fame is somewhat dimmed in these latter days, because of the doubts so
+many authors of Palestine travels have felt themselves privileged to cast
+upon it.  Speaking of this MSS. reminds me that I procured from the
+high-priest of this ancient Samaritan community, at great expense, a
+secret document of still higher antiquity and far more extraordinary
+interest, which I propose to publish as soon as I have finished
+translating it.
+
+--------------------------------------------------------------------------------
+File: 003_A-Wodehouse-Miscellany:-Articles-&-Stories_14.txt
+Actual: Class 1: Human-written
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+I have seldom missed a first night. No sooner has one periodical got
+rid of me than another has had the misfortune to engage me, with the
+result that I am now the foremost critic of the day, read assiduously
+by millions, fawned upon by managers, courted by stagehands. My
+lightest word can make or mar a new production. If I say a piece is
+bad, it dies. It may not die instantly. Generally it takes forty weeks
+in New York and a couple of seasons on the road to do it, but it
+cannot escape its fate. Sooner or later it perishes. That is the sort
+of man I am.
+
+--------------------------------------------------------------------------------
+File: 008_Love-Among-the-Chickens_14.txt
+Actual: Class 1: Human-written
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+I felt a worm and no man. Phyllis, I thought, would probably judge my
+entire character from this exhibition. A man, she would reflect, who
+could be so feeble and miserable a failure at tennis, could not be good
+for much in any department of life. She would compare me instinctively
+with my opponent, and contrast his dash and brilliance with my own
+inefficiency. Somehow the massacre was beginning to have a bad effect
+on my character. All my self-respect was ebbing. A little more of this,
+and I should become crushed,--a mere human jelly. It was my turn to
+serve. Service is my strong point at tennis. I am inaccurate, but
+vigorous, and occasionally send in a quite unplayable shot. One or two
+of these, even at the expense of a fault or so, and I might be
+permitted to retain at least a portion of my self-respect.
+
+--------------------------------------------------------------------------------
+File: 021_The-Gem-Collector_16.txt
+Actual: Class 1: Human-written
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+In the days before the Welshman began to expend his surplus energy in
+playing football, he was accustomed, whenever the monotony of his
+everyday life began to oppress him, to collect a few friends and make
+raids across the border into England, to the huge discomfort of the
+dwellers on the other side. It was to cope with this habit that Corven
+Abbey, in Shropshire, came into existence. It met a long-felt want.
+Ministering to the spiritual needs of the neighborhood in times of
+peace, it became a haven of refuge when trouble began. From all sides
+people poured into it, emerging cautiously when the marauders had
+disappeared.
+
+--------------------------------------------------------------------------------
+File: 006_Jill-the-Reckless_06.txt
+Actual: Class 1: Human-written
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+A taxi-cab stopped at the door of Number Twenty-two, Ovingdon Square.
+Freddie Rooke emerged, followed by Jill. While Freddie paid the
+driver, Jill sniffed the afternoon air happily. It had turned into a
+delightful day. A westerly breeze, springing up in the morning, had
+sent the thermometer up with a run and broken the cold spell which had
+been gripping London. It was one of those afternoons which intrude on
+the bleakness of winter with a false but none the less agreeable
+intimation that Spring is on its way. The sidewalks were wet
+underfoot, and the gutters ran with thawed snow. The sun shone
+exhilaratingly from a sky the colour of a hedge-sparrow's egg.
+
+--------------------------------------------------------------------------------
+File: 017_Tales-of-St.-Austin's_18.txt
+Actual: Class 1: Human-written
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+At tea on the following evening the first really serious engagement of
+the campaign took place. The cat strolled into the tea-room in the
+patronizing way characteristic of his kind, but was heavily shelled
+with lump-sugar, and beat a rapid retreat. That was the signal for the
+outbreak of serious hostilities. From that moment its paw was against
+every man, and the tale of the things it stole is too terrible to
+relate in detail. It scored all along the line. Like Death in the poem,
+it knocked at the doors of the highest and the lowest alike. Or rather,
+it did not exactly knock. It came in without knocking. The palace of
+the prefect and the hovel of the fag suffered equally. Trentham, the
+head of the House, lost sausages to an incredible amount one evening,
+and the next day Ripton, of the Lower Third, was robbed of his one ewe
+lamb in the shape of half a tin of anchovy paste. Panic reigned.
+
+--------------------------------------------------------------------------------
+File: 043_HLB_2_Bruce_Partington_Plans_12.txt
+Actual: Class 1: Human-written
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+"Its importance can hardly be exaggerated.  It has been the most
+jealously guarded of all government secrets.  You may take it from me
+that naval warfare becomes impossible within the radius of a
+Bruce-Partington's operation.  Two years ago a very large sum was
+smuggled through the Estimates and was expended in acquiring a monopoly
+of the invention.  Every effort has been made to keep the secret.  The
+plans, which are exceedingly intricate, comprising some thirty separate
+patents, each essential to the working of the whole, are kept in an
+elaborate safe in a confidential office adjoining the arsenal, with
+burglar-proof doors and windows.  Under no conceivable circumstances
+were the plans to be taken from the office.  If the chief constructor
+of the Navy desired to consult them, even he was forced to go to the
+Woolwich office for the purpose.  And yet here we find them in the
+pocket of a dead junior clerk in the heart of London.  From an official
+point of view it's simply awful."
+
+--------------------------------------------------------------------------------
+File: 112_The-Adventures-of-Tom-Sawyer_10.txt
+Actual: Class 1: Human-written
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+The tick escaped from Tom, presently, and crossed the equator. Joe
+harassed him awhile, and then he got away and crossed back again. This
+change of base occurred often. While one boy was worrying the tick with
+absorbing interest, the other would look on with interest as strong, the
+two heads bowed together over the slate, and the two souls dead to all
+things else. At last luck seemed to settle and abide with Joe. The
+tick tried this, that, and the other course, and got as excited and as
+anxious as the boys themselves, but time and again just as he would
+have victory in his very grasp, so to speak, and Tom's fingers would
+be twitching to begin, Joe's pin would deftly head him off, and keep
+possession. At last Tom could stand it no longer. The temptation was too
+strong. So he reached out and lent a hand with his pin. Joe was angry in
+a moment. Said he:
+

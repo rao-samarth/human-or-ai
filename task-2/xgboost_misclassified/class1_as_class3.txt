@@ -1,0 +1,242 @@
+================================================================================
+Class 1 (Human) misclassified as Class 3 (AI-mimicry)
+Total: 13 files
+================================================================================
+
+--------------------------------------------------------------------------------
+File: 088_Roughing-It,-Part-5._16.txt
+Actual: Class 1: Human-written
+Predicted: Class 3: AI-mimicry
+--------------------------------------------------------------------------------
+My idea, when I began this chapter, was to say something about
+desperadoism in the "flush times" of Nevada.  To attempt a portrayal of
+that era and that land, and leave out the blood and carnage, would be
+like portraying Mormondom and leaving out polygamy.  The desperado
+stalked the streets with a swagger graded according to the number of his
+homicides, and a nod of recognition from him was sufficient to make a
+humble admirer happy for the rest of the day.  The deference that was
+paid to a desperado of wide reputation, and who "kept his private
+graveyard," as the phrase went, was marked, and cheerfully accorded.
+When he moved along the sidewalk in his excessively long-tailed
+frock-coat, shiny stump-toed boots, and with dainty little slouch hat
+tipped over left eye, the small-fry roughs made room for his majesty;
+when he entered the restaurant, the waiters deserted bankers and
+merchants to overwhelm him with obsequious service; when he shouldered
+his way to a bar, the shouldered parties wheeled indignantly, recognized
+him, and --apologized.
+
+--------------------------------------------------------------------------------
+File: 005_Indiscretions-of-Archie_05.txt
+Actual: Class 1: Human-written
+Predicted: Class 3: AI-mimicry
+--------------------------------------------------------------------------------
+Normally, Archie was a dog-lover. His hurry was never so great as to
+prevent him stopping, when in the street, and introducing himself to any
+dog he met. In a strange house, his first act was to assemble the canine
+population, roll it on its back or backs, and punch it in the ribs. As a
+boy, his earliest ambition had been to become a veterinary surgeon; and,
+though the years had cheated him of his career, he knew all about dogs,
+their points, their manners, their customs, and their treatment in
+sickness and in health. In short, he loved dogs, and, had they met under
+happier conditions, he would undoubtedly have been on excellent terms
+with this one within the space of a minute. But, as things were, he
+abstained from fraternising and continued to goggle dumbly.
+
+--------------------------------------------------------------------------------
+File: 031_RSH_03_Dancing_Men_18.txt
+Actual: Class 1: Human-written
+Predicted: Class 3: AI-mimicry
+--------------------------------------------------------------------------------
+"You see, my dear Watson,"--he propped his test-tube in the rack, and
+began to lecture with the air of a professor addressing his class--"it
+is not really difficult to construct a series of inferences, each
+dependent upon its predecessor and each simple in itself. If, after
+doing so, one simply knocks out all the central inferences and presents
+one's audience with the starting-point and the conclusion, one may
+produce a startling, though possibly a meretricious, effect. Now, it was
+not really difficult, by an inspection of the groove between your left
+forefinger and thumb, to feel sure that you did NOT propose to invest
+your small capital in the gold fields."
+
+--------------------------------------------------------------------------------
+File: 041_RSH_13_Second_Stain_18.txt
+Actual: Class 1: Human-written
+Predicted: Class 3: AI-mimicry
+--------------------------------------------------------------------------------
+"Good Lord, sir!" he cried, with amazement on his face. Holmes put his
+finger on his lips, replaced his hand in his breast pocket, and burst
+out laughing as we turned down the street. "Excellent!" said he. "Come,
+friend Watson, the curtain rings up for the last act. You will be
+relieved to hear that there will be no war, that the Right Honourable
+Trelawney Hope will suffer no setback in his brilliant career, that the
+indiscreet Sovereign will receive no punishment for his indiscretion,
+that the Prime Minister will have no European complication to deal
+with, and that with a little tact and management upon our part
+nobody will be a penny the worse for what might have been a very ugly
+incident."
+
+--------------------------------------------------------------------------------
+File: 002_Sign_of_Four_15.txt
+Actual: Class 1: Human-written
+Predicted: Class 3: AI-mimicry
+--------------------------------------------------------------------------------
+We had during this time been following the guidance of Toby down the
+half-rural villa-lined roads which lead to the metropolis. Now,
+however, we were beginning to come among continuous streets, where
+laborers and dockmen were already astir, and slatternly women were
+taking down shutters and brushing door-steps.  At the square-topped
+corner public houses business was just beginning, and rough-looking men
+were emerging, rubbing their sleeves across their beards after their
+morning wet.  Strange dogs sauntered up and stared wonderingly at us as
+we passed, but our inimitable Toby looked neither to the right nor to
+the left, but trotted onwards with his nose to the ground and an
+occasional eager whine which spoke of a hot scent.
+
+--------------------------------------------------------------------------------
+File: 041_Extract-from-Captain-Stormfield's-Visit-to-Heaven_05.txt
+Actual: Class 1: Human-written
+Predicted: Class 3: AI-mimicry
+--------------------------------------------------------------------------------
+“Easy enough.  Duffer kept a sausage-shop and never saved a cent in his
+life because he used to give all his spare meat to the poor, in a quiet
+way.  Not tramps,—no, the other sort—the sort that will starve before
+they will beg—honest square people out of work.  Dick used to watch
+hungry-looking men and women and children, and track them home, and find
+out all about them from the neighbors, and then feed them and find them
+work.  As nobody ever saw him give anything to anybody, he had the
+reputation of being mean; he died with it, too, and everybody said it was
+a good riddance; but the minute he landed here, they made him a baronet,
+and the very first words Dick the sausage-maker of Hoboken heard when he
+stepped upon the heavenly shore were, ‘Welcome, Sir Richard Duffer!’  It
+surprised him some, because he thought he had reasons to believe he was
+pointed for a warmer climate than this one.”
+
+--------------------------------------------------------------------------------
+File: 034_The-Swoop!-or,-How-Clarence-Saved-England:-A-Tale-of-the-Great-Invasion_11.txt
+Actual: Class 1: Human-written
+Predicted: Class 3: AI-mimicry
+--------------------------------------------------------------------------------
+The Russians, led by General Vodkakoff, arrived at Hampstead half an
+hour after the bombardment had ceased, and the rest of the invaders,
+including Raisuli, who had got off on an _alibi_, dropped in at
+intervals during the week. By the evening of Saturday, the sixth of
+August, even the Chinese had limped to the metropolis. And the question
+now was, What was going to happen? England displayed a polite
+indifference to the problem. We are essentially a nation of
+sight-seers. To us the excitement of staring at the invaders was
+enough. Into the complex international problems to which the situation
+gave rise it did not occur to us to examine. When you consider that a
+crowd of five hundred Londoners will assemble in the space of two
+minutes, abandoning entirely all its other business, to watch a
+cab-horse that has fallen in the street, it is not surprising that the
+spectacle of nine separate and distinct armies in the metropolis left
+no room in the British mind for other reflections.
+
+--------------------------------------------------------------------------------
+File: 008_Beautiful-Stories-from-Shakespeare_05.txt
+Actual: Class 1: Human-written
+Predicted: Class 3: AI-mimicry
+--------------------------------------------------------------------------------
+The King could not understand what it was that took his son nearly every
+day from home; so he set people to watch him, and then found out that
+the heir of the King of Bohemia was in love with Perdita, the pretty
+shepherd girl. Polixenes, wishing to see whether this was true,
+disguised himself, and went with the faithful Camillo, in disguise
+too, to the old shepherd's house. They arrived at the feast of
+sheep-shearing, and, though strangers, they were made very welcome.
+There was dancing going on, and a peddler was selling ribbons and laces
+and gloves, which the young men bought for their sweethearts.
+
+--------------------------------------------------------------------------------
+File: 036_Three-Men-and-a-Maid_09.txt
+Actual: Class 1: Human-written
+Predicted: Class 3: AI-mimicry
+--------------------------------------------------------------------------------
+It was not till after the all too brief intermission for rest and
+recuperation that the newly formed team of Marlowe and Hignett was
+scheduled to appear. Previous to this there had been dark deeds done in
+the quiet saloon. The lecturer on deep-sea fish had fulfilled his
+threat and spoken at great length on a subject which, treated by a
+master of oratory, would have palled on the audience after ten or
+fifteen minutes; and at the end of fifteen minutes this speaker had only
+just got past the haddocks and was feeling his way tentatively through
+the shrimps. 'The Rosary' had been sung and there was an uneasy doubt
+as to whether it was not going to be sung again after the interval--the
+latest rumour being that the second of the rival lady singers had proved
+adamant to all appeals and intended to fight the thing out on the lines
+she had originally chosen if they put her in irons.
+
+--------------------------------------------------------------------------------
+File: 008_ASH_06_Man_With_Twisted_Lip_17.txt
+Actual: Class 1: Human-written
+Predicted: Class 3: AI-mimicry
+--------------------------------------------------------------------------------
+It was difficult to refuse any of Sherlock Holmes' requests, for
+they were always so exceedingly definite, and put forward with
+such a quiet air of mastery. I felt, however, that when Whitney
+was once confined in the cab my mission was practically
+accomplished; and for the rest, I could not wish anything better
+than to be associated with my friend in one of those singular
+adventures which were the normal condition of his existence. In a
+few minutes I had written my note, paid Whitney's bill, led him
+out to the cab, and seen him driven through the darkness. In a
+very short time a decrepit figure had emerged from the opium den,
+and I was walking down the street with Sherlock Holmes. For two
+streets he shuffled along with a bent back and an uncertain foot.
+Then, glancing quickly round, he straightened himself out and
+burst into a hearty fit of laughter.
+
+--------------------------------------------------------------------------------
+File: 032_RSH_04_Solitary_Cyclist_17.txt
+Actual: Class 1: Human-written
+Predicted: Class 3: AI-mimicry
+--------------------------------------------------------------------------------
+In the whirl of our incessant activity, it has often been difficult for
+me, as the reader has probably observed, to round off my narratives, and
+to give those final details which the curious might expect. Each case
+has been the prelude to another, and the crisis once over, the actors
+have passed for ever out of our busy lives. I find, however, a short
+note at the end of my manuscript dealing with this case, in which I have
+put it upon record that Miss Violet Smith did indeed inherit a large
+fortune, and that she is now the wife of Cyril Morton, the senior
+partner of Morton & Kennedy, the famous Westminster electricians.
+Williamson and Woodley were both tried for abduction and assault, the
+former getting seven years the latter ten. Of the fate of Carruthers,
+I have no record, but I am sure that his assault was not viewed very
+gravely by the court, since Woodley had the reputation of being a most
+dangerous ruffian, and I think that a few, months were sufficient to
+satisfy the demands of justice.
+
+--------------------------------------------------------------------------------
+File: 056_Life-on-the-Mississippi,-Part-10._16.txt
+Actual: Class 1: Human-written
+Predicted: Class 3: AI-mimicry
+--------------------------------------------------------------------------------
+The Warmouth plantation covers a vast deal of ground, and the
+hospitality of the Warmouth mansion is graduated to the same large
+scale. We saw steam-plows at work, here, for the first time.  The
+traction engine travels about on its own wheels, till it reaches the
+required spot; then it stands still and by means of a wire rope pulls
+the huge plow toward itself two or three hundred yards across the field,
+between the rows of cane. The thing cuts down into the black mold a foot
+and a half deep. The plow looks like a fore-and-aft brace of a Hudson
+river steamer, inverted. When the negro steersman sits on one end of it,
+that end tilts down near the ground, while the other sticks up high in
+air.  This great see-saw goes rolling and pitching like a ship at sea,
+and it is not every circus rider that could stay on it.
+
+--------------------------------------------------------------------------------
+File: 146_The-Prince-and-the-Pauper_14.txt
+Actual: Class 1: Human-written
+Predicted: Class 3: AI-mimicry
+--------------------------------------------------------------------------------
+He was ‘magnificently habited in a doublet of white satin, with a
+front-piece of purple cloth-of-tissue, powdered with diamonds, and edged
+with ermine.  Over this he wore a mantle of white cloth-of-gold, pounced
+with the triple-feathered crest, lined with blue satin, set with pearls
+and precious stones, and fastened with a clasp of brilliants.  About his
+neck hung the order of the Garter, and several princely foreign orders;’
+and wherever light fell upon him jewels responded with a blinding flash.
+ O Tom Canty, born in a hovel, bred in the gutters of London, familiar
+with rags and dirt and misery, what a spectacle is this!
+

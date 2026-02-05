@@ -1,0 +1,169 @@
+================================================================================
+Class 1 (Human) misclassified as Class 3 (AI-mimicry)
+Total: 9 files
+================================================================================
+
+--------------------------------------------------------------------------------
+File: 013_ASH_11_Beryl_Coronet_06.txt
+Actual: Class 1: Human-written
+Predicted: Class 3: AI-mimicry
+--------------------------------------------------------------------------------
+My friend rose lazily from his armchair and stood with his hands
+in the pockets of his dressing-gown, looking over my shoulder. It
+was a bright, crisp February morning, and the snow of the day
+before still lay deep upon the ground, shimmering brightly in the
+wintry sun. Down the centre of Baker Street it had been ploughed
+into a brown crumbly band by the traffic, but at either side and
+on the heaped-up edges of the foot-paths it still lay as white as
+when it fell. The grey pavement had been cleaned and scraped, but
+was still dangerously slippery, so that there were fewer
+passengers than usual. Indeed, from the direction of the
+Metropolitan Station no one was coming save the single gentleman
+whose eccentric conduct had drawn my attention.
+
+--------------------------------------------------------------------------------
+File: 041_RSH_13_Second_Stain_08.txt
+Actual: Class 1: Human-written
+Predicted: Class 3: AI-mimicry
+--------------------------------------------------------------------------------
+It was my first visit to the scene of the crime--a high, dingy,
+narrow-chested house, prim, formal, and solid, like the century which
+gave it birth. Lestrade's bulldog features gazed out at us from the
+front window, and he greeted us warmly when a big constable had opened
+the door and let us in. The room into which we were shown was that in
+which the crime had been committed, but no trace of it now remained save
+an ugly, irregular stain upon the carpet. This carpet was a small square
+drugget in the centre of the room, surrounded by a broad expanse
+of beautiful, old-fashioned wood-flooring in square blocks, highly
+polished. Over the fireplace was a magnificent trophy of weapons, one of
+which had been used on that tragic night. In the window was a sumptuous
+writing-desk, and every detail of the apartment, the pictures, the rugs,
+and the hangings, all pointed to a taste which was luxurious to the
+verge of effeminacy.
+
+--------------------------------------------------------------------------------
+File: 006_A-Connecticut-Yankee-in-King-Arthur's-Court,-Part-5._03.txt
+Actual: Class 1: Human-written
+Predicted: Class 3: AI-mimicry
+--------------------------------------------------------------------------------
+"Verily, in the all-wise and unknowable providence of God, who
+moveth in mysterious ways his wonders to perform, have I never
+heard the fellow to this question for confusion of the mind and
+congestion of the ducts of thought.  Wherefore I beseech you let
+the dog and the onions and these people of the strange and godless
+names work out their several salvations from their piteous and
+wonderful difficulties without help of mine, for indeed their
+trouble is sufficient as it is, whereas an I tried to help I should
+but damage their cause the more and yet mayhap not live myself
+to see the desolation wrought."
+
+--------------------------------------------------------------------------------
+File: 002_Sign_of_Four_15.txt
+Actual: Class 1: Human-written
+Predicted: Class 3: AI-mimicry
+--------------------------------------------------------------------------------
+We had during this time been following the guidance of Toby down the
+half-rural villa-lined roads which lead to the metropolis. Now,
+however, we were beginning to come among continuous streets, where
+laborers and dockmen were already astir, and slatternly women were
+taking down shutters and brushing door-steps.  At the square-topped
+corner public houses business was just beginning, and rough-looking men
+were emerging, rubbing their sleeves across their beards after their
+morning wet.  Strange dogs sauntered up and stared wonderingly at us as
+we passed, but our inimitable Toby looked neither to the right nor to
+the left, but trotted onwards with his nose to the ground and an
+occasional eager whine which spoke of a hot scent.
+
+--------------------------------------------------------------------------------
+File: 041_Extract-from-Captain-Stormfield's-Visit-to-Heaven_05.txt
+Actual: Class 1: Human-written
+Predicted: Class 3: AI-mimicry
+--------------------------------------------------------------------------------
+“Easy enough.  Duffer kept a sausage-shop and never saved a cent in his
+life because he used to give all his spare meat to the poor, in a quiet
+way.  Not tramps,—no, the other sort—the sort that will starve before
+they will beg—honest square people out of work.  Dick used to watch
+hungry-looking men and women and children, and track them home, and find
+out all about them from the neighbors, and then feed them and find them
+work.  As nobody ever saw him give anything to anybody, he had the
+reputation of being mean; he died with it, too, and everybody said it was
+a good riddance; but the minute he landed here, they made him a baronet,
+and the very first words Dick the sausage-maker of Hoboken heard when he
+stepped upon the heavenly shore were, ‘Welcome, Sir Richard Duffer!’  It
+surprised him some, because he thought he had reasons to believe he was
+pointed for a warmer climate than this one.”
+
+--------------------------------------------------------------------------------
+File: 008_ASH_06_Man_With_Twisted_Lip_17.txt
+Actual: Class 1: Human-written
+Predicted: Class 3: AI-mimicry
+--------------------------------------------------------------------------------
+It was difficult to refuse any of Sherlock Holmes' requests, for
+they were always so exceedingly definite, and put forward with
+such a quiet air of mastery. I felt, however, that when Whitney
+was once confined in the cab my mission was practically
+accomplished; and for the rest, I could not wish anything better
+than to be associated with my friend in one of those singular
+adventures which were the normal condition of his existence. In a
+few minutes I had written my note, paid Whitney's bill, led him
+out to the cab, and seen him driven through the darkness. In a
+very short time a decrepit figure had emerged from the opium den,
+and I was walking down the street with Sherlock Holmes. For two
+streets he shuffled along with a bent back and an uncertain foot.
+Then, glancing quickly round, he straightened himself out and
+burst into a hearty fit of laughter.
+
+--------------------------------------------------------------------------------
+File: 032_RSH_04_Solitary_Cyclist_17.txt
+Actual: Class 1: Human-written
+Predicted: Class 3: AI-mimicry
+--------------------------------------------------------------------------------
+In the whirl of our incessant activity, it has often been difficult for
+me, as the reader has probably observed, to round off my narratives, and
+to give those final details which the curious might expect. Each case
+has been the prelude to another, and the crisis once over, the actors
+have passed for ever out of our busy lives. I find, however, a short
+note at the end of my manuscript dealing with this case, in which I have
+put it upon record that Miss Violet Smith did indeed inherit a large
+fortune, and that she is now the wife of Cyril Morton, the senior
+partner of Morton & Kennedy, the famous Westminster electricians.
+Williamson and Woodley were both tried for abduction and assault, the
+former getting seven years the latter ten. Of the fate of Carruthers,
+I have no record, but I am sure that his assault was not viewed very
+gravely by the court, since Woodley had the reputation of being a most
+dangerous ruffian, and I think that a few, months were sufficient to
+satisfy the demands of justice.
+
+--------------------------------------------------------------------------------
+File: 056_Life-on-the-Mississippi,-Part-10._16.txt
+Actual: Class 1: Human-written
+Predicted: Class 3: AI-mimicry
+--------------------------------------------------------------------------------
+The Warmouth plantation covers a vast deal of ground, and the
+hospitality of the Warmouth mansion is graduated to the same large
+scale. We saw steam-plows at work, here, for the first time.  The
+traction engine travels about on its own wheels, till it reaches the
+required spot; then it stands still and by means of a wire rope pulls
+the huge plow toward itself two or three hundred yards across the field,
+between the rows of cane. The thing cuts down into the black mold a foot
+and a half deep. The plow looks like a fore-and-aft brace of a Hudson
+river steamer, inverted. When the negro steersman sits on one end of it,
+that end tilts down near the ground, while the other sticks up high in
+air.  This great see-saw goes rolling and pitching like a ship at sea,
+and it is not every circus rider that could stay on it.
+
+--------------------------------------------------------------------------------
+File: 146_The-Prince-and-the-Pauper_14.txt
+Actual: Class 1: Human-written
+Predicted: Class 3: AI-mimicry
+--------------------------------------------------------------------------------
+He was ‘magnificently habited in a doublet of white satin, with a
+front-piece of purple cloth-of-tissue, powdered with diamonds, and edged
+with ermine.  Over this he wore a mantle of white cloth-of-gold, pounced
+with the triple-feathered crest, lined with blue satin, set with pearls
+and precious stones, and fastened with a clasp of brilliants.  About his
+neck hung the order of the Garter, and several princely foreign orders;’
+and wherever light fell upon him jewels responded with a blinding flash.
+ O Tom Canty, born in a hovel, bred in the gutters of London, familiar
+with rags and dirt and misery, what a spectacle is this!
+
