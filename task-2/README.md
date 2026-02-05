@@ -1,10 +1,45 @@
 # Task 2 - The Multi-Tiered Detective
 
-- In this section, we will build 3 detectors to separate AI generated text from human written text.  
-- To be even more specific, each of our detectors will attempt to separate class-1 from class-2 and class-1 from class-3. We will also see if our detector can separate class-2 from class-3. Here, the classes refer to the dataset classes which can be seen in [../dataset/](../dataset/)
+In this section, we built 3 different detectors to separate AI-generated text from human-written text. Each detector attempts to classify between class-1 (human-written), class-2 (AI-written), and class-3 (AI-mimicry). The classes refer to the dataset folders in [../dataset/](../dataset/).
 
-The 3 approaches are as follows.
-1. *Tier A: The Statistician* - Here we aim to see if with mathematical backing from task-1, we can separate the AI generated text from humans. This can be found in [statistician.ipynb](statistician.ipynb). In the markdown blocks of this file, I have spoken in significantly more detail about XGBoost and Random forest and the results. In [xgboost_misclassified/](xgboost_misclassified/) you can see all the misclassified files. Cell 7 corresponds to this output.
-2. *Tier B: The Semantisist* - Here we use [Stanford's GloVe](https://nlp.stanford.edu/projects/glove/). Here, a MLP tries to classify the text solely on the basis of vector embeddings. This is in a way a test to see if our dataset is separating texts on the basis of topics, or on the basis of authorship.
-3. *Tier C: The Transformer*. This is a bit more complicated. We use DistilBERT, which is a transformer. Transformers use a method known as self-attention, which is a mechanism allowing the models to weigh the importance of different words with context-awareness. For example, in the clause *"The girl and her brother"*, the transformer will associate *her* with *The girl* and will not treat it independently. A traditional model would instead treat each word in the clause with equal importance.
+The 3 approaches are:
+
+## 1. Tier A: The Statistician
+
+Using the mathematical features we identified in Task 1, we trained two ensemble models: XGBoost and Random Forest. The detailed implementation is in [statistician.ipynb](statistician.ipynb).
+
+### Results
+
+**XGBoost Performance:**
+- Class 1 vs Class 2: **88.98% accuracy**
+- Class 1 vs Class 3: **93.00% accuracy**
+- Class 2 vs Class 3: **87.74% accuracy**
+- Multi-class (all 3 classes): **82.29% accuracy**
+
+**Random Forest Performance:**
+- Class 1 vs Class 2: **87.00% accuracy**
+- Class 1 vs Class 3: **93.00% accuracy**  
+- Class 2 vs Class 3: **85.32% accuracy**
+- Multi-class (all 3 classes): **81.91% accuracy**
+
+### Key Findings
+
+Both models performed remarkably well, but they revealed something fascinating: **em-dash frequency** was by far the most important feature for XGBoost (importance score >0.28), while it only scored 0.11 for Random Forest. Why?
+
+- **XGBoost** is greedy by nature. Once it discovered that em-dashes were a high-signal feature (remember from Task 1: AI-mimicry massively overuses em-dashes), it exploited this finding aggressively.
+- **Random Forest** builds trees in parallel using random subsets of features. In many trees, em-dashes weren't even available as a choice, forcing the model to find other reliable predictors like hapax ratio.
+
+This difference in feature importance rankings between the two models actually strengthens our confidence—both approaches successfully identify AI text, just through slightly different lenses.
+
+Meanwhile, TTR (Type-Token Ratio) scored essentially zero in both models. This makes sense: our Task 1 analysis showed that while AI had slightly higher TTR, the variance was low and distributions overlapped significantly, making it a poor discriminator.
+
+The misclassified examples from both models are saved in [xgboost_misclassified/](xgboost_misclassified/) and [randomforest_misclassified/](randomforest_misclassified/), organized by misclassification type.
+
+## 2. Tier B: The Semanticist
+
+Here we'll use [Stanford's GloVe](https://nlp.stanford.edu/projects/glove/) embeddings with a Multi-Layer Perceptron (MLP). The MLP will classify text based purely on semantic vector embeddings. This is a test to see if our dataset separates texts based on topics or on actual authorship patterns.
+
+## 3. Tier C: The Transformer
+
+This uses DistilBERT, a lighter transformer model. Transformers use self-attention—a mechanism that lets models understand which words matter most in context. For example, in the phrase *"The girl and her brother"*, the transformer associates *her* with *The girl* rather than treating each word independently. This context-awareness could help it pick up on the subtle stylistic patterns we identified in Task 1.
 
