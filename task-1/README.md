@@ -68,10 +68,9 @@ Academic papers cited:
 - **Schephens et al., 2025** - "Hapax deficit mechanisms in AI text" - [Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC12571048/)
 - **POS Distribution Study** - "Noun-to-verb ratios in AI vs human writing" - [Link](https://ris.cdu.edu.au/ws/portalfiles/portal/121993038/computers-13-00328.pdf)
 - **Flesch-Kincaid Analysis** - "AI readability in medical contexts" - [Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC11905972/)
-
-Additional resources:
 - **Fabio Chiusano** - "Perplexity explained with simple probabilities" - [Medium](https://medium.com/nlplanet/two-minutes-nlp-perplexity-explained-with-simple-probabilities-6cdc46884584)
 - **Information Theory Blog** - "Chaos and predictability in language models" - [Link](https://kuiper2000.github.io/chaos_and_predictability/week9/week9)
+- **Peeperkorn et al., 2024** - "Is Temperature the Creativity Parameter of Large Language Models" - [Link](https://arxiv.org/html/2405.00492v1)
 
 ## Running the Notebook
 
