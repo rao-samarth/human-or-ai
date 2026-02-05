@@ -34,7 +34,7 @@ This README.md provides only a brief overview of our findings. For more details,
 
 ## Statistical Significance
 
-I used the Mann-Whitney U Test with Bonferroni correction (α = 0.05/3 ≈ 0.017) for all comparisons. Statistically significant results are marked with (***) in the notebook.
+I used the Mann-Whitney U Test for all comparisons. 
 
 ## Key Insights
 
