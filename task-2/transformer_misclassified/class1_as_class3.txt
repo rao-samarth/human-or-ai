@@ -1,0 +1,21 @@
+================================================================================
+Class 1 (Human) misclassified as Class 3 (AI-mimicry)
+Total: 1 files
+================================================================================
+
+--------------------------------------------------------------------------------
+File: 099_Sketches-New-and-Old,-Part-7._12.txt
+Actual: Class 1: Human-written
+Predicted: Class 3: AI-mimicry
+--------------------------------------------------------------------------------
+of discovery among the countless whirling worlds that make turmoil in the
+mighty wastes of space that stretch their solemn solitudes, their
+unimaginable vastness billions upon billions of miles away beyond the
+farthest verge of telescopic vision, till by comparison the little
+sparkling vault we used to gaze at on Earth shall seem like a remembered
+phosphorescent flash of spangles which some tropical voyager's prow
+stirred into life for a single instant, and which ten thousand miles of
+phosphorescent seas and tedious lapse of time had since diminished to an
+incident utterly trivial in his recollection.  Children occupying seats
+at the first table will be charged full fare.
+
