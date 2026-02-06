@@ -1,0 +1,29 @@
+--------------------------------------------------------------------------------
+Class 3 (AI-mimicry) misclassified as Class 2 (AI)
+Total: 3 files
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+File: TWAIN_Eve's-Diary,-Complete_T02_02.txt
+Actual: Class 3: AI-mimicry
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+Heavens no, child, it ain’t a lightning strike like the poets claim. For the longest time, she was just… there. A reliable fact, you might say, like the sun coming up or the creek flooding in April. We’d pass an entire evening on this porch, her shelling peas and me whittling some fool thing, and the silence between us was more comfortable than any conversation I ever had. Then one day she let out a laugh—not a polite titter, mind you, but a genuine, shoulder-shaking peel—at some nonsense a bluejay was up to, and the sound of it knocked me sideways. It was in that moment I understood, with a clarity that was mighty inconvenient, that her particular brand of silence and that singular laugh had become the very posts and beams holding my whole rickety life upright. A man don't get used to a thing like that; he just gets ambushed by the sudden truth of it.
+
+
+--------------------------------------------------------------------------------
+File: TWAIN_Eve's-Diary,-Complete_T03_02.txt
+Actual: Class 3: AI-mimicry
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+I laid the new business proposal before the committee, and a curious division of minds immediately became apparent. Mr. Henderson and his fellows saw the matter as a piece of machinery; they concerned themselves only with the primary gears and levers, the direct line of profit from our door to the customer’s purse. So long as the main axle turned, they were satisfied. A problem to them was a busted cog, to be replaced with a bigger, stronger one—a simple, brute-force solution that ignored the rattling it might cause elsewhere. But Miss Albright and her colleagues, they saw the whole enterprise as a living creature. They fretted over the secondary effects; how a change in one department might starve another, how a new policy would affect the general mood, and what quiet resentments might curdle if one team was favored over another. One group saw the skeleton, you might say, while the other saw the entire nervous system, and I was left to ponder how the two could ever be persuaded they were looking at the same animal.
+
+
+--------------------------------------------------------------------------------
+File: DOYLE_MSH_06_Musgrave_Ritual_T03_02.txt
+Actual: Class 3: AI-mimicry
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+Inspector Davies slapped the crumpled note upon the table with a frustrated hand. “It is pure gibberish, I tell you! ‘Three steps from the blind man’s watch.’ There was no blind man at the scene, and not a single timepiece was found upon the victim!” My companion, however, merely retrieved the paper, smoothing it with an almost reverential calm. “You mistake a poetic flourish for a literal instruction, Inspector,” he observed, his voice steady. “The mind we pursue thinks in symbols, not in facts. He does not refer to a man, but to a fixture—perchance a statue, like that of Justice, so often depicted with her eyes covered? And her ‘watch’ would not be a mechanical device, but her constant, unseeing vigil over the courtyard below. The puzzle is not in the words themselves, but in the chain of reasoning they are designed to ignite within a mind capable of seeing past the obvious.”
+
+

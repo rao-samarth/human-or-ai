@@ -1,0 +1,93 @@
+--------------------------------------------------------------------------------
+Class 3 (AI-mimicry) misclassified as Class 1 (Human)
+Total: 11 files
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+File: SHAKE_The-Shakespeare-Story-Book_T03_02.txt
+Actual: Class 3: AI-mimicry
+Predicted: Class 1: Human-written
+--------------------------------------------------------------------------------
+Pray, mark the butcher's wife, how she bestows her alms upon the poor with such a gentle hand, her lips forming blessings as if she were a sainted mother to this wretched town. A most holy visage, is it not? Forsooth, her charity doth cost her naught, for I know well the heavy thumbs she puts upon the scales when weighing out the commoner's meat, and those very blessings are but whispers to disguise the coin she clips from every shilling. She paints her soul with virtue's colours, yet the canvas underneath is rotten through, a thing of such base avarice it would make a devil blush, though here it walks in sunlight and doth smile upon its neighbours. She is praised for a lamb, when in her heart there lurks a wolf that feeds on the very flock she pretends to shepherd.
+
+
+--------------------------------------------------------------------------------
+File: DOYLE_ASH_11_Beryl_Coronet_T01_01.txt
+Actual: Class 3: AI-mimicry
+Predicted: Class 1: Human-written
+--------------------------------------------------------------------------------
+My companion gestured with his chin across the crowded waiting-room. “See there,” he murmured, “that stout gentleman by the ticket-office. A finer example of public virtue I have rarely witnessed; he has given alms to three separate beggars in the last ten minutes alone.” I had, however, been observing the fellow myself, and noted details which had evidently escaped my friend’s more charitable eye. Whilst his coat was of an excellent cut, the collar was subtly turned to hide a worn patch, and the glint from his signet ring came not from gold but from polished brass. More damning still was his method: with a grand flourish for the public, his right hand would dispense a penny, whilst his left, in the same motion, would deftly retrieve a sixpence dropped by a previous benefactor. Now, as my well-meaning friend began to rise, his own heart moved to admiration and generosity, I found myself in a most awkward position—to cruelly unveil the sord
+
+
+--------------------------------------------------------------------------------
+File: TWAIN_Life-on-the-Mississippi,-Part-10._T03_02.txt
+Actual: Class 3: AI-mimicry
+Predicted: Class 1: Human-written
+--------------------------------------------------------------------------------
+They had me pinned, you understand, dead to rights and with the ink still wet on the accusations. The papers were howling for my hide, and a half-dozen righteous-looking fellas with spectacles were convinced they’d see me breaking rocks by Christmas—and I reckon they would have, too, if it weren’t for the simple fact of the matter. You see, there are contracts written on paper, and then there are understandings etched on a man’s character. A fellow from the old society, a man I hadn’t seen in twenty years, simply took a long lunch with the right sort of judge; another sent a quiet telegram that persuaded a key witness to take an impromptu fishing trip to parts unknown. It ain’t a conspiracy, son, it’s just a better and more reliable grade of family, the kind that remembers its own long after the public and the Almighty have commenced to forgetting.
+
+
+--------------------------------------------------------------------------------
+File: DOYLE_MSH_02_Cardboard_Box_T03_01.txt
+Actual: Class 3: AI-mimicry
+Predicted: Class 1: Human-written
+--------------------------------------------------------------------------------
+The average man, you see, is quite incapable of true observation; he looks, but he does not see, and thus the most vital of clues are to him but meaningless trifles. In a great metropolis, a thousand such details may be lost in the general clamour, but here, in the quietude of a provincial town, they stand out with a singular clarity. The constable will mark the overturned furniture and the forced lock, for these are the broad strokes of the affair. Yet he will miss the significance of the faint scuff upon the wainscot, or the precise nature of the mud clinging to the rug—details which, when placed in their correct sequence, form a chain of inference as strong as any iron fetter. The entire business of arriving at the truth is, in essence, an exercise in distinguishing the crucial from the merely incidental, for a crime is but a story told backwards, and its beginning is found in the smallest of its endings.
+
+
+--------------------------------------------------------------------------------
+File: TWAIN_Sketches-New-and-Old,-Part-3._T03_02.txt
+Actual: Class 3: AI-mimicry
+Predicted: Class 1: Human-written
+--------------------------------------------------------------------------------
+I do wish you were here, my friend, for this hotel lobby furnishes more theater than any proper stage I know. Just yesterday, I overheard a gentleman of considerable girth and even more considerable volume lay out his plans for a fishing trip that would have humbled the apostles themselves. He spoke of leviathans lurking in the local stream, of battles of wit and sinew against legendary trout, and of a grand fish-fry to follow that would feed the entire county. His pronouncements were so thunderous that a sleeping dog two chairs down yelped and fled the scene. Well, I saw him return not an hour ago—his magnificent fishing pole was snapped clean in two, his hat was missing, and the only thing he carried was a soggy boot with a small, indignant crawdad clinging to its heel. His wife followed behind him, carrying a string of fish from the market, and she wore an expression of such serene, practiced patience that it ought to be put on a coin.
+
+
+--------------------------------------------------------------------------------
+File: WODE_Right-Ho,-Jeeves_T02_02.txt
+Actual: Class 3: AI-mimicry
+Predicted: Class 1: Human-written
+--------------------------------------------------------------------------------
+It was during Lady Agatha’s annual musicale, an event generally considered a high-water mark for organised suffering, that I witnessed a quiet masterpiece of generalship. Young Freddie Pilkington, a chap whose brain-pan seemed to contain little more than fluff and the odd sporting regulation, had conceived a truly ghastly scheme to liven up the proceedings by releasing a brace of white doves during the soprano’s high C. One needed no special gift of prophecy to foresee the ensuing chaos—the shrieking, the fluttering, the inevitable collision of bird and chandelier. Indeed, the very air crackled with impending doom. Yet, as the fateful moment approached, Freddie was seen to be gently but firmly steered toward the conservatory by none other than old Carmichael, his uncle, who engaged him in a seemingly vital discussion about the migratory habits of the common garden snail. The soprano hit her note unmolested, the chandelier remained intact, and the doves, one later learned, were enjoying a generous portion of birdseed in a cage at the back of the house. It was a simple, bloodless victory, a triumph of quiet forethought over loud, feathered imbecility.
+
+
+--------------------------------------------------------------------------------
+File: SHAKE_The-Life-of-King-Henry-V_T02_01.txt
+Actual: Class 3: AI-mimicry
+Predicted: Class 1: Human-written
+--------------------------------------------------------------------------------
+Hark, Humphrey, dost thou not feel the trumpet's call within thy very soul? Forsooth, I see it now: our banners snapping bravely in the wind, a thousand helms that glint against the sun, and our names sung by maids for ages hence! The young fool, whose chin had yet to find acquaintance with a razor, near skipped in the sucking mud of the king's highway. His elder companion, however, merely grunted, and with a great and sorrowful effort, sought to adjust some unseen torment within his woolen hose. "I feel a plaguey itch in a place no honest man can scratch in public view," he muttered, "and I hear naught but the squelch of my boot, which hath decided to part company with its sole. Sing of my name, you say? Let them first sing of a dry sock, or a biscuit that does not fight back with the tenacity of a cornered badger. Glory is a poor poultice for a raw-rubbed thigh, my lad; a very poor poultice indeed."
+
+
+--------------------------------------------------------------------------------
+File: SHAKE_Richard-II_T05_01.txt
+Actual: Class 3: AI-mimicry
+Predicted: Class 1: Human-written
+--------------------------------------------------------------------------------
+Pray, madam, have done with such a carefully wrought sorrow, for this quiet pasture is no royal court that you must needs instruct it in the art of weeping. You fashion your despair into a public monument, and even the wind that stirs the grass seems to learn its mournful part from you. Hath your heart no private chamber for its ache, that it must ever be upon display, dressed in the grand robes of tragedy for all the world, or even for these dumb beasts, to witness? What you call feeling, I call a practiced masque! The lady turned, her face a pale moon in the fading light. “Thou, who hast known only common sorrows, canst not perceive the truth of mine. This countenance I wear is not a lie, but rather the last remaining rampart of my state; should it fall, and my true ruin show itself, what then were left of me? A queen must grieve as a queen, sir, else she is but a woman, and a woman’s tears are soon forgot.”
+
+
+--------------------------------------------------------------------------------
+File: DOYLE_MSH_08_Crooked_Man_T01_02.txt
+Actual: Class 3: AI-mimicry
+Predicted: Class 1: Human-written
+--------------------------------------------------------------------------------
+I observed the new junior clerk, Mr Abernathy, with a certain clinical interest, for his distress was quite palpable. He fumbled with his ledgers, his face the colour of old parchment, and I knew at once the precise cause of his malady. It was, of course, the unfortunate matter of the forged reference which I had uncovered upon his hiring some weeks prior—a trifling deceit which, in a moment of misguided charity, I had elected to overlook. Now, however, the firm’s senior partner was making his rounds, and the poor fellow’s guilty conscience had plainly got the better of him. He imagines, no doubt, that every footstep in the corridor signals his imminent exposure. It is a common enough phenomenon; a man may bury a misdeed with considerable success, but he fails to account for the fact that he has interred it in his own mind, from which there is, in the final analysis, no escape. The ghost is of his own making, and it will haunt him far more terribly than any living accuser ever could.
+
+
+--------------------------------------------------------------------------------
+File: DOYLE_RSH_03_Dancing_Men_T04_02.txt
+Actual: Class 3: AI-mimicry
+Predicted: Class 1: Human-written
+--------------------------------------------------------------------------------
+My dear Alistair, you enquire as to the ultimate fate of young Penrose, and I must confess the matter concluded in a fashion more dreadful than any of us could have foreseen. His devotion to the charming Miss Eva, which at first appeared a most commendable passion, had in fact soured into a species of mania, a suffocating ownership that allowed her no liberty. He begrudged her every moment spent away from him, viewing the most innocent conversation on a bustling thoroughfare as a profound betrayal. It was an affection that sought not to cherish but to cage its object, and such a thing cannot long endure in this world. The final, grim discovery at her lodgings near the Embankment served as the lamentable proof; he could not bear the thought of her belonging to another, and so, with a terrible and selfish finality, he ensured she would henceforth belong to no one at all.
+
+
+--------------------------------------------------------------------------------
+File: WODE_The-Prince-and-Betty_T01_02.txt
+Actual: Class 3: AI-mimicry
+Predicted: Class 1: Human-written
+--------------------------------------------------------------------------------
+It’s a rummy business, this whole London scene, when you stop to think about it. As I watched the human tide surge past the club window, I spotted old Boffington, a man so rich he probably used ten-pound notes for kindling, steering along a chit of a girl who wore the sort of frozen smile you see on a fish at the market. A pure business transaction, if ever I saw one. And yet, not ten feet behind them, a young fellow in a rather shabby coat was gazing at a girl with a hat that had clearly seen better days, and the two of them were beaming at one another as if they’d just been handed the keys to the city. It gave a chap pause for thought. I mean, one can get frightfully keen on the old filthy lucre, and nobody enjoys an empty trouser-pocket, but when you weigh it all up, I’m not so sure I wouldn’t trade a hefty dividend for a slice of that sort of goofy, star-struck nonsense. Dashed if I wouldn’t.
+
+

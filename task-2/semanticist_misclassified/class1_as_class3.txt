@@ -1,0 +1,167 @@
+--------------------------------------------------------------------------------
+Class 1 (Human) misclassified as Class 3 (AI-mimicry)
+Total: 9 files
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+File: 013_ASH_11_Beryl_Coronet_19.txt
+Actual: Class 1: Human-written
+Predicted: Class 3: AI-mimicry
+--------------------------------------------------------------------------------
+He was a man of about fifty, tall, portly, and imposing, with a
+massive, strongly marked face and a commanding figure. He was
+dressed in a sombre yet rich style, in black frock-coat, shining
+hat, neat brown gaiters, and well-cut pearl-grey trousers. Yet
+his actions were in absurd contrast to the dignity of his dress
+and features, for he was running hard, with occasional little
+springs, such as a weary man gives who is little accustomed to
+set any tax upon his legs. As he ran he jerked his hands up and
+down, waggled his head, and writhed his face into the most
+extraordinary contortions.
+
+--------------------------------------------------------------------------------
+File: 132_The-Innocents-Abroad-—-Volume-06_01.txt
+Actual: Class 1: Human-written
+Predicted: Class 3: AI-mimicry
+--------------------------------------------------------------------------------
+We can not forget Florence--Naples--nor the foretaste of heaven that is
+in the delicious atmosphere of Greece--and surely not Athens and the
+broken temples of the Acropolis.  Surely not venerable Rome--nor the
+green plain that compasses her round about, contrasting its brightness
+with her gray decay--nor the ruined arches that stand apart in the plain
+and clothe their looped and windowed raggedness with vines.  We shall
+remember St. Peter's: not as one sees it when he walks the streets of
+Rome and fancies all her domes are just alike, but as he sees it leagues
+away, when every meaner edifice has faded out of sight and that one dome
+looms superbly up in the flush of sunset, full of dignity and grace,
+strongly outlined as a mountain.
+
+--------------------------------------------------------------------------------
+File: 018_Henry-V_08.txt
+Actual: Class 1: Human-written
+Predicted: Class 3: AI-mimicry
+--------------------------------------------------------------------------------
+Dolph. Nay, the man hath no wit, that cannot from
+the rising of the Larke to the lodging of the Lambe,
+varie deserued prayse on my Palfray: it is a Theame as
+fluent as the Sea: Turne the Sands into eloquent tongues,
+and my Horse is argument for them all: 'tis a subiect
+for a Soueraigne to reason on, and for a Soueraignes Soueraigne
+to ride on: And for the World, familiar to vs,
+and vnknowne, to lay apart their particular Functions,
+and wonder at him, I once writ a Sonnet in his prayse,
+and began thus, Wonder of Nature
+
+--------------------------------------------------------------------------------
+File: 011_Hamlet-Prince-of-Denmark_17.txt
+Actual: Class 1: Human-written
+Predicted: Class 3: AI-mimicry
+--------------------------------------------------------------------------------
+_Ham._ (_Returning_ C.) I will tell you why; so shall my anticipation
+prevent your discovery, and your secrecy to the king and queen moult
+no feather.[35] I have of late (but wherefore I know not) lost all my
+mirth, forgone all custom of exercises; and, indeed, it goes so
+heavily with my disposition, that this goodly frame, the earth, seems
+to me a steril promontory; this most excellent canopy, the air, look
+you, this brave o'erhanging firmament, this majestical roof fretted
+with golden fire, why, it appears no other thing to me than a foul
+and pestilent congregation of vapours. What a piece of work is man!
+How noble in reason! how infinite in faculties! in form and moving
+how express[36] and admirable! in action how like an angel! in
+apprehension how like a god! the beauty of the world! the paragon[37]
+of animals! And yet, to me, what is this quintessence of dust? man
+delights not me,--nor woman neither, though by your smiling you seem
+to say so.
+
+--------------------------------------------------------------------------------
+File: 037_Measure-for-MeasureThe-Works-of-William-Shakespeare-[Cambridge-Edition]-[9-vols]_11.txt
+Actual: Class 1: Human-written
+Predicted: Class 3: AI-mimicry
+--------------------------------------------------------------------------------
+_Claud._ Ay, but to die, and go we know not where;                 115
+To lie in cold obstruction and to rot;
+This sensible warm motion to become
+A kneaded clod; and the delighted spirit
+To bathe in fiery floods, or to reside
+In thrilling region of thick-ribbed ice;                           120
+To be imprison'd in the viewless winds,
+And blown with restless violence round about
+The pendent world; or to be worse than worst
+Of those that lawless and incertain thought
+Imagine howling:--'tis too horrible!                               125
+The weariest and most loathed worldly life
+That age, ache, penury, and imprisonment
+Can lay on nature is a paradise
+To what we fear of death.
+
+--------------------------------------------------------------------------------
+File: 092_The-Two-Gentlemen-of-Verona_07.txt
+Actual: Class 1: Human-written
+Predicted: Class 3: AI-mimicry
+--------------------------------------------------------------------------------
+PROTEUS.
+Say that upon the altar of her beauty
+You sacrifice your tears, your sighs, your heart.
+Write till your ink be dry, and with your tears
+Moist it again, and frame some feeling line
+That may discover such integrity:
+For Orpheus' lute was strung with poets' sinews,
+Whose golden touch could soften steel and stones,
+Make tigers tame, and huge leviathans
+Forsake unsounded deeps to dance on sands.
+After your dire-lamenting elegies,
+Visit by night your lady's chamber-window
+With some sweet consort: to their instruments
+Tune a deploring dump; the night's dead silence
+Will well become such sweet-complaining grievance.
+This, or else nothing, will inherit her.
+
+--------------------------------------------------------------------------------
+File: 076_The-TempestThe-Works-of-William-Shakespeare-[Cambridge-Edition]-[9-vols]_08.txt
+Actual: Class 1: Human-written
+Predicted: Class 3: AI-mimicry
+--------------------------------------------------------------------------------
+_Ari._ To every article.                                           195
+I boarded the king’s ship; now on the beak,
+Now in the waist, the deck, in every cabin,
+I flamed amazement: sometime I’ld divide,
+And burn in many places; on the topmast,
+The yards and bowsprit, would I flame distinctly,                  200
+Then meet and join. Jove’s lightnings, the precursors
+O’ the dreadful thunder-claps, more momentary
+And sight-outrunning were not: the fire and cracks
+Of sulphurous roaring the most mighty Neptune
+Seem to besiege, and make his bold waves tremble,                  205
+Yea, his dread trident shake.
+
+--------------------------------------------------------------------------------
+File: 071_Mark-Twain's-Letters-—-Complete_19.txt
+Actual: Class 1: Human-written
+Predicted: Class 3: AI-mimicry
+--------------------------------------------------------------------------------
+DEAR MR. WOOD,--The beautiful mantel was put in its place an hour ago,
+and its friendly “Aloha” was the first uttered greeting my 73rd birthday
+received. It is rich in color, rich in quality, and rich in decoration,
+therefore it exactly harmonizes with the taste for such things which was
+born in me and which I have seldom been able to indulge to my content.
+It will be a great pleasure to me, daily renewed, to have under my
+eye this lovely reminder of the loveliest fleet of islands that lies
+anchored in any ocean, and I beg to thank the Committee for providing me
+that pleasure.
+
+--------------------------------------------------------------------------------
+File: 012_Piccadilly-Jim_20.txt
+Actual: Class 1: Human-written
+Predicted: Class 3: AI-mimicry
+--------------------------------------------------------------------------------
+Mr. Pett stood in the doorway, regarding his step-son with a
+sombre eye. He resented the boy's tone of easy patronage, all the
+harder to endure with philosophic calm at the present moment from
+the fact that the latter was lounging in his favourite chair.
+Even from an aesthetic point of view the sight of the bulging
+child offended him. Ogden Ford was round and blobby and looked
+overfed. He had the plethoric habit of one to whom wholesome
+exercise is a stranger and the sallow complexion of the confirmed
+candy-fiend. Even now, a bare half hour after breakfast, his jaws
+were moving with a rhythmical, champing motion.
+

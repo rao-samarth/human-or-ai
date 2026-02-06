@@ -37,7 +37,27 @@ The misclassified examples from both models are saved in [xgboost_misclassified/
 
 ## 2. Tier B: The Semanticist
 
-Here we'll use [Stanford's GloVe](https://nlp.stanford.edu/projects/glove/) embeddings with a Multi-Layer Perceptron (MLP). The MLP will classify text based purely on semantic vector embeddings. This is a test to see if our dataset separates texts based on topics or on actual authorship patterns.
+This approach uses **Word2Vec** embeddings with a Multi-Layer Perceptron (MLP) to classify text based purely on semantic vector embeddings. The detailed implementation is in [semanticist.ipynb](semanticist.ipynb).
+
+We use Google's pre-trained **300-dimensional Word2Vec embeddings** (`word2vec-google-news-300`), applying a "Bag of Means" approach where individual word vectors are averaged to create a single paragraph vector. Stopwords are removed to reduce noise, ensuring the averaged vector retains sufficient unique signal for classification.
+
+### Results
+
+**Semanticist (Word2Vec + MLP) Performance:**
+- Class 1 vs Class 2: **97.46% accuracy**
+- Class 1 vs Class 3: **95.91% accuracy**
+- Class 2 vs Class 3: **96.95% accuracy**
+- Multi-class (all 3 classes): **96.18% accuracy**
+
+### Key Findings
+
+The Semanticist dramatically outperforms the statistical models, achieving over 95% accuracy across all binary classifications. This is remarkable because it uses **only semantic information**—the meaning of words in vector space—without any of the statistical features we identified in Task 1.
+
+This tells us something profound: **AI-generated text and human-written text occupy genuinely different semantic spaces**. It's not just that AI uses different punctuation or has different TTR—the actual *meanings* and word choices diverge in ways that a neural network can reliably detect.
+
+The high accuracy also confirms that our dataset is not simply separating by topic (all texts share similar topics), but by genuine authorship patterns embedded in the semantic structure of the writing.
+
+The misclassified examples are saved in [semanticist_misclassified/](semanticist_misclassified/), organized by misclassification type.
 
 ## 3. Tier C: The Transformer
 
