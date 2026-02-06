@@ -51,13 +51,14 @@ We use Google's pre-trained **300-dimensional Word2Vec embeddings** (`word2vec-g
 
 ### Key Findings
 
-The Semanticist dramatically outperforms the statistical models, achieving over 95% accuracy across all binary classifications. This is remarkable because it uses **only semantic information**—the meaning of words in vector space—without any of the statistical features we identified in Task 1.
+The semanticist significantly outperformed the statistician. Even though the AI can count commas and mimic sentence lengths, it fails to fake the semantics which humans are able to uniquely author.
 
-This tells us something profound: **AI-generated text and human-written text occupy genuinely different semantic spaces**. It's not just that AI uses different punctuation or has different TTR—the actual *meanings* and word choices diverge in ways that a neural network can reliably detect.
+Detecting class-2 was v easy. The model saw that the AI stuck to very safe, average word choices (low variance). The Human author used concrete, specific nouns, while the Generic AI used broader, more predictable language. 
 
-The high accuracy also confirms that our dataset is not simply separating by topic (all texts share similar topics), but by genuine authorship patterns embedded in the semantic structure of the writing.
+It detected class-3 quite easily as well, showing that despite good prompt engineering, the semantic structures are still quite different.
 
-The misclassified examples are saved in [semanticist_misclassified/](semanticist_misclassified/), organized by misclassification type.
+Misclassified texts can be seen in [semanticist_misclassified/](semanticist_misclassified/).
+Visuals of a 3-D PCA-esque vector space can be seen by running the files in [semanticist-visuals/](semanticist-visuals/) in your browser.
 
 ## 3. Tier C: The Transformer
 
