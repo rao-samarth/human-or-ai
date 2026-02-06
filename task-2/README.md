@@ -58,9 +58,9 @@ Detecting class-2 was v easy. The model saw that the AI stuck to very safe, aver
 It detected class-3 quite easily as well, showing that despite good prompt engineering, the semantic structures are still quite different.
 
 Misclassified texts can be seen in [semanticist_misclassified/](semanticist_misclassified/).
-Visuals of a 3-D PCA-esque vector space can be seen by running the files in [semanticist-visuals/](semanticist-visuals/) in your browser.
+Visuals of a 3-D PCA-esque vector space can be seen by running [semanticist-visuals/all_classes.html](semanticist-visuals/all_classes.html) in your browser. 
 
 ## 3. Tier C: The Transformer
 
-This uses DistilBERT, a lighter transformer model. Transformers use self-attention—a mechanism that lets models understand which words matter most in context. For example, in the phrase *"The girl and her brother"*, the transformer associates *her* with *The girl* rather than treating each word independently. This context-awareness could help it pick up on the subtle stylistic patterns we identified in Task 1.
+This uses DistilBERT, a lighter transformer model. Transformers use self-attention. This is a mechanism that lets models understand which words matter most in context. For example, in the phrase *"The girl and her brother"*, the transformer associates *her* with *The girl* rather than treating each word independently. This context-awareness could help it pick up on the subtle stylistic patterns we identified in Task 1.
 
