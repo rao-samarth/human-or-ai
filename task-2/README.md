@@ -79,5 +79,9 @@ The suspiciously high accuracy prompted me to do 3 forensic tests. I brief about
 
 3. **Weight Inspection:** The adapter weights showed healthy standard deviation (0.0019), confirming the model learned distinct patterns rather than degenerate solutions.
 
-The model is not overfitting: the ~99% accuracy was achieved on a held-out test set (20% of data), and LoRA froze 99% of the model's weights, physically preventing memorization by restricting to only 1.3% trainable parameters.
+## Why I believe it is not overfitting
 
+- The ~99% accuracy was achieved on a held-out test set (20% of data) that the model never saw during training, proving it generalizes to new examples
+- We used LoRA, which froze 99% of the model's weights. By restricting the model to only 1.3% trainable parameters, we physically prevented it from having the capacity to memorize the training dataset, forcing it to learn stylistic patterns instead.
+
+I also ran a quick sanity check [here](sanity-test-for-tier-c/).
