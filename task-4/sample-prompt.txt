@@ -1,0 +1,20 @@
+Write ONE standalone paragraph of exactly 100-200 words.
+
+Theme (do not mention this label explicitly): [ INSERT YOUR THEME HERE ]
+
+Style constraints:
+- Neutral modern English
+- The paragraph must feel natural, not like a list or an essay.
+- Avoid numbered points, headings, or bullet lists.
+- Avoid phrases like "In conclusion", "This essay discusses", or "Overall".
+- Avoid the words: tapestry, delve, testament
+- Do not reference any specific book titles, character names, or authors.
+
+Diversity constraints:
+- Write it as a [ INSERT YOUR DIVERSITY MODE HERE ] 
+- Setting: in a [ INSERT YOUR SETTING HERE ]
+- Vary sentence length and rhythm.
+- Make it feel original and spontaneous.
+
+Output format:
+- Return only the paragraph text, nothing else.

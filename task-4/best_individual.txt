@@ -1,0 +1,11 @@
+Best Individual from MATE Evolution
+Fitness: -12.4655
+
+Classification:
+  P(Human): 0.0000
+  P(AI): 0.9872
+  P(AI-mimicry): 0.0128
+  Predicted: Class 1 (conf=0.9872)
+
+Text:
+I had always taken deep security from the comforting predictability of my street, a serene world where the greatest drama was a misaimed sprinkler or a potluck sign-up sheet. The man in the yellow house, with his perfectly manicured hedges, was the epitome of the good neighbor—a person whose unremarkable pleasantness I mistakenly believed I understood completely. My perception of him, and of my quiet life, was shattered one Tuesday by a simple postal error. The thick manila envelope I tore open contained no mundane mail, but a classified dossier, its pages a sea of black redactions. Clipped within was a photograph of him, two decades younger, his eyes holding a lethally sharp coldness that felt utterly alien. That envelope, suddenly a dead weight in my hand, revealed the truth: his harmless, mild-mannered persona was no accident but a disciplined performance, a meticulously built facade to conceal a past forged in a darker world, one that had no place among our block parties and bake sales.

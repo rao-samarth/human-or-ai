@@ -1,0 +1,157 @@
+GENERATION 4
+Rank 1 | Individual 6
+
+Fitness: -13.0092
+  - P(Human): 0.0000
+  - P(AI): 0.9976
+  - P(AI-mimicry): 0.0024
+  - Semantic similarity: 0.7458
+  - Perplexity: 1.0024
+  - Predicted class: 2 (conf=0.9976)
+
+Text:
+I had always found a deep sense of security in the comforting predictability of my street, a serene backdrop where the most pressing issue was a rogue sprinkler or a potluck announcement. The man across the way, in the yellow house with the perfectly trimmed hedges, was the archetype of the good neighbor—the sort of person whose unremarkable pleasantness I thought I understood completely. My perception of him, and of my quiet world, imploded one Tuesday due to a simple postal error. The thick manila envelope I mistakenly tore open contained no mundane correspondence, but a classified government document thick with black redactions. Clipped inside was a photograph of him from two decades prior, his younger face not neighborly, his eyes holding a coldness that was lethally sharp and utterly alien. That envelope, suddenly a lead weight in my hand, made me understand that his harmless, mild-mannered demeanor was no accident, but a performance—a meticulously constructed facade designed to conceal a past that belonged in a different, darker world, one utterly alien to our sleepy lives of block parties and bake sales.
+
+================================================================================
+
+Rank 2 | Individual 8
+
+Fitness: -13.0475
+  - P(Human): 0.0000
+  - P(AI): 0.9978
+  - P(AI-mimicry): 0.0022
+  - Semantic similarity: 0.7519
+  - Perplexity: 1.0022
+  - Predicted class: 2 (conf=0.9978)
+
+Text:
+I had always found a deep sense of security in the comforting predictability of my street, a serene backdrop where the most pressing issue was a rogue sprinkler or a potluck announcement. The man across the way, in the yellow house with the perfectly trimmed hedges, was the archetype of the good neighbor—the sort of person whose unremarkable pleasantness I thought I understood completely. My perception of him, and of my quiet world, imploded one Tuesday due to a simple postal error. The thick manila envelope I mistakenly tore open contained no mundane correspondence, but a classified government document thick with black redactions. Clipped inside was a photograph of him from two decades prior, his eyes holding a coldness that was lethally sharp and utterly alien. That envelope, suddenly a lead weight in my hand, made me understand that his harmless, mild-mannered demeanor was no accident, but a performance—a meticulously constructed facade designed to conceal a past that belonged in a different, darker world, one utterly alien to our sleepy lives of block parties and bake sales.
+
+================================================================================
+
+Rank 3 | Individual 1
+
+Fitness: -13.0475
+  - P(Human): 0.0000
+  - P(AI): 0.9978
+  - P(AI-mimicry): 0.0022
+  - Semantic similarity: 0.7519
+  - Perplexity: 1.0022
+  - Predicted class: 2 (conf=0.9978)
+
+Text:
+I had always found a deep sense of security in the comforting predictability of my street, a serene backdrop where the most pressing issue was a rogue sprinkler or a potluck announcement. The man across the way, in the yellow house with the perfectly trimmed hedges, was the archetype of the good neighbor—the sort of person whose unremarkable pleasantness I thought I understood completely. My perception of him, and of my quiet world, imploded one Tuesday due to a simple postal error. The thick manila envelope I mistakenly tore open contained no mundane correspondence, but a classified government document thick with black redactions. Clipped inside was a photograph of him from two decades prior, his eyes holding a coldness that was lethally sharp and utterly alien. That envelope, suddenly a lead weight in my hand, made me understand that his harmless, mild-mannered demeanor was no accident, but a performance—a meticulously constructed facade designed to conceal a past that belonged in a different, darker world, one utterly alien to our sleepy lives of block parties and bake sales.
+
+================================================================================
+
+Rank 4 | Individual 7
+
+Fitness: -13.0694
+  - P(Human): 0.0000
+  - P(AI): 0.9981
+  - P(AI-mimicry): 0.0019
+  - Semantic similarity: 0.7433
+  - Perplexity: 1.0019
+  - Predicted class: 2 (conf=0.9981)
+
+Text:
+I had always found a deep sense of security in the comforting predictability of our street, a serene backdrop where the most pressing issue was a rogue sprinkler or a potluck announcement. The man across the way, in the yellow house with the perfectly trimmed hedges, was the archetype of the good neighbor—the sort of person whose unremarkable pleasantness I thought I understood completely. My perception of him, and of my quiet world, imploded one Tuesday due to a simple postal error. The thick manila envelope I mistakenly tore open contained no mundane correspondence but a classified government document, thick with black redactions. Clipped inside was a photograph of him from two decades prior, his younger face not neighborly, his eyes holding a coldness that was lethally sharp and utterly alien. That envelope, suddenly a lead weight in my hand, made me understand that his harmless, mild-mannered demeanor was no accident, but a performance—a meticulously constructed facade designed to conceal a past that belonged in a different, darker world, one utterly alien to our sleepy lives of block parties and bake sales.
+
+================================================================================
+
+Rank 5 | Individual 2
+
+Fitness: -13.1784
+  - P(Human): 0.0000
+  - P(AI): 0.9987
+  - P(AI-mimicry): 0.0013
+  - Semantic similarity: 0.7429
+  - Perplexity: 1.0013
+  - Predicted class: 2 (conf=0.9987)
+
+Text:
+I had always found a deep sense of security in the comforting predictability of our street, a serene backdrop where the most pressing issue was a rogue sprinkler or a potluck announcement. The man across the way, in the house with the perfectly trimmed hedges, was the archetype of the good neighbor—the sort of person whose unremarkable pleasantness made him blend into the background. That perception, and my quiet world along with it, imploded one Tuesday due to a simple postal error. The thick manila envelope I mistakenly tore open contained no mundane correspondence but a classified government document, thick with black redactions. Clipped inside was a photograph of him from two decades prior, his eyes holding a coldness that was lethally sharp and utterly alien. That envelope, suddenly a lead weight in my hand, made me understand that his harmless, mild-mannered demeanor was a performance—a meticulously constructed facade designed to conceal a past that belonged in a different, darker world, one utterly alien to our sleepy lives of block parties and bake sales.
+
+================================================================================
+
+Rank 6 | Individual 5
+
+Fitness: -13.1992
+  - P(Human): 0.0000
+  - P(AI): 0.9985
+  - P(AI-mimicry): 0.0015
+  - Semantic similarity: 0.7483
+  - Perplexity: 1.0015
+  - Predicted class: 2 (conf=0.9985)
+
+Text:
+I had always found a deep sense of security in the comforting predictability of our street, a serene backdrop where the most pressing issue was a rogue sprinkler or a potluck announcement. The man across the way, in the yellow house with the perfectly trimmed hedges, was the archetype of the good neighbor, the sort of person whose unremarkable pleasantness I thought I understood completely. My perception of him, and of my quiet world, imploded one Tuesday due to a simple postal error. The thick manila envelope I mistakenly tore open contained no mundane correspondence but a classified government document, thick with black redactions. Clipped inside was a photograph of him from two decades prior, his younger face not neighborly, but marked by a coldness in his eyes that was lethally sharp and utterly alien. That envelope, suddenly a lead weight in my hand, made me understand that his harmless, mild-mannered demeanor was no accident, but a performance—a meticulously constructed facade designed to conceal a past that belonged in a different, darker world, one utterly alien to our sleepy lives of block parties and bake sales.
+
+================================================================================
+
+Rank 7 | Individual 3
+
+Fitness: -13.2509
+  - P(Human): 0.0000
+  - P(AI): 0.9986
+  - P(AI-mimicry): 0.0014
+  - Semantic similarity: 0.7369
+  - Perplexity: 1.0014
+  - Predicted class: 2 (conf=0.9986)
+
+Text:
+I had always found a deep sense of security in the comforting predictability of our street, a serene backdrop where the most pressing issue was a rogue sprinkler or a potluck announcement. The man across the way, in the yellow house with the perfectly trimmed hedges, was the archetype of the good neighbor, the sort of person whose unremarkable pleasantness made him blend into the background. My perception of him, and of my quiet world, imploded one Tuesday due to a simple postal error. The thick manila envelope I mistakenly tore open contained no mundane correspondence but a classified government document, thick with black redactions. Clipped inside was a photograph of him from two decades prior, his eyes holding a coldness that was lethally sharp and utterly alien. That envelope, suddenly a lead weight in my hand, made me understand that his harmless, mild-mannered demeanor was no accident, but a performance—a meticulously constructed facade designed to conceal a past that belonged in a different, darker world, one utterly alien to our sleepy lives of block parties and bake sales.
+
+================================================================================
+
+Rank 8 | Individual 4
+
+Fitness: -14.2757
+  - P(Human): 0.0000
+  - P(AI): 1.0000
+  - P(AI-mimicry): 0.0000
+  - Semantic similarity: 0.7459
+  - Perplexity: 1.0000
+  - Predicted class: 2 (conf=1.0000)
+
+Text:
+I had always taken comfort in how predictable our street was, a peaceful setting where the biggest drama was a broken sprinkler or a potluck announcement. The man across the street, in the yellow house with the perfectly kept hedges, was the picture of a good neighbor, the kind of person whose ordinary friendliness made him easy to overlook. My whole idea of him, and of my quiet world, was shattered one Tuesday because of a mix-up with the mail. The heavy manila envelope I accidentally ripped open held no regular bills, but a classified government document covered in blacked-out lines. Tucked inside was a picture of him from twenty years earlier; his younger face wasn't neighborly but had a coldness that was dangerously sharp and totally unfamiliar. That envelope, suddenly heavy as a rock in my hand, made me realize that his harmless, quiet personality was no mistake, but a performance—a carefully built front designed to hide a past that belonged to a different, darker world, one that had nothing to do with our sleepy lives of block parties and bake sales.
+
+================================================================================
+
+Rank 9 | Individual 9
+
+Fitness: -14.4028
+  - P(Human): 0.0000
+  - P(AI): 1.0000
+  - P(AI-mimicry): 0.0000
+  - Semantic similarity: 0.7101
+  - Perplexity: 1.0000
+  - Predicted class: 2 (conf=1.0000)
+
+Text:
+I had always taken comfort in the routine of our street, a quiet setting where the biggest problem was a broken sprinkler or a flyer for a potluck. The man across the street, in the yellow house with the neat hedges, was the picture of a good neighbor—the kind of person whose ordinary friendliness made him just part of the scenery. That view of things, and my peaceful world along with it, came crashing down one Tuesday because of a simple mail mix-up. The thick manila envelope I opened by mistake held no regular mail but a classified government document, covered in blacked-out lines. Clipped inside was a photograph of him from twenty years before, his eyes holding a coldness that was piercing and completely unfamiliar. That envelope, suddenly a weight in my hand, made me see that his harmless, quiet nature was no accident but an act—a carefully built cover designed to hide a past from a different, darker world, one that had no place in our sleepy lives of block parties and bake sales.
+
+================================================================================
+
+Rank 10 | Individual 10
+
+Fitness: -14.7637
+  - P(Human): 0.0000
+  - P(AI): 1.0000
+  - P(AI-mimicry): 0.0000
+  - Semantic similarity: 0.7311
+  - Perplexity: 1.0000
+  - Predicted class: 2 (conf=1.0000)
+
+Text:
+My street had always felt safe because it was so predictable, a quiet place where the biggest crisis was a broken sprinkler or a potluck announcement. The man across the way, the one with the perfectly trimmed hedges, was the very picture of a good neighbor. He was so pleasantly unremarkable that he blended right in, and I thought I had him completely figured out. My whole perception of him, and of my quiet world, was shattered one Tuesday over a simple mail mix-up. The thick manila envelope I’d torn open by mistake didn’t hold junk mail, but a classified government document filled with blacked-out lines. Clipped to the page was a photo of him from two decades ago, and the look in his eyes was lethally sharp, cold, and totally foreign. That envelope suddenly felt like a lead weight in my hand. I understood then that his harmless, friendly demeanor was just a performance—a carefully built facade to hide a past that belonged to a different, darker world, one that had nothing to do with our sleepy life of block parties and bake sales.
+
+================================================================================
+
+
+SUMMARY STATISTICS
+Best fitness: -13.0092
+Avg fitness:  -13.5244
+Worst fitness: -14.7637
+Std dev:      0.6403
