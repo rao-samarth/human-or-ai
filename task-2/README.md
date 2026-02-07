@@ -1,12 +1,34 @@
 # Task 2 - The Multi-Tiered Detective
 
+## Directory Structure
+
+```
+task-2/
+├── README.md
+├── statistician/
+│   ├── statistician.ipynb           # Tier A: XGBoost & Random Forest models
+│   ├── xgboost_misclassified/       # Misclassified examples from XGBoost
+│   └── randomforest_misclassified/  # Misclassified examples from Random Forest
+├── semanticist/
+│   ├── semanticist.ipynb            # Tier B: Word2Vec + MLP model
+│   ├── semanticist_misclassified/   # Misclassified examples from semanticist
+│   └── semanticist-visuals/         # 3D PCA visualizations of the vector space
+│       └── all_classes.html
+└── transformer/
+    ├── transformer.ipynb            # Tier C: DistilBERT + LoRA model
+    ├── transformer_misclassified/   # Misclassified examples from transformer
+    ├── lora_checkpoints/            # LoRA adapter weights from training
+    ├── tier_c_final_model/          # Final trained model
+    └── sanity-test-for-tier-c/      # Testing on a new dataset
+```
+---
 In this section, we built 3 different detectors to separate AI-generated text from human-written text. Each detector attempts to classify between class-1 (human-written), class-2 (AI-written), and class-3 (AI-mimicry). The classes refer to the dataset folders in [../dataset/](../dataset/).
 
 The 3 approaches are:
 
 ## 1. Tier A: The Statistician
 
-Using the mathematical features we identified in Task 1, we trained two ensemble models: XGBoost and Random Forest. The detailed implementation is in [statistician.ipynb](statistician.ipynb).
+Using the mathematical features we identified in Task 1, we trained two models: XGBoost and Random Forest. The detailed implementation is in [statistician/statistician.ipynb](statistician/statistician.ipynb).
 
 ### Results
 
@@ -33,11 +55,11 @@ This difference in feature importance rankings between the two models actually s
 
 Meanwhile, TTR (Type-Token Ratio) scored essentially zero in both models. This makes sense: our Task 1 analysis showed that while AI had slightly higher TTR, the variance was low and distributions overlapped significantly, making it a poor discriminator.
 
-The misclassified examples from both models are saved in [xgboost_misclassified/](xgboost_misclassified/) and [randomforest_misclassified/](randomforest_misclassified/), organized by misclassification type.
+The misclassified examples from both models are saved in [statistician/xgboost_misclassified/](statistician/xgboost_misclassified/) and [statistician/randomforest_misclassified/](statistician/randomforest_misclassified/), organized by misclassification type.
 
 ## 2. Tier B: The Semanticist
 
-This approach uses **Word2Vec** embeddings with a Multi-Layer Perceptron (MLP) to classify text based purely on semantic vector embeddings. The detailed implementation is in [semanticist.ipynb](semanticist.ipynb).
+This approach uses **Word2Vec** embeddings with a Multi-Layer Perceptron (MLP) to classify text based purely on semantic vector embeddings. The detailed implementation is in [semanticist/semanticist.ipynb](semanticist/semanticist.ipynb).
 
 We use Google's pre-trained **300-dimensional Word2Vec embeddings** (`word2vec-google-news-300`), applying a "Bag of Means" approach where individual word vectors are averaged to create a single paragraph vector. Stopwords are removed to reduce noise, ensuring the averaged vector retains sufficient unique signal for classification.
 
@@ -57,8 +79,8 @@ Detecting class-2 was v easy. The model saw that the AI stuck to very safe, aver
 
 It detected class-3 quite easily as well, showing that despite good prompt engineering, the semantic structures are still quite different.
 
-Misclassified texts can be seen in [semanticist_misclassified/](semanticist_misclassified/).
-Visuals of a 3-D PCA-esque vector space can be seen by running [semanticist-visuals/all_classes.html](semanticist-visuals/all_classes.html) in your browser. 
+Misclassified texts can be seen in [semanticist/semanticist_misclassified/](semanticist/semanticist_misclassified/).
+Visuals of a 3-D PCA-esque vector space can be seen by running [semanticist/semanticist-visuals/all_classes.html](semanticist/semanticist-visuals/all_classes.html) in your browser. 
 
 ## 3. Tier C: The Transformer
 
@@ -71,7 +93,7 @@ This uses DistilBERT, a lighter transformer model. Transformers use self-attenti
 
 ### Key Findings
 
-The suspiciously high accuracy prompted me to do 3 forensic tests. I brief about the tests here, but it is written in significantly more detail in the markdown blocks of [transformer.ipynb](transformer.ipynb)
+The suspiciously high accuracy prompted me to do 3 forensic tests. I brief about the tests here, but it is written in significantly more detail in the markdown blocks of [transformer/transformer.ipynb](transformer/transformer.ipynb)
 
 1. **Adapter On vs. Off:** With LoRA adapter enabled, the model achieved 99.64% confidence on AI text. Without it, confidence dropped to random guessing (~33% per class), proving the intelligence is contained in the fine-tuned adapter, not memorization.
 
@@ -84,4 +106,4 @@ The suspiciously high accuracy prompted me to do 3 forensic tests. I brief about
 - The ~99% accuracy was achieved on a held-out test set (20% of data) that the model never saw during training, proving it generalizes to new examples
 - We used LoRA, which froze 99% of the model's weights. By restricting the model to only 1.3% trainable parameters, we physically prevented it from having the capacity to memorize the training dataset, forcing it to learn stylistic patterns instead.
 
-I also ran a quick sanity check [here](sanity-test-for-tier-c/).
+I also ran a quick sanity check [here](transformer/sanity-test-for-tier-c/).
