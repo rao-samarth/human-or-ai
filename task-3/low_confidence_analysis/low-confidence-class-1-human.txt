@@ -1,0 +1,50 @@
+Sample 1 | Conf: 1.93% | File: 099_Sketches-New-and-Old,-Part-7._12.txt
+of discovery among the countless whirling worlds that make turmoil in the
+mighty wastes of space that stretch their solemn solitudes, their
+unimaginable vastness billions upon billions of miles away beyond the
+farthest verge of telescopic vision, till by comparison the little
+sparkling vault we used to gaze at on Earth shall seem like a remembered
+phosphorescent flash of spangles which some tropical voyager's prow
+stirred into life for a single instant, and which ten thousand miles of
+phosphorescent seas and tedious lapse of time had since diminished to an
+incident utterly trivial in his recollection.  Children occupying seats
+at the first table will be charged full fare.
+--------------------------------------------------
+Sample 2 | Conf: 46.85% | File: 013_Psmith-in-the-City_11.txt
+Psmith called for the bill and paid it in the affable manner of a
+monarch signing a charter. Mike sat silent, his mind in a whirl. He saw
+exactly what had happened. He could almost hear Psmith talking his
+father into agreeing with his scheme. He could think of nothing to say.
+As usually happened in any emotional crisis in his life, words
+absolutely deserted him. The thing was too big. Anything he could say
+would sound too feeble. When a friend has solved all your difficulties
+and smoothed out all the rough places which were looming in your path,
+you cannot thank him as if he had asked you to lunch. The occasion
+demanded some neat, polished speech; and neat, polished speeches were
+beyond Mike.
+--------------------------------------------------
+Sample 3 | Conf: 61.68% | File: 043_Pericles-Prince-of-Tyre_14.txt
+PERICLES.
+How courtesy would seem to cover sin,
+When what is done is like an hypocrite,
+The which is good in nothing but in sight!
+If it be true that I interpret false,
+Then were it certain you were not so bad
+As with foul incest to abuse your soul;
+Where now you’re both a father and a son,
+By your untimely claspings with your child,
+Which pleasures fits a husband, not a father;
+And she an eater of her mother’s flesh,
+By the defiling of her parent’s bed;
+And both like serpents are, who though they feed
+On sweetest flowers, yet they poison breed.
+Antioch, farewell! for wisdom sees, those men
+Blush not in actions blacker than the night,
+Will ’schew no course to keep them from the light.
+One sin, I know, another doth provoke;
+Murder’s as near to lust as flame to smoke:
+Poison and treason are the hands of sin,
+Ay, and the targets, to put off the shame:
+Then, lest my life be cropp’d to keep you clear,
+By flight I’ll shun the danger which I fear.
+--------------------------------------------------
