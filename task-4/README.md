@@ -13,10 +13,15 @@ To put it simply, **I am implementing a memetic algorithm instead of a genetic a
 
 **All RESULTS** as and when they were happening, as well as reports of my failure, are documented in detail in [results/](results/)
 
+# Directory Structure
+
+The main implementation is in [mate.ipynb](mate.ipynb).  
+An implementation of the algorithm with Gradient Guided Search can be found in [ggs-mate.ipynb](ggs-mate.ipynb)  
+`ggs/*` contains the evolution, population, offspring for the gradient guided search version.
+evolutopn/, population/ and offspring/ contain the evolution, population, offspring for the regular version which does not use Gradient Guided Search
+
 
 # The structure of the algorithm
-**NOTE:** The main implementation is in [mate.ipynb](mate.ipynb).  
-An implementation of the algorithm with Gradient Guided Search can be found in [ggs-mate.ipynb](ggs-mate.ipynb)
 
 ## Step 1: Define the objective
 
