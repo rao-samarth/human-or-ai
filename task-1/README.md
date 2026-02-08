@@ -36,17 +36,6 @@ This README.md provides only a brief overview of our findings. For more details,
 
 I used the Mann-Whitney U Test for all comparisons. 
 
-## Key Insights
-
-1. **The TTR Paradox**: This was surprising - AI actually has a higher Type-Token Ratio than humans, but a lower Zipf exponent. It turns out AI avoids repetitive function words (which boosts TTR) while flattening the frequency distribution overall (which reduces the gap between common and rare words).
-
-2. **Syntactic Simplification**: AI prefers right-branching structures and avoids center-embedding that humans naturally use, resulting in consistently shallower parse trees.
-
-3. **Over-Correction in Mimicry**: Something interesting happens when you tell AI to write like a human - it overshoots pretty much everything. Deeper parse trees, harder reading level, excessive em-dashes. It's like it knows it should be "more human" but doesn't quite understand what that means naturally.
-
-4. **Variance as Signal**: Here's the big one - humans are all over the place. High variance in almost every metric, both within individual texts and across different texts. AI, on the other hand, is weirdly consistent. It lacks that rhythmic modulation you see in human writing.
-
-5. **Punctuation Fingerprint**: Humans use punctuation (especially semicolons, colons, exclamation points) in ways AI rarely replicates, likely due to training corpus biases toward formal/neutral text.
 
 ## Methods & Tools
 
