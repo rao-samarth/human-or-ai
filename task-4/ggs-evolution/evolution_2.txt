@@ -1,0 +1,157 @@
+GENERATION 2
+Rank 1 | Individual 10
+
+Fitness: -6.4385
+  - P(Human): 0.0017
+  - P(AI): 0.9983
+  - P(AI-mimicry): 0.0001
+  - Semantic similarity: 0.8335
+  - Perplexity: 1.0017
+  - Predicted class: 2 (conf=0.9983)
+
+Text:
+I don't know, man, just the quiet hum of this neighborhood, it was just this feeling like everything was totally fine, you know, a cozy feeling of normalness where the biggest deal was just some zoning thing or an unkempt lawn or something like that and i really thought like, truly thought i knew the man living in the yellow house across the street, you know what i mean, he was that kind of guy who returned borrowed tools early and bought girl scout cookies by the case, almost invisible in his decency, and that whole thing fell apart the afternoon when i totally opened his mail, a simple mix - up by the postman, and the letter wasn ' t a power bill or a birthday card or something, not even close, man, no, no, no, it was some kind of a heavily redacted government dossier with a photo of him looking twenty years younger and terrifyingly cold eyes or something scary and i was just standing there, standing out there on my own porch, holding the envelope that felt like it dropped a ton of bricks right on me that his whole nice guy thing wasn ' t a real thing at all, it was just a cover, totally perfect and impenetrable, hiding a past that had no business existing between the library and the bakery, not in a town like this, you know, I mean, come on, for real, I mean seriously.
+
+================================================================================
+
+Rank 2 | Individual 9
+
+Fitness: -6.5891
+  - P(Human): 0.0015
+  - P(AI): 0.9984
+  - P(AI-mimicry): 0.0001
+  - Semantic similarity: 0.7903
+  - Perplexity: 1.0016
+  - Predicted class: 2 (conf=0.9984)
+
+Text:
+You know, the quiet vibe of this place kinda always felt like, well, I guess, you know, a soft blanket of normal stuff where the biggest deal was just a zoning thing or an unkempt yard or something like that, you know. Like, I really thought I knew the man living in the yellow house across the street. He was that kind of guy who returned borrowed tools early and bought Girl Scout cookies by the case, pretty much invisible in his decency, but that whole thing fell apart the afternoon when I accidentally opened his mail, a simple mix-up by the postman and the letter wasn't a utility bill or a birthday card or anything like that. Not even close to that stuff, no, it was some kind of heavily redacted government dossier with a photo of him looking twenty years younger and scarily cold or something like that. I'm standing there on my own porch, holding the thing that felt like it weighed a ton, you know, and it kinda hit me right there and I just realized that his whole nice guy act wasn't just a personality thing, I mean, it was a cover-up, perfect and impenetrable, hiding a past that had no business existing between the library and the bakery, especially in a neighborhood like this, you know.
+
+================================================================================
+
+Rank 3 | Individual 1
+
+Fitness: -6.7466
+  - P(Human): 0.0014
+  - P(AI): 0.9986
+  - P(AI-mimicry): 0.0000
+  - Semantic similarity: 0.7619
+  - Perplexity: 1.0014
+  - Predicted class: 2 (conf=0.9986)
+
+Text:
+I guess, really, the whole vibe of this little place always felt like home, a warm blanket of normalness where the biggest thing was just a neighbor thing or an unkempt yard or something like that. And I really believed, I mean, like, I really thought I knew the guy living in the yellow house across the street, you know? You know, like, he was that kind of guy who returned borrowed tools early and bought those Girl Scout cookies by the case, almost too nice in his decency, just a plain good guy. But then it all shattered when I accidentally opened his mail, a simple mix-up by the postman. And the letter wasn't a utility bill or a birthday card, you know, junk mail or anything like that. No, no, no, not even close. Like, this thing was, it was a crazy redacted government file with a photo of him looking twenty years younger and seriously cold or something. I swear, my heart just stopped right there on my porch, just holding the thing that felt like it weighed a ton of bricks. So I'm standing there and there it just hit me that his whole nice guy act wasn't just a personality thing at all, you know? It was a total front, good and solid, like, a cover that had no business existing between the library and the bakery, not in a town like this, at all. You get me?
+
+================================================================================
+
+Rank 4 | Individual 5
+
+Fitness: -9.7221
+  - P(Human): 0.0001
+  - P(AI): 0.9999
+  - P(AI-mimicry): 0.0000
+  - Semantic similarity: 0.8557
+  - Perplexity: 1.0001
+  - Predicted class: 2 (conf=0.9999)
+
+Text:
+Man, the quiet hum of this little neighborhood always felt like home, you know, a warm blanket of normalness where the biggest deal was just a zoning thing or an unkempt lawn or something. and I honestly, man, I really thought i knew the guy living in the yellow house across the street. he was the kind of guy who brought back tools early and bought those girl scout cookies by the case, almost boring in his decency, just a really good guy, or so I thought. that whole thing crumbled one day when I accidentally opened his mail, a simple mix - up by the postman. the letter wasn ' t a utility bill or a birthday card or anything, not even close, man. it was a heavily redacted government dossier with a photo of him looking twenty years younger and freaking cold and there I was, standing on my own porch, holding this thing that suddenly felt like it weighed a ton, you know? and then it just hit me that his whole nice guy act wasn ' t just a personality thing. it was a cover, a perfect, like, and impenetrable disguise, hiding, you know, a history that had no business existing between the library and the bakery, I mean, not in a town like this, no way, man.
+
+================================================================================
+
+Rank 5 | Individual 2
+
+Fitness: -11.7249
+  - P(Human): 0.0000
+  - P(AI): 1.0000
+  - P(AI-mimicry): 0.0000
+  - Semantic similarity: 0.8941
+  - Perplexity: 1.0000
+  - Predicted class: 2 (conf=1.0000)
+
+Text:
+You know, the quiet vibe of this place always felt like home, you know, a warm blanket of normalness where the biggest deal was just a neighbor fight or an unkempt lawn, you know, and I really, like, I thought I knew the man living in the yellow house across the street. He was the kind of person who returned borrowed tools early and bought those girl scout cookies by the case, almost boring in his decency. That whole thing crashed the afternoon I accidentally opened up his mail, a simple mix-up by the postman. The letter wasn't a utility bill or a birthday card or something, not even close, man. It was this heavily redacted government dossier with a photo of him looking twenty years younger and terrifyingly cold. And then suddenly I don't know man I was just standing on my own porch, holding this thing that suddenly felt like it weighed a ton, and then it just hit me that his whole quiet act wasn't just a personality thing. It was a totally perfect disguise, you know, impenetrable, hiding a history that had no business existing between the library and the bakery, not in a town like this, for real.
+
+================================================================================
+
+Rank 6 | Individual 4
+
+Fitness: -12.3032
+  - P(Human): 0.0000
+  - P(AI): 0.9999
+  - P(AI-mimicry): 0.0001
+  - Semantic similarity: 0.8986
+  - Perplexity: 1.0001
+  - Predicted class: 2 (conf=0.9999)
+
+Text:
+The quiet hum of this place always felt like, i dunno, safety, a warm blanket of normal stuff where the biggest deal was just a fence dispute or an unkempt lawn, you know? i really, honestly, truly thought i knew the man living in the yellow house across the street; he was that kind of guy who returned borrowed tools early and bought girl scout cookies by the case, practically invisible in his decency. That whole thing shattered the afternoon i accidentally opened his mail—a simple mix-up by the postman—and the letter wasn't a utility bill or a birthday card, nope, not even close, man. It was some kind of heavily redacted government dossier with a photo of him looking twenty years younger and terrifyingly cold, and i was just standing there on my own porch holding this envelope that felt like it weighed a ton. I guess that's when it hit me that his whole nice guy act wasn't a personality thing. It was a cover-up, perfect and impenetrable, hiding a past that had no business existing between the library and the bakery, not in a town like this, anyway.
+
+================================================================================
+
+Rank 7 | Individual 6
+
+Fitness: -12.5693
+  - P(Human): 0.0000
+  - P(AI): 1.0000
+  - P(AI-mimicry): 0.0000
+  - Semantic similarity: 0.8634
+  - Perplexity: 1.0000
+  - Predicted class: 2 (conf=1.0000)
+
+Text:
+the quiet vibe of this place always felt like home, a warm feeling of normalness where the biggest deal was just a fence dispute or an unkempt lawn or something. and I really, like, I thought i knew the guy living in the yellow house across the street, you know? he was that kind of guy who returned borrowed tools early and bought girl scout cookies by the case, practically invisible in his decency. then one day i accidentally opened his mail, a simple mix - up by the postman, and the letter wasn ' t a utility bill or a birthday card or anything like that, not even close, man, because it was a heavily redacted government dossier with a photo of him looking twenty years younger and scarily cold. I was just standing there on my porch, you know, and the thing felt so heavy, like it was in that one moment that I finally realized that his whole nice guy act wasn ' t a real thing. it was a cover, solid and impenetrable, hiding a past that had no business existing between the library and the bakery, you know?
+
+================================================================================
+
+Rank 8 | Individual 3
+
+Fitness: -12.5925
+  - P(Human): 0.0000
+  - P(AI): 1.0000
+  - P(AI-mimicry): 0.0000
+  - Semantic similarity: 0.9039
+  - Perplexity: 1.0000
+  - Predicted class: 2 (conf=1.0000)
+
+Text:
+The quiet hum of this place always felt like home, a soft blanket of normalness where the biggest deal was just a fence dispute or an unkempt lawn. i really, honestly, truly thought i knew the man living in the yellow house across the street, you know? he was the kind of person who returned borrowed tools early and bought girl scout cookies by the case, practically invisible in his decency. that whole thing shattered the afternoon i accidentally opened his mail, a simple mix-up by the postman. the letter wasn't a utility bill or a birthday card, nope, not even close. it was some kind of a heavily redacted government dossier with a photo of him looking twenty years younger and terrifyingly cold, and standing there on my own porch, holding the envelope that felt like it weighed a ton, it just kinda hit me that his whole nice guy act wasn't a personality thing. it was a cover-up, perfect and impenetrable, hiding a past that had no business existing between the library and the bakery, not in a town like this, anyway.
+
+================================================================================
+
+Rank 9 | Individual 7
+
+Fitness: -12.7765
+  - P(Human): 0.0000
+  - P(AI): 1.0000
+  - P(AI-mimicry): 0.0000
+  - Semantic similarity: 0.9094
+  - Perplexity: 1.0000
+  - Predicted class: 2 (conf=1.0000)
+
+Text:
+The quiet hum of this place always felt like, you know, safety, a soft blanket of normal stuff where the biggest drama was just a dumb fight or an unkempt lawn. I really thought I knew the man living in the yellow house across the street; he was the kind of person who returned borrowed tools early and bought girl scout cookies by the case, almost boring in his decency. That whole thing shattered the afternoon I kinda opened his mail—a simple mix-up by the postman—and the letter wasn't a utility bill or a birthday card or anything like that. It was this thing, a heavily redacted government dossier with a photo of him looking twenty years younger and terrifyingly cold. So there I was, standing on my own porch, holding the envelope that suddenly felt like it weighed a ton, and I guess that's when I realized his whole quiet act wasn't a personality thing. It was a cover-up, a totally perfect and impenetrable disguise, hiding a history that had no business existing between the library and the bakery.
+
+================================================================================
+
+Rank 10 | Individual 8
+
+Fitness: -13.0017
+  - P(Human): 0.0000
+  - P(AI): 1.0000
+  - P(AI-mimicry): 0.0000
+  - Semantic similarity: 0.9073
+  - Perplexity: 1.0000
+  - Predicted class: 2 (conf=1.0000)
+
+Text:
+Anyway, the quiet vibe of this place always felt like home, you know, a warm blanket of normalness where the biggest deal was just an unkempt lawn or something. And I really, honestly, truly thought I knew the guy living in the yellow house across the street; he was the kind of person who returned borrowed tools early and bought girl scout cookies by the case, almost boring in his decency. That whole thing crumbled the day I accidentally opened his mail—a simple mix-up by the postman. The letter wasn't a utility bill or a birthday card, not even close, man. It was a heavily redacted government dossier with a photo of him looking twenty years younger and terrifyingly cold, I dunno. Standing there on my own porch, holding the thing that suddenly felt like it weighed a ton, it just hit me that his whole nice guy act wasn't just a personality thing. It was a cover, a totally perfect and impenetrable disguise, hiding a history that had no business existing between the library and the bakery.
+
+================================================================================
+
+
+SUMMARY STATISTICS
+Best fitness: -6.4385
+Avg fitness:  -10.4464
+Worst fitness: -13.0017
+Std dev:      2.6704

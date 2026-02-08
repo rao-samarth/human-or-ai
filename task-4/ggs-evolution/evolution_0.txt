@@ -1,0 +1,157 @@
+GENERATION 0
+Rank 1 | Individual 10
+
+Fitness: -13.0743
+  - P(Human): 0.0000
+  - P(AI): 1.0000
+  - P(AI-mimicry): 0.0000
+  - Semantic similarity: 0.9714
+  - Perplexity: 1.0000
+  - Predicted class: 2 (conf=1.0000)
+
+Text:
+The quiet hum of this neighborhood always felt like safety, a soft blanket of routine where the biggest drama was usually a neighbor dispute or an unkempt lawn. I really thought i knew the man living in the yellow house across the street. he was that kind of guy who returned borrowed tools early and bought girl scout cookies by the case, practically invisible in his decency. that illusion shattered the afternoon I accidentally opened his mail, a simple mix - up by the postman. the letter wasn ' t a utility bill or a birthday card but it was a heavily redacted government dossier with a photo of him looking twenty years younger and terrifyingly cold. I was there on my porch, holding the envelope that felt real heavy, I realized his whole act wasn ' t a personality thing. it was a cover, good and solid, hiding a history that had no business existing between the library and the bakery.
+
+================================================================================
+
+Rank 2 | Individual 2
+
+Fitness: -13.2713
+  - P(Human): 0.0000
+  - P(AI): 1.0000
+  - P(AI-mimicry): 0.0000
+  - Semantic similarity: 0.9336
+  - Perplexity: 1.0000
+  - Predicted class: 2 (conf=1.0000)
+
+Text:
+The quiet hum of this neighborhood always felt like safety, a soft blanket of routine where the biggest deal was just a zoning dispute or an unkempt lawn. I really thought I knew the man living in the yellow house across the street. he was the kind of person who returned borrowed tools early and bought girl Scout cookies by the case, practically invisible in his decency. that whole thing shattered the afternoon I accidentally opened his mail, a simple mix - up by the postman. the letter wasn ' t a utility bill or a birthday card, nope, it was a heavily redacted government dossier with a photo of him looking twenty years younger and terrifyingly cold. Standing there on my porch, holding the envelope that suddenly felt heavy, it kind of hit me his gentle demeanor wasn ' t a personality thing. it was a cover-up, perfect and impenetrable, hiding a history that had no business existing between the library and the bakery.
+
+================================================================================
+
+Rank 3 | Individual 3
+
+Fitness: -13.6602
+  - P(Human): 0.0000
+  - P(AI): 1.0000
+  - P(AI-mimicry): 0.0000
+  - Semantic similarity: 0.9176
+  - Perplexity: 1.0000
+  - Predicted class: 2 (conf=1.0000)
+
+Text:
+The quiet hum of this place always felt like, I dunno, safety, a soft little bubble of routine where the biggest deal was just a zoning dispute or an unkempt lawn. You know, I thought I knew the man living in the yellow house across the street. He was the kind of person who returned borrowed tools early and bought Girl Scout cookies by the case, practically boring in his decency. That whole idea fell apart the afternoon I accidentally opened his mail, a simple mix-up by the postman. The letter wasn't a utility bill or a birthday card, but no, it was a heavily redacted government dossier with a photo of him looking twenty years younger and terrifyingly cold. And standing there on my own porch, holding the thing that felt like it weighed a ton, I realized his whole quiet demeanor wasn't who he really was. It was a cover, perfect and, like, impossible to see through, hiding a history that had no business existing between the library and the bakery.
+
+================================================================================
+
+Rank 4 | Individual 8
+
+Fitness: -13.8433
+  - P(Human): 0.0000
+  - P(AI): 1.0000
+  - P(AI-mimicry): 0.0000
+  - Semantic similarity: 0.8859
+  - Perplexity: 1.0000
+  - Predicted class: 2 (conf=1.0000)
+
+Text:
+The quiet hum of our street always felt like safety, a soft feeling of the usual where the biggest drama was just a fence dispute or an unkempt lawn, and I honestly believed i knew the man living in the yellow house across the street. he was the kind of person who returned borrowed tools early and bought girl scout cookies by the case, practically hidden in his decency. that whole thing shattered the afternoon I somehow opened his mail, a simple mix - up by the postman. the letter wasn ' t a utility bill or a birthday card, but it was a heavily redacted government dossier with a photo of him looking twenty years younger and terrifyingly cold. I stood there on my own porch, holding the thing that felt real heavy, and I knew his gentle demeanor wasn ' t a nice guy thing it was just a really good cover, and impenetrable, covering a past that had no business existing between the library and the grocery store.
+
+================================================================================
+
+Rank 5 | Individual 5
+
+Fitness: -13.8848
+  - P(Human): 0.0000
+  - P(AI): 1.0000
+  - P(AI-mimicry): 0.0000
+  - Semantic similarity: 0.9392
+  - Perplexity: 1.0000
+  - Predicted class: 2 (conf=1.0000)
+
+Text:
+The quiet hum of this place always felt like safety, a soft blanket of routine where the biggest thing was usually a fence dispute or an unkempt lawn. I really just thought I knew the man living in the yellow house across the street. he was the kind of person who returned borrowed tools early and bought girl scout cookies by the case, practically invisible in his decency. that feeling shattered the afternoon I kinda opened his mail, a simple mix - up by the postman. the letter wasn ' t a utility bill or a birthday card ; it was a heavily redacted government dossier with a photo of him looking twenty years younger and terrifyingly cold. standing there on my porch, holding the envelope that suddenly felt heavy, and I realized his whole gentle demeanor wasn ' t a personality trait. it was a cover, perfect and impenetrable, hiding a history that had no business existing between the library and the bakery.
+
+================================================================================
+
+Rank 6 | Individual 7
+
+Fitness: -13.9747
+  - P(Human): 0.0000
+  - P(AI): 1.0000
+  - P(AI-mimicry): 0.0000
+  - Semantic similarity: 0.9368
+  - Perplexity: 1.0000
+  - Predicted class: 2 (conf=1.0000)
+
+Text:
+The quiet hum of this neighborhood always felt like safety, a soft blanket of routine where the biggest deal was usually a zoning dispute or an unkempt lawn. I mean, I really thought I knew the man living in the yellow house across the street. He was the kind of person who returned borrowed tools early and bought Girl Scout cookies by the case, practically invisible in his decency. That all changed the afternoon I just opened his mail, a simple mix-up by the postman. The letter wasn't a utility bill or a birthday card, but it was a heavily redacted government dossier with a photo of him looking twenty years younger and terrifyingly cold. So I was standing on my own porch, holding the envelope that felt suddenly heavy, and it hit me his gentle demeanor wasn't a personality thing. It was a cover, perfect and impenetrable, hiding a history that had no business existing between the library and the bakery.
+
+================================================================================
+
+Rank 7 | Individual 1
+
+Fitness: -14.0441
+  - P(Human): 0.0000
+  - P(AI): 1.0000
+  - P(AI-mimicry): 0.0000
+  - Semantic similarity: 1.0000
+  - Perplexity: 1.0000
+  - Predicted class: 2 (conf=1.0000)
+
+Text:
+The quiet hum of this neighborhood always felt like safety, a soft blanket of routine where the biggest scandal was usually a zoning dispute or an unkempt lawn. I honestly believed I knew the man living in the yellow bungalow across the street. He was the sort of person who returned borrowed tools early and bought Girl Scout cookies by the case, practically invisible in his decency. That illusion shattered the afternoon I accidentally opened his mail, a simple mix-up by the postman. The letter wasn't a utility bill or a birthday card; it was a heavily redacted government dossier with a photo of him looking twenty years younger and terrifyingly cold. Standing there on my porch, holding the envelope that felt suddenly heavy, I realized his gentle demeanor wasn't a personality trait. It was a camouflage, perfect and impenetrable, hiding a history that had no business existing between the library and the bakery.
+
+================================================================================
+
+Rank 8 | Individual 6
+
+Fitness: -14.0441
+  - P(Human): 0.0000
+  - P(AI): 1.0000
+  - P(AI-mimicry): 0.0000
+  - Semantic similarity: 1.0000
+  - Perplexity: 1.0000
+  - Predicted class: 2 (conf=1.0000)
+
+Text:
+The quiet hum of this neighborhood always felt like safety, a soft blanket of routine where the biggest scandal was usually a zoning dispute or an unkempt lawn. I honestly believed I knew the man living in the yellow bungalow across the street. He was the sort of person who returned borrowed tools early and bought Girl Scout cookies by the case, practically invisible in his decency. That illusion shattered the afternoon I accidentally opened his mail, a simple mix-up by the postman. The letter wasn't a utility bill or a birthday card; it was a heavily redacted government dossier with a photo of him looking twenty years younger and terrifyingly cold. Standing there on my porch, holding the envelope that felt suddenly heavy, I realized his gentle demeanor wasn't a personality trait. It was a camouflage, perfect and impenetrable, hiding a history that had no business existing between the library and the bakery.
+
+================================================================================
+
+Rank 9 | Individual 9
+
+Fitness: -14.1937
+  - P(Human): 0.0000
+  - P(AI): 1.0000
+  - P(AI-mimicry): 0.0000
+  - Semantic similarity: 0.9432
+  - Perplexity: 1.0000
+  - Predicted class: 2 (conf=1.0000)
+
+Text:
+the quiet vibe of this place always felt like safety, a soft blanket of routine where the biggest problem was usually a little dispute or an unkempt lawn. You know, I really thought i knew the man living in the yellow house across the street. he was the kind of person who returned borrowed tools early and bought girl scout cookies by the case, practically invisible in his decency. that whole picture shattered the afternoon I accidentally opened his mail, a simple mix - up by the postman. the letter wasn ' t a utility bill or a birthday card, but it was a heavily redacted secret dossier with a photo of him looking twenty years younger and terrifyingly cold. So standing there on my porch, holding the envelope that felt suddenly heavy, I guess I realized his gentle act wasn ' t a real thing. it was just a cover, perfect and impenetrable, hiding a history that had no business existing between the library and the bakery.
+
+================================================================================
+
+Rank 10 | Individual 4
+
+Fitness: -14.5154
+  - P(Human): 0.0000
+  - P(AI): 1.0000
+  - P(AI-mimicry): 0.0000
+  - Semantic similarity: 0.9486
+  - Perplexity: 1.0000
+  - Predicted class: 2 (conf=1.0000)
+
+Text:
+The quiet hum of this neighborhood always felt like safety, a soft blanket of normal life where the biggest thing was maybe a zoning dispute or an unkempt lawn. I guess I really thought I knew the man living in the yellow house across the street. He was the kind of person who returned borrowed tools early and bought Girl Scout cookies by the case, practically invisible in his decency. That all fell apart the day I opened his mail, a simple mix-up by the postman. The letter wasn't a utility bill or a birthday card, but it was a heavily redacted government dossier with a photo of him looking twenty years younger and terrifyingly cold. So I'm there on my porch, holding the envelope that felt suddenly heavy, and I realized his whole demeanor wasn't a personality trait. It was a front, perfect and impenetrable, hiding a history that had no business existing between the library and the bakery.
+
+================================================================================
+
+
+SUMMARY STATISTICS
+Best fitness: -13.0743
+Avg fitness:  -13.8506
+Worst fitness: -14.5154
+Std dev:      0.4032

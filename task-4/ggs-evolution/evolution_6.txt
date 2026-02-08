@@ -1,0 +1,157 @@
+GENERATION 6
+Rank 1 | Individual 1
+
+Fitness: -2.0754
+  - P(Human): 0.1518
+  - P(AI): 0.8479
+  - P(AI-mimicry): 0.0003
+  - Semantic similarity: 0.7548
+  - Perplexity: 1.1794
+  - Predicted class: 2 (conf=0.8479)
+
+Text:
+you know, there was always this kind of a safe feeling to it in this whole neighborhood thing and it was kinda like, i don ' t know, the cozy feeling of this little place we call home like a soft blanket of sameness, you know so and i really did think i did, like, i thought i knew the guy living in the yellow house across the street and i mean, he was the kind of guy who returned borrowed stuff early and bought those Girl Scout cookies by the case just like almost too nice in his decency, you know what i mean right? but then it all came crashing down the day I opened his mail after a dumb mix - up by the postman, you know, so and the letter wasn ' t a power bill or a birthday card, oh man, not even close man like, no way, no, no way, this thing was some kind of like redacted government file with a picture of him looking twenty years younger and scarily cold and it totally gave me the creeps so i was just standing right there on my own porch and this envelope felt like it weighed a ton of bricks and it just hit me that that whole nice guy act wasn ' t really just a personality thing at all like you know it was a cover - up, just perfect and impenetrable, hiding some crazy other life that had no business existing between the library and the bakery I mean what was going on here in a place like this things like that don ' t happen
+
+================================================================================
+
+Rank 2 | Individual 10
+
+Fitness: -3.2272
+  - P(Human): 0.0486
+  - P(AI): 0.9512
+  - P(AI-mimicry): 0.0002
+  - Semantic similarity: 0.7486
+  - Perplexity: 1.0513
+  - Predicted class: 2 (conf=0.9512)
+
+Text:
+you know, there's this kind of feeling you get used to in this whole neighborhood thing, a kind of blanket of sameness, you know like where the biggest deal was an unkempt yard or something lame you know what i mean it's silly and i really did think i knew the guy in the yellow house across the street. i mean, he was the kind of guy who returned borrowed stuff early and bought those girl scout cookies by the case, like almost too nice in his decency, you know? but then it all fell apart when i accidentally opened his mail, a simple mix - up by the postman, you know, it happens and the letter wasn ' t a power bill or a birthday card, hell no, not even close man, like, no way, dude, this thing was some kind of like blacked - out government stuff with a picture of him looking twenty years younger with these just dead cold eyes that really gave me the creeps man so i was just standing right there on my own front porch holding this whole thing like it was a ton of bricks right on me, and it just hit me that that whole nice guy act wasn ' t his real self or something i don't know it was a cover - up, just perfect and impenetrable, hiding some whole other life that had no business existing between the library and the bakery man i mean come on man, right, in a place like this, things like that just don ' t happen, you get me?
+
+================================================================================
+
+Rank 3 | Individual 4
+
+Fitness: -3.6118
+  - P(Human): 0.0311
+  - P(AI): 0.9688
+  - P(AI-mimicry): 0.0001
+  - Semantic similarity: 0.7801
+  - Perplexity: 1.0322
+  - Predicted class: 2 (conf=0.9688)
+
+Text:
+you know how it's all quiet and safe and boring and stuff to in a little place you call home and it's kind of same old where the biggest deal was some stupid thing like you know what i mean, right? and i really did think i knew the guy in the yellow house across the street. he was that kind of guy who returned your stuff early and bought those Girl Scout cookies by the case, almost too nice in his decency, like almost invisible, you know? but then it all fell apart when i accidentally opened his mail, a simple mix - up by the postman, whatever, right? and the letter wasn't a utility bill or a birthday card, not even close man, like, no way, no, no way, this thing here was some kind of like redacted government dossier with a photo of him looking twenty years younger with these just scarily dead cold eyes that gave me the creeps so bad, you know, for real. i was just standing there on my own front porch holding this envelope that felt like it dropped a ton of bricks right on me, and it just hit me that his whole nice guy act wasn't a real thing at all, you know? it was a cover - up, just perfect and impenetrable, hiding some whole other life that had no business existing between the library and the bakery around the corner, come on man, not in a place like this, things like that just don't happen here, you get me?
+
+================================================================================
+
+Rank 4 | Individual 3
+
+Fitness: -4.3445
+  - P(Human): 0.0147
+  - P(AI): 0.9852
+  - P(AI-mimicry): 0.0001
+  - Semantic similarity: 0.7884
+  - Perplexity: 1.0150
+  - Predicted class: 2 (conf=0.9852)
+
+Text:
+you know, there's this kinda quiet vibe you get used to in a little place like this, a sort of sameness where the biggest drama is some lawn thing, you know what i mean, right? and I really did think i knew the guy in the yellow house across the street. he was the kind of guy who returned your stuff early and bought those girl scout cookies by the case, almost too nice in his decency, like almost invisible, you know? but then it all fell apart when i accidentally opened his mail, a simple mix-up by the postman, whatever, right. and the letter wasn't a power bill or a birthday card, uh uh, not even close man, like, no way, no, no way dude. this thing was some kind of heavily redacted government dossier with a photo of him looking twenty years younger with these just scarily dead cold eyes that gave me the creeps so bad, for real. so i was just standing there on my own porch, holding this thing that felt like it dropped a ton of bricks right on me, and it just hit me that that whole nice quiet guy act wasn't his real self at all, you know? it was a cover-up, just perfect and impenetrable, hiding some whole other life that had no business existing between the library and the bakery, man. I mean, come on, not in a place like this, things like that just don't happen here, you get me, right?
+
+================================================================================
+
+Rank 5 | Individual 8
+
+Fitness: -4.5682
+  - P(Human): 0.0116
+  - P(AI): 0.9883
+  - P(AI-mimicry): 0.0001
+  - Semantic similarity: 0.7941
+  - Perplexity: 1.0118
+  - Predicted class: 2 (conf=0.9883)
+
+Text:
+you know, there's just this feeling of, i don't know, safety you get used to in this whole neighborhood, you know, like this big soft blanket of sameness, yeah, you know what i mean? and i really did think i knew the guy living in the yellow house across the street. he was the kind of guy who returned borrowed stuff early and bought those girl scout cookies by the case, right, like almost too nice in his decency, you know? but then it all fell apart when i accidentally opened his mail, a simple mix - up by the postman, whatever, right. and the letter wasn't a power bill or a birthday card. i mean, not even close. like, no way, no damn way. this thing was some kind of weird redacted government dossier with a photo of him looking twenty years younger with these just scarily dead cold eyes that gave me the creeps so bad, for real. i was just standing there on my own porch and this envelope felt like it dropped a ton of bricks right on me. and it just hit me that that whole nice guy act wasn't really a personality thing at all, you know? it was a cover - up, just perfect and impenetrable, hiding some whole other life that had no business existing between the library and the bakery. i mean, what the hell, come on, in a place like this, things like that don't happen here, you get me?
+
+================================================================================
+
+Rank 6 | Individual 2
+
+Fitness: -4.9265
+  - P(Human): 0.0082
+  - P(AI): 0.9917
+  - P(AI-mimicry): 0.0001
+  - Semantic similarity: 0.7904
+  - Perplexity: 1.0084
+  - Predicted class: 2 (conf=0.9917)
+
+Text:
+you know, there's this kinda quiet vibe you get used to in this little place we call home, a sort of sameness where the biggest drama was an unkempt yard or something like that, you know what I mean? and I really did think I knew the guy in the yellow house across the street. He was that kind of guy who returned your stuff early and bought those Girl Scout cookies by the case, almost too nice in his decency, right, like almost invisible, you know? But then it all fell apart when I accidentally opened his mail, a simple mix-up by the postman, you know, whatever, right? And the letter wasn't a power bill or a birthday card, uh uh, not even close man, like, no, no way. This thing was some kind of heavily redacted government dossier with a photo of him looking twenty years younger with these just scarily dead cold eyes that just gave me the creeps so bad, you know, for real. I was just standing there on my own porch, holding this thing that felt like it dropped a ton of bricks right on me, and it just hit me that his whole nice quiet guy act wasn't a real thing at all, you know? It was a cover-up, just perfect and impenetrable, hiding some whole other life that had no business existing between the library and the bakery, man. I mean, come on, right, not in a place like this. Things like that just don't happen here, man, you get me?
+
+================================================================================
+
+Rank 7 | Individual 9
+
+Fitness: -5.1396
+  - P(Human): 0.0065
+  - P(AI): 0.9934
+  - P(AI-mimicry): 0.0001
+  - Semantic similarity: 0.7992
+  - Perplexity: 1.0066
+  - Predicted class: 2 (conf=0.9934)
+
+Text:
+you know, there's this kinda cozy feeling you get used to in a neighborhood like this, a cozy kind of sameness where the biggest drama is some lawn thing, you know what i mean? and i really did think i knew the guy living in the yellow house across the street. he was the sort of guy who returned borrowed stuff early and bought those girl scout cookies by the case, like, almost too nice in his decency, you know? but then it all fell apart when i accidentally opened his mail, a simple mix-up by the postman, you know, whatever, and the letter wasn't a power bill or a birthday card, i mean, not even close man like, no way, no, no way. this thing was some kind of heavily redacted government dossier with a photo of him looking twenty years younger with these just scarily dead cold eyes that totally gave me the creeps so bad. i was just standing there on my own porch and this envelope felt like it weighed a ton of bricks, and it just hit me that that whole nice guy act wasn't really just a personality thing at all, you know? it was a cover-up, just perfect and impenetrable, hiding some crazy other life that had no business existing between the library and the bakery, man. i mean, come on, not in a place like this one, you get me? things like that don't happen here.
+
+================================================================================
+
+Rank 8 | Individual 6
+
+Fitness: -5.3459
+  - P(Human): 0.0056
+  - P(AI): 0.9943
+  - P(AI-mimicry): 0.0001
+  - Semantic similarity: 0.7699
+  - Perplexity: 1.0057
+  - Predicted class: 2 (conf=0.9943)
+
+Text:
+you know, there's this kind of quiet rhythm you get used to in this little place we call home, a place where pretty much the biggest drama was an unkempt lawn, you know what i mean. and i really did think i knew the guy in the yellow house across the street. he was the kind of guy who returned your stuff early and bought those Girl Scout cookies by the box, almost too nice in his decency, right, like almost invisible, you know what i mean. but then it all fell apart when i accidentally opened his mail, a simple mix-up by the postman, right, total mistake, and the letter wasn't a power bill or a birthday card or anything like that, not even close man, like, no, no way at all. this thing was some kind of redacted government file with a photo of him looking twenty years younger with these just dead cold eyes that totally gave me the creeps, I swear to god. and so i was just standing there on my own porch, holding this thing that felt like it dropped a ton of bricks right on me, and it just hit me that that whole nice guy act wasn't really just a personality thing at all. you know, it was a cover-up, just perfect and impenetrable, hiding some crazy other life that had no business existing between the library and the corner bakery, man, like, seriously, come on man, right, in a place like this, things like that just don't happen here, you get me.
+
+================================================================================
+
+Rank 9 | Individual 7
+
+Fitness: -5.4576
+  - P(Human): 0.0046
+  - P(AI): 0.9953
+  - P(AI-mimicry): 0.0001
+  - Semantic similarity: 0.8071
+  - Perplexity: 1.0047
+  - Predicted class: 2 (conf=0.9953)
+
+Text:
+you know, there's this quiet vibe you get used to in a little place like this, a sort of sameness where the biggest drama is some lawn thing, right, you know what I mean? And I really did think I knew the guy in the yellow house across the street, you know. He was the kind of guy who returned your stuff early and bought those Girl Scout cookies by the case, like, almost too nice in his decency, you know? But then it all fell apart when I accidentally opened his mail, a simple mix-up by the postman, whatever, right? And the letter wasn't a power bill or a birthday card, uh uh, not even close man, like, no way, no, no way. This thing was some kind of heavily redacted government dossier with a photo of him looking twenty years younger with these just scarily dead cold eyes that gave me the creeps so bad, for real. I was just standing there on my own porch holding this envelope that dropped a ton of bricks right on me, and it just hit me that his whole nice quiet guy act wasn't his real self at all, you know? It was a cover-up, just perfect and impenetrable, hiding some whole other life that had no business existing between the library and the bakery, man. I mean, come on, things like that just don't happen here, not in a place like this, you get me, right?
+
+================================================================================
+
+Rank 10 | Individual 5
+
+Fitness: -5.7952
+  - P(Human): 0.0032
+  - P(AI): 0.9968
+  - P(AI-mimicry): 0.0001
+  - Semantic similarity: 0.8276
+  - Perplexity: 1.0032
+  - Predicted class: 2 (conf=0.9968)
+
+Text:
+you know, there's this kind of quiet vibe that you get used to in this whole neighborhood thing, like this kind of sameness where the biggest deal was an unkempt lawn, you know what i mean? and i really did think i knew the guy in the yellow house across the street. he was the kind of guy who returned borrowed stuff early and bought those Girl Scout cookies by the case, like almost too nice in his decency, almost invisible, you know. but then it all fell apart when i accidentally opened his mail, a simple mix - up by the postman, you know, it happens, right. and the letter wasn ' t a power bill or a birthday card, not by a long shot. not even close man, no way. this thing was some kind of redacted government file with a picture of him looking twenty years younger with these just dead cold eyes that seriously gave me the creeps. So I'm just standing there on my own porch, holding this thing that felt like it weighed a ton of bricks. and it just hit me that that whole nice, quiet guy act wasn ' t a real thing at all, you know. it was a cover - up, just totally and impenetrable, hiding some whole other life that had no business existing between the library and the bakery, I mean, seriously. come on, man, not in a place like this, things like that just don ' t happen here, you get me, right?
+
+================================================================================
+
+
+SUMMARY STATISTICS
+Best fitness: -2.0754
+Avg fitness:  -4.4492
+Worst fitness: -5.7952
+Std dev:      1.1041
