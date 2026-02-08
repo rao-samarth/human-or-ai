@@ -63,7 +63,7 @@ Each candidate paragraph is evaluated using a single scalar fitness score:
 
 I intend to use soft penalties so the algorithm can explore trade-offs and recover from bad intermediate steps.
 
-This whole step is done through a process referred to as [**Lagrangian Relaxation**](lagrangian-relaxation.md).
+This whole step is done through a process referred to as [**Lagrangian Relaxation**](#10.LagrangianRelaxation).
 
 
 ## Step 5: Global evolution (genetic search)
