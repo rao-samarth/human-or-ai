@@ -1,4 +1,4 @@
-# Task 4: Memetic Adversarial Text Evolution (MATE)
+# Task 4: Memetic Algorithm Text Evolution (MATE) 🦘
 
 **I want to jailbreak your model**, one might say. Well, so do I. That's exactly what I'm going to do now here in task-4.  
 
@@ -11,8 +11,10 @@ Please look at [this dictionary](#dictionary)
 
 To put it simply, **I am implementing a memetic algorithm instead of a genetic algorithm simply because of local search**. I believe this should be quite helpful in our specific usecase, because if the AI finds something good it can exploit as human, it can explore that fully and go on exploiting it.
 
+**All RESULTS** as and when they were happening, as well as reports of my failure, are documented in detail in [results/](results/)
 
-# How this whole thing will be set up
+
+# The structure of the algorithm
 
 ## Step 1: Define the objective
 
@@ -300,5 +302,24 @@ A method that incorporates constraints into the fitness function via penalties r
 ## 11. Fitness
 A single scalar value combining attack success and penalties, used to compare candidates.  
 
-
 fitness(z) = log(P(Human∣z)) − λ<sub>sem</sub>(sem_pen(z)) − λ<sub>ppl</sub>(ppl_pen(z))
+
+## 12. Elitism
+Direct copying of best individuals from the previous generation to the next
+
+## 13. Lagrangian Relaxation
+Basically, all Lagrangian relaxation does is covert a constrained problem into an unconstrained (or softly constrained) problem.  
+
+e.g. `Minimise f(x) subject to g(x) ≤ 0` can be rewritten as `minimise f(x)+k.g(x)`  
+Here, k>>0 is a penalty term. If `g(x)>0`, the term will become significantly bigger.
+
+This is a simplified version of what lagrangian relaxation is.  
+For any constrained function that we have, we add a penalty term.  In this file, I explain Lagrangian Relaxation very simply.
+
+Basically, all Lagrangian relaxation does is covert a constrained problem into an unconstrained (or softly constrained) problem.  
+
+e.g. `Minimise f(x) subject to g(x) ≤ 0` can be rewritten as `minimise f(x)+k.g(x)`  
+Here, k>>0 is a penalty term. If `g(x)>0`, the term will become significantly bigger.
+
+This is a simplified version of what lagrangian relaxation is.  
+For any constrained function that we have, we add a penalty term.  

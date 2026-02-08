@@ -1,11 +1,11 @@
 Best Individual from MATE Evolution
-Fitness: -12.4655
+Fitness: -1.2417
 
 Classification:
-  P(Human): 0.0000
-  P(AI): 0.9872
-  P(AI-mimicry): 0.0128
-  Predicted: Class 1 (conf=0.9872)
+  P(Human): 0.3354
+  P(AI): 0.6642
+  P(AI-mimicry): 0.0005
+  Predicted: Class 1 (conf=0.6642)
 
 Text:
-I had always taken deep security from the comforting predictability of my street, a serene world where the greatest drama was a misaimed sprinkler or a potluck sign-up sheet. The man in the yellow house, with his perfectly manicured hedges, was the epitome of the good neighbor—a person whose unremarkable pleasantness I mistakenly believed I understood completely. My perception of him, and of my quiet life, was shattered one Tuesday by a simple postal error. The thick manila envelope I tore open contained no mundane mail, but a classified dossier, its pages a sea of black redactions. Clipped within was a photograph of him, two decades younger, his eyes holding a lethally sharp coldness that felt utterly alien. That envelope, suddenly a dead weight in my hand, revealed the truth: his harmless, mild-mannered persona was no accident but a disciplined performance, a meticulously built facade to conceal a past forged in a darker world, one that had no place among our block parties and bake sales.
+you know how there was always this sort of a quiet feel to it in our little neighborhood here and it was just so safe i don ' t know, the quiet hum of this place we called home like a warm blanket of sameness, you know what i mean i really did think i did and i really did i thought i knew the guy living in the yellow house across the street and i mean, he was the kind of guy who returned borrowed stuff early and bought those girl scout cookies by the whole big old case almost too nice in his decency, you know what i mean right and and then it all came crashing down the afternoon i accidentally opened his mail after a little mix up by the postman and you know it so and the letter wasn ' t a power bill or a birthday card or anything like that not even close man like oh no no way, no, no way, this thing was some kind of like red - acted government file with a picture of him looking twenty years younger and scary as hell and it just gave me the creeps man i was just standing right there on my own porch and this dang letter felt like it weighed a ton of bricks and it just hit me that that his whole nice guy act wasn ' t just a personality thing at all no you know it was a cover - up, just perfect and impenetrable, hiding some whole other life that had no business existing between the library and the coffee shop here like what was going on here in a place like this things like that don ' t happen

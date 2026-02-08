@@ -1,0 +1,157 @@
+GENERATION 23
+Rank 1 | Individual 1
+
+Fitness: -0.5732
+  - P(Human): 0.7772
+  - P(AI): 0.2218
+  - P(AI-mimicry): 0.0010
+  - Semantic similarity: 0.6894
+  - Perplexity: 1.2867
+  - Predicted class: 1 (conf=0.7772)
+
+Text:
+You know, this place was supposed to be about a little bit of peace and quiet in our little corner of the world, that sorta was the point of it all, where the biggest deal was people fighting over a fence or some stupid property line, that sort of thing, you know what I mean? And the old guy in the yellow house across the street was the poster boy for it all, I guess, but I swear to god, man, he was just so nice and normal it was almost weird, I mean, you were just so sure of him right away. It's like you just knew he was the guy who'd borrow a lawn mower and get it back to you early, in better shape than when he got it, and he always bought a whole case of those Girl Scout cookies from the kids, too. But that was all put to rest that day in a big fat mix-up with the postman when I got his mail and opened it by total accident, just autopilot, not even thinking twice. And let me tell you what, it wasn't some phone bill or a card from his grandkids, no sir, not at all, no, it was not even close, no way. It was this big, thick, weird government file thing, all marked up with a criss-cross mess of red and thick, sharpied black lines, like for real spy movie stuff. And right in there, staring out from a photo twenty years old or so, was his face, but so much younger, his eyes holding this scary, cold, dead, hard look I'd never seen before, not at all like him. It all just hit me right then and there, holding that heavy old thing, that his whole mild-mannered, nice-guy act wasn't who he was at all, man, not in any sort of way; it was a big old cover-up, a whole other secret life, and whatever that life was, it sure damn had no place in our world of potlucks and block parties in our sleepy little town, you know?
+
+================================================================================
+
+Rank 2 | Individual 4
+
+Fitness: -0.9945
+  - P(Human): 0.4876
+  - P(AI): 0.5104
+  - P(AI-mimicry): 0.0020
+  - Semantic similarity: 0.7119
+  - Perplexity: 1.9592
+  - Predicted class: 2 (conf=0.5104)
+
+Text:
+You know, this place was supposed to be about a little bit of peace and quiet in our little corner of the world, that sorta was the point of it all, where the biggest deal was a squabble over a fence or some stupid property line, you know what I mean? And the old guy in the yellow house was the poster child for it all, I swear to god, man, just so nice and normal it was almost weird, the kind of guy you were sure of right off the bat. It's like you just knew he was the guy who'd borrow a lawnmower and bring it back early, running better than when he got it, and he always bought a whole case of those Girl Scout cookies from the kids, too. But that was all put to rest one afternoon in a big fat mix-up with the postman when I got his mail by total accident, opening it on autopilot without even thinking twice. And lemme tell you, it wasn't some phone bill or a card from his grandkids, no sir, not at all, not even close, no way. It was this big, thick, weird government file thing, all marked up with a criss-cross mess of red stamps and thick, sharpied black lines, like for real spy movie stuff. And right in there, staring out from a photo twenty years old or so, was his face, but so much younger, his eyes holding this scary, cold, dead, hard look I'd never seen before, not at all like him. It all just hit me right then and there, holding that heavy old thing, that his whole mild-mannered, nice-guy act wasn't who he was at all, man; it was a big old cover-up for a whole other secret life, and whatever that life was, it sure damn had no place in our world of potlucks and block parties in this sleepy little town of ours, you know?
+
+================================================================================
+
+Rank 3 | Individual 5
+
+Fitness: -1.0254
+  - P(Human): 0.4878
+  - P(AI): 0.5104
+  - P(AI-mimicry): 0.0018
+  - Semantic similarity: 0.6962
+  - Perplexity: 1.9592
+  - Predicted class: 2 (conf=0.5104)
+
+Text:
+You know, the whole point of this place was this little pocket of peace and quiet in our corner of the world, that sorta was the point of it all, that it was supposed to be safe and completely boring, where the biggest deal was some dumb little fight over a fence or a stupid property line, you know what I mean? And the old guy in the yellow house across the street was the poster boy for it all, I swear to god, man, he was so unbelievably decent it was almost kinda weird; I mean, you just trusted him on sight. He was the kind of guy who'd borrow your lawn mower and bring it back early, gassed up and in better shape than when he got it, and he always bought a whole case of those Girl Scout cookies from the kids, too. But that whole picture was put to rest that day in a big fat mix-up with the postman when I got his mail by total accident and just opened it on autopilot, not even thinking twice. And let me tell you, it wasn't some phone bill or a card from his grandkids, no sir, not at all, not even close, no way. What I was holding was this big, thick, crazy government file, all marked up with a criss-cross mess of red stamps and thick, sharpied black lines, like for real spy movie stuff, okay? And right in there, staring back at me from a photo twenty years old or so, was his face, only so much younger, his eyes holding this scary, cold, hard, dead look I'd never seen on the guy I thought I knew, ever. It all just hit me right then and there, holding that heavy old thing, that his whole mild-mannered, nice-guy act wasn't who he was at all, man, not in any sort of way; it was a mask, a big old cover-up for a whole other secret life, and whatever that life was, it sure as hell had no place in our world of potlucks and block parties in our sleepy little town, you know?
+
+================================================================================
+
+Rank 4 | Individual 9
+
+Fitness: -1.0562
+  - P(Human): 0.4531
+  - P(AI): 0.5441
+  - P(AI-mimicry): 0.0028
+  - Semantic similarity: 0.7177
+  - Perplexity: 1.8378
+  - Predicted class: 2 (conf=0.5441)
+
+Text:
+You know, the whole point of this place was this little pocket of peace and quiet, that sorta was the point of it all, where the biggest deal was some dumb little fight over a fence or a stupid property line, you know what I mean? And the old guy in the yellow house across the street was the poster boy for it all, I swear to god, man, he was so unbelievably decent it was almost kinda weird; you just trusted him on sight. He was the kind of guy who'd borrow your lawn mower and bring it back gassed up and in better shape than when he got it, and he always bought a whole case of those Girl Scout cookies from the kids, too. But that whole picture was put to rest that day in a big fat mix-up with the postman when I got his mail by total accident and just opened it on autopilot, not even thinking twice. And let me tell you, it wasn't some phone bill or a card from his grandkids, no sir, not even in the same ballpark, man. What I was holding was this big, thick, crazy government file, all marked up with a criss-cross mess of red stamps and thick, sharpied black lines, like for real spy movie stuff, okay? And right in there, staring back at me from a photo twenty years old or so, was his face, only so much younger, his eyes holding this scary, cold, hard, dead look I'd never seen on the guy I thought I knew, not at all. It all just hit me right then and there, holding that heavy old thing, that his whole mild-mannered, nice-guy act wasn't who he was at all, man; it was a mask, a big old cover-up for a whole other secret life, and whatever that life was, it sure as hell had no place in our world of potlucks and block parties in our sleepy little town, you know?
+
+================================================================================
+
+Rank 5 | Individual 8
+
+Fitness: -1.1943
+  - P(Human): 0.3791
+  - P(AI): 0.6171
+  - P(AI-mimicry): 0.0037
+  - Semantic similarity: 0.7378
+  - Perplexity: 1.6204
+  - Predicted class: 2 (conf=0.6171)
+
+Text:
+You know, the whole point of this place was this little pocket of peace and quiet, where the biggest deal was a squabble over a fence or some stupid property line, you know what I mean? And the old guy in the yellow house across the street was the poster boy for it all, I swear to god, man, he was so unbelievably decent it was almost kinda weird; you just trusted him on sight. He was the kind of guy who'd borrow your lawnmower and bring it back gassed up and in better shape than when he got it, and he always bought a whole case of those Girl Scout cookies from the kids, too. But that whole picture was put to rest one afternoon in a big fat mix-up with the postman when I got his mail by total accident, opening it on autopilot without even thinking twice. And lemme tell you, it wasn't some phone bill or a card from his grandkids, no sir, not even in the same ballpark. What I was holding was this big, thick, crazy government file, all marked up with a criss-cross mess of red stamps and thick, sharpied black lines, like for real spy movie stuff. And right in there, staring back at me from a photo twenty years old or so, was his face, only so much younger, his eyes holding this scary, cold, hard, dead look I'd never seen on the guy I thought I knew, ever. It all just hit me right then and there, holding that heavy old thing, that his whole mild-mannered, nice-guy act wasn't who he was at all, man; it was a mask, a big old cover-up for a whole other secret life, and whatever that life was, it sure as hell had no place in our world of potlucks and block parties in this sleepy little town of ours, you know?
+
+================================================================================
+
+Rank 6 | Individual 2
+
+Fitness: -1.5803
+  - P(Human): 0.2604
+  - P(AI): 0.7358
+  - P(AI-mimicry): 0.0037
+  - Semantic similarity: 0.7325
+  - Perplexity: 1.3590
+  - Predicted class: 2 (conf=0.7358)
+
+Text:
+You know, this whole neighborhood was supposed to be about a little peace and quiet in our little corner of the world—that sorta was the point of it all—where the biggest deal was a squabble over a fence or some stupid property line, you know what I mean? And the old guy in the yellow house was the poster boy for it all, I swear to god, man, just so nice and normal it was almost weird, the kind of guy you were sure of right off the bat. It's like you just knew he was the guy who'd borrow a lawnmower and bring it back early, running better than when he got it, and he always bought a whole case of those Girl Scout cookies from the kids, too. But that was all put to rest one afternoon in a big fat mix-up with the postman when I got his mail by total accident, just autopilot, not even thinking twice. And lemme tell you, it wasn't some phone bill or a card from his grandkids, no sir, not even close, no way. It was this big, thick, weird government file thing, all marked up with a criss-cross mess of red stamps and thick, sharpied black lines, like for real spy movie stuff. And right in there, staring out from a photo twenty years old or so, was his face, but so much younger, his eyes holding this scary, cold, dead, hard look I'd never seen before, not at all like him. It all just clicked for me right then and there, holding that heavy old thing, that his whole mild-mannered, nice-guy act wasn't who he was at all, man, not in any sort of way; it was a big old cover-up for a whole other secret life, and whatever that life was, it sure damn had no place in our world of potlucks and block parties in this sleepy little town of ours, you know?
+
+================================================================================
+
+Rank 7 | Individual 10
+
+Fitness: -1.7071
+  - P(Human): 0.2355
+  - P(AI): 0.7630
+  - P(AI-mimicry): 0.0016
+  - Semantic similarity: 0.7196
+  - Perplexity: 1.3107
+  - Predicted class: 2 (conf=0.7630)
+
+Text:
+You know, the whole point of this place was this little pocket of peace and quiet, that it was supposed to be safe and completely boring, where the biggest deal was a squabble over a fence or some stupid property line, you know what I mean? And the old guy in the yellow house was the poster boy for it all, I swear to god, man, so unbelievably decent it was almost kinda weird; the kind of guy you were sure of right off the bat. He'd borrow your lawn mower and bring it back gassed up and in better shape than when he got it, and he always bought a whole case of those Girl Scout cookies from the kids, too. But that whole picture was put to rest one afternoon in a big fat mix-up with the postman when I got his mail by total accident, opening it on autopilot without even thinking twice. And let me tell you, it wasn't some phone bill or a card from his grandkids, not even in the same ballpark, man. What I was holding was this big, thick, crazy government file, all marked up with a criss-cross mess of red stamps and thick, sharpied black lines, like for real spy movie stuff, okay? And right in there, staring back at me from a photo twenty years old or so, was his face, only so much younger, his eyes holding this scary, cold, hard, dead look I'd never seen before. It all just clicked for me right then and there, holding that heavy old thing, that his whole mild-mannered, nice-guy act wasn't who he was at all; it was a big old cover-up for a whole other secret life, and whatever that life was, it sure as hell had no place in our world of potlucks and block parties in this sleepy little town of ours, you know?
+
+================================================================================
+
+Rank 8 | Individual 7
+
+Fitness: -1.9972
+  - P(Human): 0.1767
+  - P(AI): 0.8212
+  - P(AI-mimicry): 0.0021
+  - Semantic similarity: 0.7181
+  - Perplexity: 1.2177
+  - Predicted class: 2 (conf=0.8212)
+
+Text:
+You know, the whole point of this place was this little pocket of peace and quiet, where the biggest deal was supposed to be some dumb squabble over a fence or a stupid property line, you know what I mean? And the old guy in the yellow house was the poster boy for it all, I swear to god, man, he was so unbelievably decent it was almost weird; you just trusted him on sight. He was the kind of guy who'd borrow your lawn mower and bring it back gassed up and in better shape than when he got it, and he always bought a whole case of those Girl Scout cookies from the kids, too. But that whole picture was put to rest one afternoon in a big fat mix-up with the postman when I got his mail by total accident, opening it on autopilot without even thinking twice. And lemme tell you, it wasn't some phone bill or a card from his grandkids, not even in the same ballpark, man. What I was holding was this big, thick, crazy government file, all marked up with a criss-cross mess of red stamps and thick, sharpied black lines, like for real spy movie stuff, okay? And right in there, staring back at me from a photo twenty years old or so, was his face, only so much younger, his eyes holding this scary, cold, hard, dead look I'd never seen on the guy I thought I knew. It all just clicked for me right then and there, holding that heavy old thing, that his whole mild-mannered, nice-guy act wasn't him at all; it was a mask, a big old cover-up for a whole other secret life, and whatever that life was, it sure as hell had no place in our world of potlucks and block parties in this sleepy little town of ours, you know?
+
+================================================================================
+
+Rank 9 | Individual 6
+
+Fitness: -2.0921
+  - P(Human): 0.1609
+  - P(AI): 0.8384
+  - P(AI-mimicry): 0.0006
+  - Semantic similarity: 0.7173
+  - Perplexity: 1.1927
+  - Predicted class: 2 (conf=0.8384)
+
+Text:
+you know, like, the whole point of this place was this little bubble of peace and quiet, where the biggest deal was some stupid little fight over a fence or something stupid like that, you know what I mean? and the old guy in the yellow house across the street was the poster boy for it all, i swear to god, man, he was so unbelievably nice it was almost like, kinda weird, you were just so sure of him right away 'cause he was the kind of guy who ' d borrow your lawn mower and bring it back gassed up and in better shape than when he got it, and he always bought a whole case of those girl scout cookies from the kids, too, yeah. but that whole picture was put to rest one day in a big fat mix - up with the postman when I got his mail by accident and just opened it on autopilot, like, not even thinking, you know? let me tell you, it wasn ' t some phone bill or a card from his grandkids, no, no, no, no, not even in the same ballpark, man. I'm telling you, it was like some kind of top secret government file, super thick, like a beat-up manila folder, all marked up with a criss - cross mess of red stamps and thick, sharpied black lines, like for real spy movie stuff, right? and right in there, staring back at me from a photo twenty years old or so, was his face, only so much younger, his eyes holding this scary, cold, hard, dead look i ' d never seen on the guy i thought i knew, not at all like him. it all just kinda clicked right then and there, holding that heavy old thing, that his whole mild - mannered, nice - guy act wasn ' t who he was at all, man. it was a mask, a big old cover - up for a whole other secret life, and whatever that life was, it sure as hell had no place in our world of potlucks and block parties in our quiet little town, man. you get me?
+
+================================================================================
+
+Rank 10 | Individual 3
+
+Fitness: -2.9253
+  - P(Human): 0.0676
+  - P(AI): 0.9317
+  - P(AI-mimicry): 0.0008
+  - Semantic similarity: 0.7347
+  - Perplexity: 1.0733
+  - Predicted class: 2 (conf=0.9317)
+
+Text:
+you know, this whole place was supposed to be our own little bubble of peace and quiet, where the worst thing was some dumb squabble over a hedge or a messy lawn or whatever, you know what i mean, right? and the old guy in the yellow house across the street was the poster boy for it all, i swear to god, man, just so unbelievably decent and normal it was almost weird in itself, the kind of guy you trusted on sight. he was the kind of guy who ' d borrow your lawnmower and bring it back early, gas topped up and in better shape than when he got it, and he always bought like a ton of those girl scout cookies from the neighborhood kids down the street. but that whole picture was put to rest one afternoon in a big fat mix - up with the postman when i got his mail by total accident and just ripped it on autopilot without even thinking twice, you know, like you do. let me tell you, it wasn ' t some phone bill or a card from his old friends, no way, man, not even close, it was like this whole other thing. it was this big, thick, official-looking file, all marked up with a criss - cross mess of red stamps and thick, sharpied black lines, like for real government spy stuff, you know, and right in there, staring back at me from a photo twenty years old or so, was his face, only so much younger, his eyes holding this scary, cold, hard, dead look i ' d never seen on the guy i thought i knew, ever. it all clicked into place for me right then and there, holding that heavy old thing, that his whole mild - mannered, nice - guy act wasn ' t him at all, not really, it was a mask, a big old cover - up for a whole other secret life or something, and whatever that life was, it sure as hell had no place here between the potlucks and block parties in this quiet little town of ours, you know?
+
+================================================================================
+
+
+SUMMARY STATISTICS
+Best fitness: -0.5732
+Avg fitness:  -1.5146
+Worst fitness: -2.9253
+Std dev:      0.6562

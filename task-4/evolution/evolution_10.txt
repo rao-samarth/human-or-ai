@@ -1,0 +1,157 @@
+GENERATION 10
+Rank 1 | Individual 1
+
+Fitness: -1.3800
+  - P(Human): 0.3537
+  - P(AI): 0.6458
+  - P(AI-mimicry): 0.0005
+  - Semantic similarity: 0.6796
+  - Perplexity: 1.5485
+  - Predicted class: 2 (conf=0.6458)
+
+Text:
+it was nice to get a little bit of peace in your life and a little bit of quiet and that's that was the point of what i mean, like it was just this place where the biggest deal was people fighting over property lines or something like that, you know and the old guy in the yellow house across the street was the poster child for the whole place, i guess or at least i thought so and i mean, he was just so nice and normal and quiet, so much it was almost weird, that you were sure of him though like you just knew he was the guy who'd borrow a lawn mower and get it back to you early and in better shape and you knew he got like a bunch of those Girl Scout cookies every single year but you know that was put to rest that day in a silly little mail mix-up when i got his letter and opened it by mistake, man and man let me tell you what it wasn't some phone bill or birthday card from his mom or anything like that at all no sir not at all no, it was not even close, not even, no way, this was some crazy government file thing or something all marked up with a criss-cross mess of red and thick blacked-out lines everywhere like for real, and staring right out from a photo twenty years old was his face, him alright but so much younger, his eyes holding a scary cold, hard look i'd never seen before, not at all and and then it all it just hit me right then and there, holding that heavy old thing that all his mild-mannered stuff wasn't who or what he was at all man no way, it was an act, a whole other secret life and whatever that life was it was something that a history like had no place in our world of potlucks and block parties and saturday morning errands in our sleepy little boring little old neighborhood man.
+
+================================================================================
+
+Rank 2 | Individual 2
+
+Fitness: -2.2376
+  - P(Human): 0.1395
+  - P(AI): 0.8603
+  - P(AI-mimicry): 0.0003
+  - Semantic similarity: 0.7162
+  - Perplexity: 1.1624
+  - Predicted class: 2 (conf=0.8603)
+
+Text:
+you know, it was easy to get a deep sense of safety in the day-to-day life of this little town or you know what I mean, like, the craziest thing that ever happened around here was people fighting over property lines or a messy front yard or something like that right and the old guy in the yellow house across the street was like the poster boy for the whole place, you know, he was just so nice and normal it was almost boring, that you were sure of him right away and you just knew he was the guy who'd borrow a lawn mower and get it back to you early and in better shape than when he got it and all that kind of stuff but that all changed one afternoon when I grabbed his mail in a total mix up with mine I guess and opened it by mistake, not even thinking about it you know and let me tell you something it wasn't some phone bill or a card from his grandkids or anything like that right no, not even close man this thing was like some kind of government file or something all blacked up with a criss-cross mess of red and black, sharpied black lines, like for real top secret spy stuff and right in there, staring out from a photo twenty years old or so was his face, but so much younger, his eyes holding this scary, cold, dead, hard look I'd never seen before, not at all like him. it all just hit me right then and there, holding that heavy old thing and that his mild-mannered act wasn't who he was at all man, like, not even a little bit. it was just a cover story right you know like a perfect and unbreakable disguise for hiding a past that had no place in a world of potlucks and sleepy homeowners, or any of that other regular, boring life stuff, you know what I mean
+
+================================================================================
+
+Rank 3 | Individual 8
+
+Fitness: -4.4122
+  - P(Human): 0.0149
+  - P(AI): 0.9848
+  - P(AI-mimicry): 0.0003
+  - Semantic similarity: 0.7455
+  - Perplexity: 1.0154
+  - Predicted class: 2 (conf=0.9848)
+
+Text:
+You know, you were supposed to get a little bit of peace in this quiet little neighborhood, where the craziest thing that ever happened was people fighting over their lawns or property lines or something like that. The old guy in the yellow house was the poster boy for the whole place, if you know what I mean; he was just so nice and normal and quiet it was almost boring, that you were sure of him right away. You just knew he was the guy who'd borrow a lawn mower and get it back to you early, in better shape than when he got it, and buy a ton of Girl Scout cookies every year. But that whole picture was blown up that afternoon in a dumb little mail mix-up when I got his letter and opened it by accident, man. And let me tell you, it wasn't some gas bill or a card from his grandma or anything like that, no sir, not even close, not in a million years. This thing was like a secret government file, for real spy movie stuff, all marked up with a criss-cross mess of red and thick blacked-out lines. And staring out from a picture twenty years old or so was his face, but so much younger, his eyes holding this cold, dead, hard look I'd never seen before. It all just hit me right then and there, holding that heavy old thing, that his whole mild-mannered act wasn't who he was at all, man. It was just a cover, you know, a total and completely unbreakable one for a past that had no place in our world of potlucks, block parties, and sleepy homeowners.
+
+================================================================================
+
+Rank 4 | Individual 5
+
+Fitness: -4.9931
+  - P(Human): 0.0089
+  - P(AI): 0.9910
+  - P(AI-mimicry): 0.0001
+  - Semantic similarity: 0.7159
+  - Perplexity: 1.0091
+  - Predicted class: 2 (conf=0.9910)
+
+Text:
+it was easy to get a deep feeling of safety in the day-to-day grind of this sleepy little town, you know? I mean, what passed for drama around here was people fighting over parking spaces or property lines or something like that, and the old guy in the yellow house was kind of the poster boy for the whole place. he was just so nice, so normal it was kinda nuts, that you were sure of him right away, like you just knew he was the guy who'd borrow a lawn mower and get it back to you early and in better shape than when he got it. but that whole idea was pulverized that afternoon in a simple mail mix-up when I got his mail and opened it by total accident, and let me tell you, it wasn't some gas bill or a card from his grandma, not even close. It was this thick old government file, all messed up with a criss-cross of red and inked black lines, like for real secret agent kinda stuff, and right in there, staring out from a picture twenty years old, was his face, but so much younger and his eyes holding a cold, dead, hard look I'd never seen before. it just hit me right then and there, holding that heavy old thing, that his mild-mannered act wasn't who he was at all, man, not even a little bit. it was just a total act, you know, like a show, a perfect and unbreakable cover for hiding a past that had no place in a world of potlucks and sleepy homeowners or any of that other regular boring stuff.
+
+================================================================================
+
+Rank 5 | Individual 6
+
+Fitness: -5.1555
+  - P(Human): 0.0082
+  - P(AI): 0.9917
+  - P(AI-mimicry): 0.0001
+  - Semantic similarity: 0.6757
+  - Perplexity: 1.0083
+  - Predicted class: 2 (conf=0.9917)
+
+Text:
+You know, it was easy to get a real sense of peace in the day-to-day life of our quiet little neighborhood, you know what I mean? Like, the craziest thing that ever happened was people fighting over property lines or a messy front yard or something like that. And the old guy in the yellow house was the poster boy for the whole place, right, he was just so nice and normal it was almost boring, that you were sure of him right away. You just knew he was the guy who'd borrow a lawn mower and get it back to you early and in better shape than when he got it and all that stuff. But that whole picture was pulverized that afternoon in a dumb little mail mix-up when I got his letter and opened it by total accident, man, and let me tell you, it wasn't some gas bill or a card from his grandma or anything like that, not in a million years. This thing was like a secret government file, all blacked up with a criss-cross mess of red and thick, inked black lines, like for real spy movie stuff. And right in there, staring out from a picture twenty years old or so was his face, but so much younger, his eyes holding this cold, dead, hard look I'd never seen before, and it just hit me right then and there, holding that heavy old thing, that his mild-mannered act wasn't who he was at all, man, not even a little bit. It was just a cover, you know, a perfect and unbreakable costume for hiding a past that had no place in this world of potlucks and sleepy homeowners or any of that other regular stuff.
+
+================================================================================
+
+Rank 6 | Individual 10
+
+Fitness: -5.5874
+  - P(Human): 0.0051
+  - P(AI): 0.9948
+  - P(AI-mimicry): 0.0001
+  - Semantic similarity: 0.6924
+  - Perplexity: 1.0052
+  - Predicted class: 2 (conf=0.9948)
+
+Text:
+you know how it was easy to get a deep sense of safety in the day - to - day life of our little neighborhood because I mean really what else was there the craziest thing was just people fighting over parking spaces or messy lawns or something like that. So yeah, the old guy in the yellow house was kind of the poster boy for the whole place, right? he was just so nice, so normal it was almost boring, that you were sure of him, you know, you just knew he was the guy who ' d borrow a lawn mower and get it back to you early and in better shape than when he got it. And then that whole picture got pulverized that afternoon in a dumb little mix-up with the mail and I accidentally opened it by total mistake, and let me tell you, it wasn ' t some gas bill or a card from his aunt, not even some junk mail, this was a big old government file or something, all marked up with a criss - cross mess of red and thick, inked out lines, like for real top secret spy stuff. and right in there, staring out from a picture twenty years old, was his face, but so much younger, his eyes holding a scary cold, dead, hard look I ' d never seen before, not at all. it just hit me right then and there, holding that heavy old thing, that his mild - mannered act wasn ' t who he was at all, man, like not even a little bit. it was just a total act, you know, some kind of perfect and unbreakable cover for hiding a past that had no place in this world of potlucks and sleepy homeowners or any of that other regular old stuff.
+
+================================================================================
+
+Rank 7 | Individual 3
+
+Fitness: -5.8514
+  - P(Human): 0.0041
+  - P(AI): 0.9956
+  - P(AI-mimicry): 0.0003
+  - Semantic similarity: 0.6698
+  - Perplexity: 1.0044
+  - Predicted class: 2 (conf=0.9956)
+
+Text:
+It was supposed to be about getting a little bit of peace in your day-to-day life, you know, a quiet little neighborhood where the craziest thing that ever happened was people fighting over property lines or something like that. And the old guy in the yellow house was the poster boy for the whole place, just so nice and normal and quiet it was almost boring, that you were sure of him, like you just knew he was the guy who’d borrow a lawn mower and get it back to you early and in better shape, and you knew he got a ton of those Girl Scout cookies every single year. But that whole picture was put to rest that day in a stupid little mail mix-up when I got his letter and opened it by mistake, man, and man let me tell you, it wasn't some phone bill or a card from his grandma, no sir, not even close, not in a million years. This thing was some kind of secret government file, all marked up with a criss-cross mess of red and thick blacked-out lines everywhere, like for real spy movie stuff. And staring right out from a photo twenty years old was his face, him, but so much younger, his eyes holding a cold, dead, hard look I'd never seen before, and it all just hit me right then and there, holding that heavy old thing, that his mild-mannered act wasn't who he was at all, no way; it was an act, a show, a total and completely unbreakable cover-up for a history that had no place in our world of potlucks and block parties in this sleepy little boring old town.
+
+================================================================================
+
+Rank 8 | Individual 7
+
+Fitness: -6.1155
+  - P(Human): 0.0030
+  - P(AI): 0.9969
+  - P(AI-mimicry): 0.0001
+  - Semantic similarity: 0.6922
+  - Perplexity: 1.0031
+  - Predicted class: 2 (conf=0.9969)
+
+Text:
+It was nice to get some kind of peace in the day-to-day life of our little neighborhood, you know? I mean, it was this quiet place where the only real drama was people fighting over property lines or a messy front yard or something like that, and the old guy in the yellow house was the poster child for the whole place, like, i swear to God, he was just so nice, so normal it was almost boring, that you were just sure of him, right? you just knew he was the guy who'd borrow a lawn mower and get it back to you early, in better shape than when he got it, and you knew he bought a ton of those Girl Scout cookies every single year. Well, that whole idea was put to rest one afternoon in a stupid little mail mix-up when I totally grabbed his mail and opened it by mistake. And oh man, and let me tell you, it wasn't some gas bill or a card from his mom or anything like that, not even a little bit, not even close. No, this was some kind of big old government file, all marked up with a criss-cross mess of red and thick, inked-out black lines, like for real. And right in there, staring out from a picture twenty years old, was his face, but so much younger, his eyes holding a creepy, cold, hard look I'd never seen before, not at all. And it just hit me right then and there, holding that heavy old thing, that his mild-mannered act wasn't really who he was at all, no way. It was just a total act, a kind of perfect and unbreakable mask, a cover-up that had no place in our world of potlucks, block parties, and saturday morning errands in this quiet little town of ours.
+
+================================================================================
+
+Rank 9 | Individual 4
+
+Fitness: -6.4251
+  - P(Human): 0.0022
+  - P(AI): 0.9977
+  - P(AI-mimicry): 0.0001
+  - Semantic similarity: 0.6906
+  - Perplexity: 1.0023
+  - Predicted class: 2 (conf=0.9977)
+
+Text:
+you know, it always felt like it was a place where you could get a real sense of peace in your life, a little bit of quiet, where the craziest thing that ever happened was people fighting over property lines or something silly. and the old guy in the yellow house across the street was the poster child for the whole place, I mean, really, you thought he was just so nice and normal and quiet, so much so it was almost boring, that you were sure of him. you just knew he was the guy who ' d borrow a lawn mower and get it back to you early and in better shape, and that he bought a ton of those Girl Scout cookies every single year. But yeah, that whole idea was put to rest that day in a stupid little mail mix-up when I got his mail and opened it by mistake, you know, thinking it was for me. And you know, it wasn't some gas bill or a card from his mom, no way, not even close, not in a million years. It was some kind of government file or something all marked up with a criss - cross mess of red and thick blacked - out lines, like for real secret agent kinda stuff, and staring right out from a photo twenty years old was his face, so much younger, his eyes holding a hard, cold, dead look I'd never seen before. and it all just hit me right then and there, holding that heavy old thing, that his mild - mannered act wasn ' t who he was at all, no way. like, it was a show, a perfect and totally unbreakable cover for a past that had no place in our world of potlucks and saturday morning errands or something.
+
+================================================================================
+
+Rank 10 | Individual 9
+
+Fitness: -8.0445
+  - P(Human): 0.0004
+  - P(AI): 0.9996
+  - P(AI-mimicry): 0.0000
+  - Semantic similarity: 0.7311
+  - Perplexity: 1.0004
+  - Predicted class: 2 (conf=0.9996)
+
+Text:
+It was easy to get a deep sense of calm in our little neighborhood, a place where you were supposed to get a bit of peace and quiet, and the biggest drama was people fighting over property lines or parking spaces, you know what I mean? The old guy in the yellow house across the street was the poster child for the whole place, I guess. He was just so nice and normal it was almost boring, so much so that you were sure of him; like, you just knew he was the guy who’d borrow a lawn mower and get it back to you early, in better shape, and you knew for a fact he got a ton of those Girl Scout cookies every single year. But that whole picture was pulverized that day in a stupid little mail mix-up when I got his letter and opened it by mistake. And man, let me tell you, it wasn't some phone bill or a card from his niece, no sir, not even close. This was some kind of big old government file, all marked up with a criss-cross mess of red and thick blacked-out lines, like for real, and staring right out from a photo twenty years old was his face, him, but so much younger, his eyes holding a scary cold, hard look I'd never seen before. It all just hit me right then and there, holding that heavy old thing, that his whole mild-mannered act wasn't who he was at all; it was a show, a total and completely unbreakable costume with a history that had no place in our world of potlucks, block parties, and Saturday morning errands.
+
+================================================================================
+
+
+SUMMARY STATISTICS
+Best fitness: -1.3800
+Avg fitness:  -5.0203
+Worst fitness: -8.0445
+Std dev:      1.8632
