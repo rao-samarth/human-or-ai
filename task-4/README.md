@@ -7,11 +7,22 @@ They're similar, but they're **not the same thing**...
 
 I explain what memetic algorithms are in detail in [memetic.md](memetic.md).
 
-Please look at [this dictionary](#dictionary)
+## Table of Contents
+
+- [Directory Structure](#directory-structure)
+- [The structure of the algorithm](#the-structure-of-the-algorithm)
+- [MATE vs Baseline Genetic Algorithm](#mate-vs-baseline)
+- [Example: Evolving AI Text into Human Text](#example-evolving-ai-text-into-human-text)
+- [Dictionary](#dictionary)
+- [Part-2 of the task](part-2.ipynb)
+
+---
+
+Please look at [this dictionary](#dictionary) to learn some important terms.
 
 To put it simply, **I am implementing a memetic algorithm instead of a genetic algorithm simply because of local search**. I believe this should be quite helpful in our specific usecase, because if the AI finds something good it can exploit as human, it can explore that fully and go on exploiting it.
 
-**All RESULTS** as and when they were happening, as well as reports of my failure, are documented in detail in [results/](results/)
+All RESULTS as and when they were happening, as well as reports of my failure, are documented in detail in [results/](results/)
 
 # Directory Structure
 
@@ -108,6 +119,43 @@ To avoid all solutions collapsing into the same pattern:
 We repeat evolution. Every generation is printed to a new `.txt` file, so that we can visualise the step by step improvement. This is stored in the .txt file along with 
 
 The goal is to see whether structured evolution can reliably push AI-written text past the detector’s decision boundary.
+
+
+# MATE vs Baseline
+
+Here, I compare how MATE performed again a baseline *'vanilla'* genetic algorithm.
+
+## Implementation Differences
+
+| Feature | Vanilla GA | MATE |
+|---------|-----------|------|
+| Mutation Strategy | Random synonym replacement (NLTK WordNet) | Saliency-guided token replacement (Gemini LLM) |
+| Local Search | None | Simulated annealing with saliency |
+| Population Initialization | Random synonym swaps | Gemini-generated diverse variations |
+| Constraint Handling | Static penalty (-100 if violated) | Lagrangian relaxation (adaptive weights) |
+| Crossover | One-point word concatenation | Semantic style blending (Gemini) |
+| Gradient Information | None | Uses gradient magnitude token saliency |
+| Population Size | 20 individuals | 10 individuals |
+
+## Performance Comparison
+
+| Metric | Vanilla GA (Gen 50) | MATE (Gen 24) | Improvement |
+|--------|---------------------|---------------|-------------|
+| Best P(Human) | 0.0134 (1.34%) | 0.7772 (77.72%) | +76.38% |
+| Final Classification | Class 2 (AI) | Class 1 (Human) | Success |
+| Semantic Similarity | 0.8547 | 0.6894 | -0.1653 |
+| Generations to Success | Did not succeed | 12 generations | N/A |
+| Text Quality | Corrupted | Readable | Qualitative win |
+
+### Key Observations
+
+The Vanilla GA failed to evade the detector despite 50 generations. It achieved P(Human) = 1.34% and remained classified as AI. The text became severely corrupted with repeated garbled tokens.
+
+MATE successfully fooled the detector by generation 19, achieving P(Human) = 77.72% and maintaining text fluency. The evolved text remained readable while incorporating human-like stylistic patterns.
+
+This demonstrates the advantage of incorporating domain knowledge (saliency) and local refinement (memetic search) into evolutionary algorithms.
+
+
 
 
 # Example: Evolving AI Text into Human Text
@@ -271,6 +319,9 @@ This example illustrates why adversarial text evolution is best viewed as:
 - And local refinement
 
 Not as random corruption.
+
+
+
 
 
 

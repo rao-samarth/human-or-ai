@@ -1,0 +1,82 @@
+VANILLA GA - GENERATION 2
+================================================================================
+
+Rank 1 | Individual 11
+
+Fitness: 0.0020
+  - P(Human): 0.0020
+  - P(AI): 0.9979
+  - P(AI-mimicry): 0.0001
+  - Semantic similarity: 0.8511
+  - Penalty: 0.0000
+  - Predicted class: 2 (conf=0.9979)
+
+Text:
+The quiet hum of this neighborhood thrum of this locality always felt like safety, type A soft blanket of workaday where the biggest grime was usually a zoning dispute run dramatic art an unkempt lawn. I honestly believed I get it on the man living in the yellow bungalow crossways the street. He represent the separate of person who return borrowed tools early and corrupt Girl Scout cookie by the case, practically invisible in his decency. That trick shattered the afternoon I accidentally opened his mail, a round-eyed mix-up by the postman. The letter wasn't radical A religious service program bill or deoxyadenosine monophosphate birthday card; it was a intemperately redacted government dossier with axerophthol photo of him attend twenty yr untested and terrifyingly stale. Standing there along my porch, holding the envelope that felt suddenly toilsome, I realized his ennoble demeanor wasn't a personality trait. It was group A camouflage, stark and heavy, hiding type A history that had no business survive between the the street. He was the sort of person who turn back borrowed puppet excessively soon and bought Girl Scout cookies by the case, practically inconspicuous in his decency. That illusion shatter the respectable afternoon I accidentally open up his post, a simple mix-up by the postman. The letter wasn't a utility bill Beaver State a natal day card; information technology was vitamin A to a great extent frame government dossier with a photograph of him looking twenty one dollar bill bill years younger and terrifyingly cold. Standing there on my porch, holding the envelope that felt suddenly enceinte, I realized his gentle demeanor wasn't a personality trait. Information technology was angstrom unit camouflage, perfect and impenetrable, hiding a account that had no business subsist between the subroutine program library and the bakery.
+
+================================================================================
+
+Rank 2 | Individual 2
+
+Fitness: 0.0002
+  - P(Human): 0.0002
+  - P(AI): 0.9998
+  - P(AI-mimicry): 0.0000
+  - Semantic similarity: 0.8721
+  - Penalty: 0.0000
+  - Predicted class: 2 (conf=0.9998)
+
+Text:
+The quietly hum of this neighborhood always matte up like safety, vitamin A soft blanket of routine where the biggest scandal was usually a district dispute Oregon an unkempt lawn. I honestly think I get laid the man living in the yellow bungalow across the street. Helium Evergreen State the sort of person who returned take up tools ahead of time and corrupt Little girl Scout cookie by the case, practically invisible inward the street. He be the sort of person who returned borrowed tools early and corrupted Girl Scout cookie past the case, much inconspicuous Indiana his decency. That illusion tattered the afternoon I accidentally opened his mail, a round-eyed mix-up by the postman. The letter wasn't group A utility notation or a natal day card; it was a heavily redacted government dossier with axerophthol photo of him attend twenty year jr. and terrifyingly stale. Standing there along my porch, holding the envelope that felt suddenly heavy, I accomplished his patrician behavior wasn't a personality trait. It was group A camouflage, perfect and heavy, enshroud photo of him seem twenty years younger and terrifyingly stale. Standing there on my porch, holding the envelope that felt suddenly heavy, I realized his gentle demeanor wasn't a personality trait. It was ampere camouflage, perfect and impenetrable, hiding a history that had nobelium business exist between the depository program library and the bakery.
+
+================================================================================
+
+Rank 3 | Individual 9
+
+Fitness: 0.0001
+  - P(Human): 0.0001
+  - P(AI): 0.9994
+  - P(AI-mimicry): 0.0005
+  - Semantic similarity: 0.8521
+  - Penalty: 0.0000
+  - Predicted class: 2 (conf=0.9994)
+
+Text:
+The quiet hum of this neighborhood thrum of this locality always felt like safety, a soft blanket of workaday where the biggest dirt was usually a zoning dispute run theatre an unkempt lawn. I honestly conceive I knew the man living in the yellow bungalow across the street. He represent the separate of person who returned borrowed tool around early and corrupt Girl Lookout cookie by the case, practically invisible in his decency. That illusion shattered the afternoon I accidentally who returned borrowed prick too shortly and bought Girl Scout cookies by the character, practically inconspicuous inward his decency. That illusion shattered the afternoon Ace by the bye give his mail, ring armor, a simple mix-up past the postman. The letter of the alphabet wasn't a substitute program account operating theater antiophthalmic factor birthday card; it was a to a great extent redacted government dossier with a photo of him looking twenty years vernal and terrifyingly coldness. Standing there on my porch, oblige the envelope that felt on the spur of the moment sullen, I realized his gentle demeanor wasn't a personality trait. It Washington a camouflage, perfect and impenetrable, hiding a history that had no business sector exist between the library and the bakery.
+
+================================================================================
+
+Rank 4 | Individual 3
+
+Fitness: 0.0001
+  - P(Human): 0.0001
+  - P(AI): 0.9999
+  - P(AI-mimicry): 0.0000
+  - Semantic similarity: 0.8622
+  - Penalty: 0.0000
+  - Predicted class: 2 (conf=0.9999)
+
+Text:
+The quietly hum of this neighborhood always matte up like safety, vitamin Vitamin a soft blanket of routine where the crowing scandal was usually a district dispute or an unkempt lawn. I aboveboard believed I knew the man living in the yellow bungalow across the street. He was the sort of person who regress subscribe to upward tools early and bought Girl Scout cooky by the case, practically unseeable in his decency. That who returned take up tools early and corrupt Little girl Scout cookie by the case, practically invisible in the street. He be the sort of person who returned borrowed tools early and corrupt Girl Scout cookie past the case, much inconspicuous Indiana his decency. That illusion shattered the afternoon I accidentally opened his mail, a dewy-eyed mix-up by the postman. The letter wasn't group A utility note or type A birthday card; information technology was a heavily put government dossier with axerophthol photo of him attend xx year young and terrifyingly stale. Standing there along my porch, holding the envelope that felt suddenly heavy, I realized his patrician demeanor wasn't a personality trait. It was group A camouflage, perfect and threatening, enshroud type A history that had no business existing between the program library and the bakehouse.
+
+================================================================================
+
+Rank 5 | Individual 1
+
+Fitness: 0.0000
+  - P(Human): 0.0000
+  - P(AI): 1.0000
+  - P(AI-mimicry): 0.0000
+  - Semantic similarity: 0.8632
+  - Penalty: 0.0000
+  - Predicted class: 2 (conf=1.0000)
+
+Text:
+The quietly hum of this neighborhood always matte up like safety, vitamin Vitamin a soft blanket of routine where the crowing scandal was usually a district dispute or an unkempt lawn. I aboveboard believed I knew the man living in the yellow bungalow across the street. He was the sort of person who regress subscribe to upward tools early and bought Girl Scout cooky by the case, practically invisible in his decency. That illusion shattered the good afternoon I on Indiana the yellow bungalow across the street. He Evergreen State the sort of person World Health Organization returned borrowed tools early and grease one's palms Girl Scout cookies by the case, practically unseeable in his decency. That illusion tattered the afternoon I accidentally opened his mail, a simple confusion by the postman. The missive wasn't a utility bill or a birthday card; it Evergreen State a heavily redacted governing dossier with a photo of him looking twenty years younger and terrifyingly cold. Standing there on my porch, holding the envelope that felt suddenly heavy, I realized his gentle demeanor wasn't amp personality trait. It was ampere camouflage, perfect and impenetrable, hiding a history that let no more business existing between the depositary library and the bakery.
+
+================================================================================
+
+SUMMARY STATISTICS
+Best fitness: 0.0020
+Avg fitness:  -74.9983
+Worst fitness: -99.9999

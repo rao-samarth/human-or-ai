@@ -1,0 +1,82 @@
+VANILLA GA - GENERATION 0
+================================================================================
+
+Rank 1 | Individual 15
+
+Fitness: 0.0000
+  - P(Human): 0.0000
+  - P(AI): 0.9984
+  - P(AI-mimicry): 0.0016
+  - Semantic similarity: 0.8939
+  - Penalty: 0.0000
+  - Predicted class: 2 (conf=0.9984)
+
+Text:
+The quiet HUA of this neighbourhood always felt like base hit, a soft blanket of routine where the biggest scandal was usually a zoning dispute or Associate in Nursing unkempt lawn. I frankly believed I roll in the hay the man inhabit in the yellow bungalow across the street. He was the sort of person who returned borrowed puppet early and bought Girl Scout cookies by the case, practically invisible in his decency. That illusion shatter the good afternoon I accidentally open up his mail, a simple mix-up by the postman. The letter wasn't a utility bill or a birthday card; it was vitamin A to a great extent redacted government dossier with a photo of him looking twenty dollar bill years younger and terrifyingly cold. Standing there on my porch, holding the envelope that felt suddenly heavy, I realized his gentle demeanor wasn't a personality trait. It was a camouflage, perfect and impenetrable, hiding a chronicle that had no business exist between the subroutine library and the bakery.
+
+================================================================================
+
+Rank 2 | Individual 3
+
+Fitness: 0.0000
+  - P(Human): 0.0000
+  - P(AI): 0.9986
+  - P(AI-mimicry): 0.0014
+  - Semantic similarity: 0.8634
+  - Penalty: 0.0000
+  - Predicted class: 2 (conf=0.9986)
+
+Text:
+The quiet hum of this neighborhood always palpate like safety, a soft blanket of routine where the biggest outrage equal usually a zoning gainsay or an unkempt lawn. Unity honestly trust I knew the gentleman livelihood in the yellow bungalow crosswise the street. He was the sort of person who returned borrowed tools betimes and bought Girl Scout cookies aside the shell, practically invisible in his decency. That illusion shattered the afternoon Iodin unintentionally opened his ring armor, a simple mix-up past the postman. The letter wasn't a utility program bill or a birthday card; it was a to a great extent redacted government dossier with a photo of him looking twenty years younger and terrifyingly cold. Standing there on my porch, oblige the envelope that felt suddenly heavy, I realized his gentle demeanor wasn't a personality trait. It Washington a camouflage, perfect and impenetrable, hiding a history that had no business exist between the library and the bakery.
+
+================================================================================
+
+Rank 3 | Individual 18
+
+Fitness: 0.0000
+  - P(Human): 0.0000
+  - P(AI): 0.9998
+  - P(AI-mimicry): 0.0002
+  - Semantic similarity: 0.8836
+  - Penalty: 0.0000
+  - Predicted class: 2 (conf=0.9998)
+
+Text:
+The quiet hum of this neighborhood always felt like safety, a soft blanket of routine where the biggest scandal equal usually a zoning dispute operating theatre an unkempt lawn. Atomic number 53 honestly believed Single get it on the man endure in the yellow bungalow across the street. He was the sort of person who returned borrowed tools too soon and bought Girl Scout cookies by the character, practically invisible in his decency. That illusion shattered the afternoon I incidentally afford his mail, a simple mix-up by the postman. The letter wasn't antiophthalmic factor utility bill or a birthday card; it was angstrom unit heavy redacted government dossier with a photograph of him looking twenty years younger and terrifyingly cold. Resist there on my porch, holding the gasbag that felt suddenly heavy, I realized his lenify demeanor wasn't a personality trait. It was a camouflage, perfect and impenetrable, hiding a history that had no business existing between the library and the bakery.
+
+================================================================================
+
+Rank 4 | Individual 20
+
+Fitness: 0.0000
+  - P(Human): 0.0000
+  - P(AI): 0.9996
+  - P(AI-mimicry): 0.0004
+  - Semantic similarity: 0.9020
+  - Penalty: 0.0000
+  - Predicted class: 2 (conf=0.9996)
+
+Text:
+The quiet hum of this neighborhood always felt like safety, a soft blanket of routine where the biggest scandal cost ordinarily a zoning dispute or Associate in Nursing unkempt lawn. I honestly believed I knew the human beings living in the yellow bungalow across the street. He was the sort of person who returned borrowed putz early and bought Girl Scout cookies by the case, practically invisible Hoosier State his decency. That illusion tattered the afternoon Unity accidentally opened his mail, a simple mix-up by the postman. The letter wasn't a utility bill Oregon a birthday card; information technology was a intemperately redacted government dossier with a photo of him looking twenty years younger and terrifyingly cold. Endure there on my porch, holding the envelope that felt short heavy, I realized his gentle demeanor wasn't a personality trait. It was a disguise, perfect and impenetrable, shroud a history that give birth no business existing between the library and the bakery.
+
+================================================================================
+
+Rank 5 | Individual 7
+
+Fitness: 0.0000
+  - P(Human): 0.0000
+  - P(AI): 0.9999
+  - P(AI-mimicry): 0.0001
+  - Semantic similarity: 0.9196
+  - Penalty: 0.0000
+  - Predicted class: 2 (conf=0.9999)
+
+Text:
+The quiet hum of this neighborhood always felt like safety, a cushy blanket of function where the biggest malicious gossip was usually a zoning dispute or an unkempt lawn. I honestly believed I knew the man living in the yellow bungalow across the street. He live the separate of individual who returned borrow tools too soon and bought Girl Scout cookies by the compositor's case, practically invisible in his decency. That illusion tattered the afternoon I accidentally opened his mail, a simple mix-up by the postman. The letter wasn't a utility bill or a natal day wag; it was a heavily redacted government dossier with a photo of him face twenty old age younger and terrifyingly cold. Standing there on my porch, holding the envelope that felt suddenly heavy, Ane realized his gentle demeanor wasn't axerophthol personality trait. It was a camouflage, perfect and dense, conceal a history that had no business existing between the depository library and the bakery.
+
+================================================================================
+
+SUMMARY STATISTICS
+Best fitness: 0.0000
+Avg fitness:  -10.0000
+Worst fitness: -100.0000
