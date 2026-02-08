@@ -20,6 +20,7 @@ An implementation of the algorithm with Gradient Guided Search can be found in [
 `ggs/*` contains the evolution, population, offspring for the gradient guided search version.
 evolutopn/, population/ and offspring/ contain the evolution, population, offspring for the regular version which does not use Gradient Guided Search
 
+PART-2 of this task can be found in [part-2.ipynb](part-2.ipynb).
 
 # The structure of the algorithm
 
