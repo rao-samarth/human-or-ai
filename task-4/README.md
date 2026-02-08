@@ -1,4 +1,4 @@
-# Task 4: Memetic Algorithm Text Evolution (MATE) 🦘
+# Task 4: Memetic Algorithm Text Evolution (MATE 🦘)
 
 **I want to jailbreak your model**, one might say. Well, so do I. That's exactly what I'm going to do now here in task-4.  
 
@@ -15,6 +15,8 @@ To put it simply, **I am implementing a memetic algorithm instead of a genetic a
 
 
 # The structure of the algorithm
+**NOTE:** The main implementation is in [mate.ipynb](mate.ipynb).  
+An implementation of the algorithm with Gradient Guided Search can be found in [ggs-mate.ipynb](ggs-mate.ipynb)
 
 ## Step 1: Define the objective
 
