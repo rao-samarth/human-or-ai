@@ -10,7 +10,7 @@ The task is split into 5 parts:
 1. [The Fingerprint](task-1/) - Proof of Mathematical Distinctness between the classes in the dataset
 2. [The Multi-Tiered Detective](task-2/) - Building 3 models
 3. [The Smoking Gun](task-3/) - A Saliency Analysis
-4. [The Turing Test](task-4/) - Jailbreaking / Creating an Imposter - 
+4. [The Turing Test](task-4/) - Jailbreaking / Creating an Imposter
 
 I have completed **all 5 tasks**.  
 
