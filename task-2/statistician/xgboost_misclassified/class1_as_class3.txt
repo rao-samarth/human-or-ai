@@ -1,6 +1,6 @@
 ================================================================================
 Class 1 (Human) misclassified as Class 3 (AI-mimicry)
-Total: 13 files
+Total: 11 files
 ================================================================================
 
 --------------------------------------------------------------------------------
@@ -26,21 +26,22 @@ his way to a bar, the shouldered parties wheeled indignantly, recognized
 him, and --apologized.
 
 --------------------------------------------------------------------------------
-File: 005_Indiscretions-of-Archie_05.txt
+File: 145_The-Prince-and-the-Pauper,-Part-9._11.txt
 Actual: Class 1: Human-written
 Predicted: Class 3: AI-mimicry
 --------------------------------------------------------------------------------
-Normally, Archie was a dog-lover. His hurry was never so great as to
-prevent him stopping, when in the street, and introducing himself to any
-dog he met. In a strange house, his first act was to assemble the canine
-population, roll it on its back or backs, and punch it in the ribs. As a
-boy, his earliest ambition had been to become a veterinary surgeon; and,
-though the years had cheated him of his career, he knew all about dogs,
-their points, their manners, their customs, and their treatment in
-sickness and in health. In short, he loved dogs, and, had they met under
-happier conditions, he would undoubtedly have been on excellent terms
-with this one within the space of a minute. But, as things were, he
-abstained from fraternising and continued to goggle dumbly.
+At noon he was still tramping--among the rabble which followed after the
+royal procession, now; for he argued that this regal display would
+attract his little lunatic powerfully.  He followed the pageant through
+all its devious windings about London, and all the way to Westminster and
+the Abbey.  He drifted here and there amongst the multitudes that were
+massed in the vicinity for a weary long time, baffled and perplexed, and
+finally wandered off, thinking, and trying to contrive some way to better
+his plan of campaign.  By-and-by, when he came to himself out of his
+musings, he discovered that the town was far behind him and that the day
+was growing old.  He was near the river, and in the country; it was a
+region of fine rural seats--not the sort of district to welcome clothes
+like his.
 
 --------------------------------------------------------------------------------
 File: 031_RSH_03_Dancing_Men_18.txt
@@ -59,38 +60,25 @@ forefinger and thumb, to feel sure that you did NOT propose to invest
 your small capital in the gold fields."
 
 --------------------------------------------------------------------------------
-File: 041_RSH_13_Second_Stain_18.txt
+File: 095_Sketches-New-and-Old,-Part-3._17.txt
 Actual: Class 1: Human-written
 Predicted: Class 3: AI-mimicry
 --------------------------------------------------------------------------------
-"Good Lord, sir!" he cried, with amazement on his face. Holmes put his
-finger on his lips, replaced his hand in his breast pocket, and burst
-out laughing as we turned down the street. "Excellent!" said he. "Come,
-friend Watson, the curtain rings up for the last act. You will be
-relieved to hear that there will be no war, that the Right Honourable
-Trelawney Hope will suffer no setback in his brilliant career, that the
-indiscreet Sovereign will receive no punishment for his indiscretion,
-that the Prime Minister will have no European complication to deal
-with, and that with a little tact and management upon our part
-nobody will be a penny the worse for what might have been a very ugly
-incident."
-
---------------------------------------------------------------------------------
-File: 002_Sign_of_Four_15.txt
-Actual: Class 1: Human-written
-Predicted: Class 3: AI-mimicry
---------------------------------------------------------------------------------
-We had during this time been following the guidance of Toby down the
-half-rural villa-lined roads which lead to the metropolis. Now,
-however, we were beginning to come among continuous streets, where
-laborers and dockmen were already astir, and slatternly women were
-taking down shutters and brushing door-steps.  At the square-topped
-corner public houses business was just beginning, and rough-looking men
-were emerging, rubbing their sleeves across their beards after their
-morning wet.  Strange dogs sauntered up and stared wonderingly at us as
-we passed, but our inimitable Toby looked neither to the right nor to
-the left, but trotted onwards with his nose to the ground and an
-occasional eager whine which spoke of a hot scent.
+We, the jury in the case of the Commonwealth of Kentucky vs. John
+     Wheeler et al., have carefully considered the points of the case,
+     and tested the merits of the several theories advanced, and do
+     hereby unanimously decide that the game commonly known as old sledge
+     or seven-up is eminently a game of science and not of chance.  In
+     demonstration whereof it is hereby and herein stated, iterated,
+     reiterated, set forth, and made manifest that, during the entire
+     night, the "chance" men never won a game or turned a jack, although
+     both feats were common and frequent to the opposition; and
+     furthermore, in support of this our verdict, we call attention to
+     the significant fact that the "chance" men are all busted, and the
+     "science" men have got the money.  It is the deliberate opinion of
+     this jury, that the "chance" theory concerning seven-up is a
+     pernicious doctrine, and calculated to inflict untold suffering and
+     pecuniary loss upon any community that takes stock in it.
 
 --------------------------------------------------------------------------------
 File: 041_Extract-from-Captain-Stormfield's-Visit-to-Heaven_05.txt
@@ -133,19 +121,24 @@ spectacle of nine separate and distinct armies in the metropolis left
 no room in the British mind for other reflections.
 
 --------------------------------------------------------------------------------
-File: 008_Beautiful-Stories-from-Shakespeare_05.txt
+File: 145_The-Prince-and-the-Pauper,-Part-9._04.txt
 Actual: Class 1: Human-written
 Predicted: Class 3: AI-mimicry
 --------------------------------------------------------------------------------
-The King could not understand what it was that took his son nearly every
-day from home; so he set people to watch him, and then found out that
-the heir of the King of Bohemia was in love with Perdita, the pretty
-shepherd girl. Polixenes, wishing to see whether this was true,
-disguised himself, and went with the faithful Camillo, in disguise
-too, to the old shepherd's house. They arrived at the feast of
-sheep-shearing, and, though strangers, they were made very welcome.
-There was dancing going on, and a peddler was selling ribbons and laces
-and gloves, which the young men bought for their sweethearts.
+The hours drag along tediously enough.  All stir has ceased for some
+time, for every gallery has long ago been packed.  We may sit, now, and
+look and think at our leisure.  We have glimpses, here and there and
+yonder, through the dim cathedral twilight, of portions of many galleries
+and balconies, wedged full with other people, the other portions of these
+galleries and balconies being cut off from sight by intervening pillars
+north transept--empty, and waiting for England's privileged ones.  We see
+also the ample area or platform, carpeted with rich stuffs, whereon the
+throne stands.  The throne occupies the centre of the platform, and is
+raised above it upon an elevation of four steps. Within the seat of the
+throne is enclosed a rough flat rock--the stone of Scone--which many
+generations of Scottish kings sat on to be crowned, and so it in time
+became holy enough to answer a like purpose for English monarchs.  Both
+the throne and its footstool are covered with cloth of gold.
 
 --------------------------------------------------------------------------------
 File: 036_Three-Men-and-a-Maid_09.txt
@@ -165,47 +158,6 @@ as to whether it was not going to be sung again after the interval--the
 latest rumour being that the second of the rival lady singers had proved
 adamant to all appeals and intended to fight the thing out on the lines
 she had originally chosen if they put her in irons.
-
---------------------------------------------------------------------------------
-File: 008_ASH_06_Man_With_Twisted_Lip_17.txt
-Actual: Class 1: Human-written
-Predicted: Class 3: AI-mimicry
---------------------------------------------------------------------------------
-It was difficult to refuse any of Sherlock Holmes' requests, for
-they were always so exceedingly definite, and put forward with
-such a quiet air of mastery. I felt, however, that when Whitney
-was once confined in the cab my mission was practically
-accomplished; and for the rest, I could not wish anything better
-than to be associated with my friend in one of those singular
-adventures which were the normal condition of his existence. In a
-few minutes I had written my note, paid Whitney's bill, led him
-out to the cab, and seen him driven through the darkness. In a
-very short time a decrepit figure had emerged from the opium den,
-and I was walking down the street with Sherlock Holmes. For two
-streets he shuffled along with a bent back and an uncertain foot.
-Then, glancing quickly round, he straightened himself out and
-burst into a hearty fit of laughter.
-
---------------------------------------------------------------------------------
-File: 032_RSH_04_Solitary_Cyclist_17.txt
-Actual: Class 1: Human-written
-Predicted: Class 3: AI-mimicry
---------------------------------------------------------------------------------
-In the whirl of our incessant activity, it has often been difficult for
-me, as the reader has probably observed, to round off my narratives, and
-to give those final details which the curious might expect. Each case
-has been the prelude to another, and the crisis once over, the actors
-have passed for ever out of our busy lives. I find, however, a short
-note at the end of my manuscript dealing with this case, in which I have
-put it upon record that Miss Violet Smith did indeed inherit a large
-fortune, and that she is now the wife of Cyril Morton, the senior
-partner of Morton & Kennedy, the famous Westminster electricians.
-Williamson and Woodley were both tried for abduction and assault, the
-former getting seven years the latter ten. Of the fate of Carruthers,
-I have no record, but I am sure that his assault was not viewed very
-gravely by the court, since Woodley had the reputation of being a most
-dangerous ruffian, and I think that a few, months were sufficient to
-satisfy the demands of justice.
 
 --------------------------------------------------------------------------------
 File: 056_Life-on-the-Mississippi,-Part-10._16.txt
@@ -239,4 +191,27 @@ neck hung the order of the Garter, and several princely foreign orders;’
 and wherever light fell upon him jewels responded with a blinding flash.
  O Tom Canty, born in a hovel, bred in the gutters of London, familiar
 with rags and dirt and misery, what a spectacle is this!
+
+--------------------------------------------------------------------------------
+File: 026_MSH_12_Final_Problem_10.txt
+Actual: Class 1: Human-written
+Predicted: Class 3: AI-mimicry
+--------------------------------------------------------------------------------
+A few words may suffice to tell the little that remains. An examination
+by experts leaves little doubt that a personal contest between the two
+men ended, as it could hardly fail to end in such a situation, in their
+reeling over, locked in each other's arms. Any attempt at recovering the
+bodies was absolutely hopeless, and there, deep down in that dreadful
+caldron of swirling water and seething foam, will lie for all time the
+most dangerous criminal and the foremost champion of the law of their
+generation. The Swiss youth was never found again, and there can be no
+doubt that he was one of the numerous agents whom Moriarty kept in his
+employ. As to the gang, it will be within the memory of the public
+how completely the evidence which Holmes had accumulated exposed their
+organization, and how heavily the hand of the dead man weighed
+upon them. Of their terrible chief few details came out during the
+proceedings, and if I have now been compelled to make a clear statement
+of his career it is due to those injudicious champions who have
+endeavored to clear his memory by attacks upon him whom I shall ever
+regard as the best and the wisest man whom I have ever known.
 

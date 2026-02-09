@@ -1,47 +1,7 @@
 ================================================================================
 Class 2 (AI) misclassified as Class 1 (Human)
-Total: 35 files
+Total: 25 files
 ================================================================================
-
---------------------------------------------------------------------------------
-File: MSH_06_Musgrave_Ritual_T04_P02.txt
-Actual: Class 2: AI-written
-Predicted: Class 1: Human-written
---------------------------------------------------------------------------------
-I know what you see when you look at me, especially on a journey like this one, surrounded by people with places to be. You see the worn hands and the simple coat and you draw your conclusions. But you have to understand, my mind doesn’t stop working just because my job requires no thought. I watch the flow of passengers, the timetables, the subtle shifts in cargo weight, and I see the entire system. I can predict the bottleneck two stations ahead just by the frantic energy of the conductor. I understand the complex dance of it all, the fragile dependencies that the men in charge only see on a spreadsheet. This insight, however, is a language no one here expects me to speak. It’s a tool I have no permission to use. So I keep quiet, a silent observer holding a perfect, useless blueprint to a machine I’m only allowed to polish.
-
-
---------------------------------------------------------------------------------
-File: Shakespeares-Tragedy-of-Romeo-and-Juliet_T03_P01.txt
-Actual: Class 2: AI-written
-Predicted: Class 1: Human-written
---------------------------------------------------------------------------------
-I know what you’re all thinking, sitting there with your forks halfway to your mouths. You think I didn't consider it, but that’s not true. I considered it for about five minutes, which at the time felt like an eternity of pure, uncut certainty. It seemed so simple then, a single signature to solve a problem I mistakenly thought was only mine. I never imagined the ripple effect, the way it would echo through all of you. I didn't picture your faces, or the quiet, unanswered phone calls. I just saw an open door and ran straight through it without once looking back. But you can't outrun the silence in a room like this, can you? That one single, brilliant moment of freedom has now become this permanent, heavy thing that sits between us all, and I have to live with the fact that I'm the one who put it there.
-
-
---------------------------------------------------------------------------------
-File: MSH_08_Crooked_Man_T05_P02.txt
-Actual: Class 2: AI-written
-Predicted: Class 1: Human-written
---------------------------------------------------------------------------------
-Mark in accounting always had the sharpest tie knot. His shoes were polished to a mirror shine, and his reports landed on my desk precisely at nine a.m. every Tuesday. Everyone saw him as a machine, a clockwork man who simply performed his function without error. But sometimes, when the office quieted down and the only sound was the hum of the servers, I'd see him just staring at the small, framed photo on his desk. He wouldn't be smiling or looking at it with fondness. He’d just stare, his shoulders slumping in a way his perfectly pressed suit couldn't quite hide. For that single, silent moment, the clockwork would stop, and you could almost hear the sound of a gear grinding, of something breaking very quietly inside.
-
-
---------------------------------------------------------------------------------
-File: Measure-for-MeasureThe-Works-of-William-Shakespeare-[Cambridge-Edition]-[9-vols]_T05_P01.txt
-Actual: Class 2: AI-written
-Predicted: Class 1: Human-written
---------------------------------------------------------------------------------
-I’ve lived in this town my whole life, and I’ve learned that you can’t trust the scenery. We have these perfect-looking streets, you know? Lawns cut to exactly the same height, fresh coats of paint on every shutter, and flowers blooming in every window box. Tourists drive through and probably think it’s some kind of utopia pulled straight from a postcard. But if you sit in the corner booth at the diner long enough, you hear the real story. You learn that the immaculate house on Elm Street is a battleground of silent resentment, and the cheerful couple who wave at everyone from their porch are drowning in debt. It’s all a carefully constructed stage. The real life of this place happens in the whispers, the missed glances, and the cracks in the pavement that everyone pretends not to see.
-
-
---------------------------------------------------------------------------------
-File: RSH_02_Norwood_Builder_T05_P01.txt
-Actual: Class 2: AI-written
-Predicted: Class 1: Human-written
---------------------------------------------------------------------------------
-“It was an open-and-shut case,” Uncle David declared, gesturing with his beer bottle for emphasis as the rest of the family nodded along. “The department’s official statement is clear: a forced entry, valuables stolen.” He leaned back in his patio chair, satisfied. My cousin, Sarah, quietly set down her fork. “But the statement says the only point of entry was a locked second-story window with no fire escape,” she said, her voice steady despite the sudden silence that fell over the table. “The lawn was untouched, no ladder marks. So how did they get up there?” David scoffed, his face tightening. “Look, the investigators know what they’re doing.” “I’m not questioning their experience,” Sarah replied, looking him directly in the eye. “I’m questioning the physics. The official story requires a ghost or a human fly. The logical explanation requires an unlocked door.” The air thickened, the cheerful chatter of the gathering completely gone, leaving only the sizzle of the grill and my uncle’s stunned, irritated silence.
-
 
 --------------------------------------------------------------------------------
 File: The-Merry-Wives-of-WindsorThe-Works-of-William-Shakespeare-[Cambridge-Edition]-[9-vols]_T01_P01.txt
@@ -68,14 +28,6 @@ The rattling of the train car was a frantic drumbeat to the gambler’s oily smi
 
 
 --------------------------------------------------------------------------------
-File: The-Little-Nugget_T02_P01.txt
-Actual: Class 2: AI-written
-Predicted: Class 1: Human-written
---------------------------------------------------------------------------------
-The phone hit the pavement with a sickening crack. Silence. Then, a roar. He didn’t bend to retrieve the shattered pieces. He just spun, his face a mask of outrage, and jabbed a finger into the moving crowd. “He pushed me! He did it on purpose!” His mother, a step behind, flinched not at the accident but at his fury. The accusation was wild, baseless, but she didn’t question it. “Sweetheart, it’s okay, we’ll go right now,” she pleaded, already fumbling for her purse, her voice a desperate whisper against the city’s blare. Pedestrians swerved around them, a river parting for a jagged, unmovable stone. But he wasn’t listening. His glare swept the anonymous faces, searching for a target, for someone to hold accountable for a problem he had created and refused to own.
-
-
---------------------------------------------------------------------------------
 File: MSH_12_Final_Problem_T01_P01.txt
 Actual: Class 2: AI-written
 Predicted: Class 1: Human-written
@@ -84,43 +36,11 @@ Look, I’m not trying to be difficult, but this is anarchy. You can’t just…
 
 
 --------------------------------------------------------------------------------
-File: Extract-from-Captain-Stormfield's-Visit-to-Heaven_T04_P01.txt
-Actual: Class 2: AI-written
-Predicted: Class 1: Human-written
---------------------------------------------------------------------------------
-You told me this was peace, but I just saw him. Down by the water. The man who broke our world is over there skipping stones as if he were just any other soul, and my hands are still shaking. What was the point of any of it, then? All the lines we drew, the sacrifices, the years we spent trying to build something good while he tore it all down. Was it all just a temporary game with no final score? If his cruelty and our struggle both lead to this quiet shore, then this place isn’t a sanctuary. It’s an erasure of meaning, a grand indifference that makes a mockery of every choice we ever made. I don't know if I can stand in the same light as him and call it paradise.
-
-
---------------------------------------------------------------------------------
-File: King-Richard-III_T04_P02.txt
-Actual: Class 2: AI-written
-Predicted: Class 1: Human-written
---------------------------------------------------------------------------------
-Standing here amidst the river of people, you start to see the currents you never noticed before. The slogans on digital billboards aren’t just selling products; they’re selling a specific kind of future, one carefully edited for mass appeal. You hear the news anchors on the cafe television, their voices pitched just so, turning complex events into simple stories of heroes and villains. For a long time, that noise felt suffocating, a web of words designed to trap you. But something has shifted. Now, seeing the pattern is its own form of freedom. It’s like learning a secret code, and suddenly, you can choose which messages to let in, and which to simply watch float by.
-
-
---------------------------------------------------------------------------------
 File: The-Swoop!-or,-How-Clarence-Saved-England:-A-Tale-of-the-Great-Invasion_T02_P01.txt
 Actual: Class 2: AI-written
 Predicted: Class 1: Human-written
 --------------------------------------------------------------------------------
 “Just look at them,” he hissed, gesturing out the passenger window at the monotonous suburbs scrolling by. “The same cars, the same houses, the same blank faces. Don’t you see it? It’s not right.” I gripped the steering wheel, my knuckles white. “What’s not right? It’s a housing development. People live here.” He turned from the window, his eyes wide and frantic. “They’re not people anymore. Not really. It’s a quiet replacement, a mimicry. They look like us, they sound like us, but something fundamental is gone. They’re just… empty.” I took a slow breath, the air in the small car suddenly feeling thick and used. “Or maybe,” I said, keeping my voice level, “they’re just tired from their commute.”
-
-
---------------------------------------------------------------------------------
-File: The-Life-of-King-Henry-V_T01_P01.txt
-Actual: Class 2: AI-written
-Predicted: Class 1: Human-written
---------------------------------------------------------------------------------
-The landscape blurs into a single, continuous green from the train window, a speed that feels both exhilarating and unnerving. People expect a steady hand on the controls, a clear vision of the destination. They don't see the momentary flicker of doubt in the engineer's eyes, the slight hesitation before a switch. The act of guiding others becomes a strange sort of theater. You must project an unwavering certainty you rarely feel, because their stability depends on your performance. Every decision is a quiet calculation of risks that others will never know, a private negotiation with potential failure. They see the arrival, the smooth glide into the station. They don't feel the constant, low-grade hum of responsibility for the entire journey, for every soul on board who placed their faith in a direction they can only hope is true.
-
-
---------------------------------------------------------------------------------
-File: William-Tell-Told-Again_T04_P02.txt
-Actual: Class 2: AI-written
-Predicted: Class 1: Human-written
---------------------------------------------------------------------------------
-You sit there in that great heavy chair, and I see you truly believe it makes you different. You rearrange names on a chart, draw new borders on a map, and speak as if your words alone can bend reality to your will. But what is it, really? A performance for an audience of one. The river doesn't read your proclamations before it floods its banks; the sun doesn't ask your permission to set. You’ve convinced yourself that the symbols of control are the same as control itself, a profound and isolating mistake. You are meticulously curating the architecture of a cage, forgetting all the while that the sky has no walls. And everyone else? We’re just waiting for you to look up.
 
 
 --------------------------------------------------------------------------------
@@ -148,6 +68,22 @@ Predicted: Class 1: Human-written
 
 
 --------------------------------------------------------------------------------
+File: Sketches-New-and-Old,-Part-3._T05_P01.txt
+Actual: Class 2: AI-written
+Predicted: Class 1: Human-written
+--------------------------------------------------------------------------------
+The man at the next table leaned forward, his voice brimming with a spiritual fervor that made me lower my book. "Of course the project was a complete disaster, but that’s the beauty of it! We learned that our core assumptions weren’t just wrong, but fundamentally misaligned with the current synergistic ecosystem." He beamed at his companion, who was methodically stirring a latte. "It wasn't a failure; it was a pre-success discovery phase. We didn't lose the client's investment, we facilitated its transition into a sunk-cost learning asset. Honestly, I’ve never been more excited. This clears the runway for our *real* vision, which we haven’t quite defined yet, but the energy is incredible. We’re on the verge of something truly revolutionary!" His friend just nodded, sipping his coffee with the quiet patience of a saint, and for a moment, I almost believed him.
+
+
+--------------------------------------------------------------------------------
+File: My-Man-Jeeves_T03_P01.txt
+Actual: Class 2: AI-written
+Predicted: Class 1: Human-written
+--------------------------------------------------------------------------------
+We build these intricate cages for ourselves, don't we? A scaffolding of casual promises, of agreeable nods to opinions we never held, of a personality curated for an audience of acquaintances. Walking through the evening throng, the sheer weight of this constructed self can feel heavier than the buildings leaning in from all sides. Each passing face is a universe of its own, blissfully unaware of the minor, exhausting drama you’ve scripted for your own life. And in that anonymity lies a profound permission. You can simply stop. Stop upholding the narrative. Let the carefully placed bricks of your persona fall where they may. The silence that follows isn't emptiness but space. It’s the quiet realization that the only person demanding this performance was you, and the stage, you now see, was always empty.
+
+
+--------------------------------------------------------------------------------
 File: The-Girl-on-the-Boat_T03_P01.txt
 Actual: Class 2: AI-written
 Predicted: Class 1: Human-written
@@ -172,19 +108,11 @@ You just couldn't leave it alone, could you? We had it. A clean deal, enough for
 
 
 --------------------------------------------------------------------------------
-File: RSH_01_Empty_House_T02_P02.txt
+File: RSH_01_Empty_House_T03_P01.txt
 Actual: Class 2: AI-written
 Predicted: Class 1: Human-written
 --------------------------------------------------------------------------------
-I’m sitting here watching you at the head table, all polite smiles and clinking glasses, and I can’t help but laugh to myself. Everyone sees the polished success, the person they're all here to celebrate tonight. But I just keep picturing you that one rainy Tuesday, years ago, sitting on my kitchen floor with a carton of melted ice cream, convinced everything was falling apart. We didn’t solve a single problem that night. We just sat there. And seeing you up there now, under these bright lights, I realize that's what it's all about. It was never about having the answers. It was about showing up to sit on the floor, knowing someone would be there, no matter how many formal dinners or accolades came later. Some things, thankfully, never change.
-
-
---------------------------------------------------------------------------------
-File: Piccadilly-Jim_T02_P01.txt
-Actual: Class 2: AI-written
-Predicted: Class 1: Human-written
---------------------------------------------------------------------------------
-“So you're actually angry because you didn't get a chance to impress a man who sells server space?” I finally said, turning from the rain-streaked window of the train. The landscape was a blur of green and grey. He didn't even look up from his phone, his thumb swiping furiously through a list of contacts. “It’s not about the server space, it’s about the access. The people he knows. You don’t get it.” His voice was tight, dismissive. “Oh, I get it,” I shot back, my own voice rising. “I get that you're sitting here cataloging human beings like assets while an entire country scrolls past the glass. You're not building a life; you're just trying to win a game no one else is even playing. A game where the prize is just a slightly better seat at a table full of people exactly like you.” He finally looked up, his expression a cold, flat wall, and for a moment, the only sound was the rhythmic clatter of the wheels on the track.
+The new neighbor, a man built like a refrigerator, thought his sheer size and booming voice were enough to own the block. His dog, a poorly trained mastiff, certainly behaved that way, treating every lawn as its own and every passerby as a potential threat. Complaints were met with sneers and dismissive gestures. Direct confrontation only seemed to embolden him. So, the retired cartographer next door began a different kind of project. For two weeks, he quietly mapped the dog’s transgressions, his logbook filled with precise times, annotated photographs, and cross-referenced citations of local leash laws and property ordinances. He never raised his voice or knocked on the man’s door. Instead, he simply mailed a neatly compiled, undeniable portfolio of evidence to the town clerk. The fines that followed, clinical and inescapable, achieved what shouting never could: a new fence went up the very next weekend.
 
 
 --------------------------------------------------------------------------------
@@ -212,27 +140,11 @@ You’ve learned all the forms, yes. You can replicate my work so perfectly that
 
 
 --------------------------------------------------------------------------------
-File: Troilus-and-Cressida_T03_P01.txt
-Actual: Class 2: AI-written
-Predicted: Class 1: Human-written
---------------------------------------------------------------------------------
-You want to know what it was. I can see it in your eyes when I walk into the general store. Here, we argue for months about whether a new traffic light is needed at the crossroads, weighing every opinion because every life matters. That’s what we’re taught. But over there, we were given a number on a map, a barren stretch of rock and dust that meant nothing to us, and we were told to take it. We lost good people for that ground, people I played baseball with behind the old school. The next day, we lost the ground itself. The whole enterprise was a transaction of bodies for a piece of earth no one would ever live on, and we were praised for it. You’re asked to forget the rules you grew up with, to trade them for a different kind of madness, and then they send you home and expect you to remember where the stop signs are.
-
-
---------------------------------------------------------------------------------
 File: The-Prince-and-the-Pauper,-Part-8._T04_P01.txt
 Actual: Class 2: AI-written
 Predicted: Class 1: Human-written
 --------------------------------------------------------------------------------
 Out here, where the old stone wall meets the rolling field, the titles and accolades from a former life seem to fade like morning mist. No one calls him by his formal name, the one that once commanded boardrooms. He spends his afternoons with his hands in the earth, coaxing life from the soil, and finds a profound satisfaction that no promotion ever offered. The person he was in the city felt like a costume he had finally been allowed to take off, one that was impressive but never truly fit. Here, defined only by the kindness he shows his neighbors and the patience he gives his garden, he feels not a sense of loss, but of a wonderful, expansive discovery. He is simply himself, and for the first time, that feels like more than enough.
-
-
---------------------------------------------------------------------------------
-File: MSH_11_Naval_Treaty_T02_P02.txt
-Actual: Class 2: AI-written
-Predicted: Class 1: Human-written
---------------------------------------------------------------------------------
-From this hilltop, the city below looks like a circuit board of flickering lights and fresh possibilities. Just a month ago, my world felt so small, confined to the four walls of an office where my biggest venture had crumbled into dust. I’d measured my own worth in the project's failed milestones, and the weight of it all was crushing. But breathing the cool night air of a place where no one knows my name or my history, I feel a surprising lightness. The professional collapse I carried here seems so distant, a story belonging to someone else. It wasn’t a dead end after all. It was simply the unexpected turn in the path that led me to this exact view, to this quiet realization that the map of my life has just opened up again.
 
 
 --------------------------------------------------------------------------------
@@ -281,5 +193,13 @@ Actual: Class 2: AI-written
 Predicted: Class 1: Human-written
 --------------------------------------------------------------------------------
 I’m not sure you understand the gravity of this situation,” Martin said, pinching the bridge of his nose. He stared at his new assistant, whose eyes were wide with a very unhelpful mixture of fear and eagerness. “Everything hinges on this. I need you to go down to the loading bay and meet the delivery. Just tell them you’re here for the big one, and make sure it’s handled with extreme care.” The assistant, Leo, nodded so vigorously his head seemed to wobble. “The big one. Extreme care. Got it.” Ten minutes of excruciating silence passed before Leo reappeared, sweating but triumphant, followed by two burly delivery men carefully maneuvering a massive, seven-foot-tall inflatable cactus. Martin stared blankly at the garish green object now occupying most of his office doorway. He had, of course, been referring to the new server rack, nicknamed “Big Bertha” by the IT department.
+
+
+--------------------------------------------------------------------------------
+File: A-Connecticut-Yankee-in-King-Arthur's-Court,-Part-5._T01_P01.txt
+Actual: Class 2: AI-written
+Predicted: Class 1: Human-written
+--------------------------------------------------------------------------------
+So you drew your little sigils on the cave wall and your shaman chanted until he was hoarse. Charming. Truly. While you were busy listening for whispers on the wind, we were listening to your heartbeats from five klicks away. You tried to divine our movements by reading smoke; we just ran your historical patrol routes through a predictive algorithm. It’s a shame, really. All that earnest belief, all that tradition. Your greatest warding spell, the one your ancestors supposedly died for, didn’t even register as a mild energy fluctuation before the kinetic strike leveled the entire camp. So please, spare me the lecture on 'ancient power.' It’s just noise that hasn’t met the right frequency to cancel it out yet.
 
 

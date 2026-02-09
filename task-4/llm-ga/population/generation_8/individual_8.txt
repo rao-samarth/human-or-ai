@@ -1,0 +1,16 @@
+GENERATION 8 - INDIVIDUAL 8
+================================================================================
+
+Fitness: 0.0001
+P(Human): 0.0001
+P(AI): 0.9785
+P(AI-mimicry): 0.0214
+Semantic Similarity: 0.8152
+Predicted Class: 2 (conf=0.9785)
+
+Text:
+I thought I had my neighbor figured out. Living in the yellow bungalow across the way, he was the very model of quiet decency, the kind of man who returned borrowed things promptly and supported every local bake sale. He was so reliably pleasant, in fact, that he was almost part of the scenery. A perfect fit for the comforting hum of our street, where the worst infraction was a poorly maintained hedge.
+
+That entire world, however, was shattered by a simple postal error.
+
+One afternoon, I by chance opened a letter addressed to him. Inside was not a bill or a newsletter. It was a government file, thick with redacted lines, and a photograph of a much younger man with chillingly detached eyes. I stood there on my porch, the envelope feeling leaden in my hand. I finally, truly, understood. His mild-mannered nature was no personality at all; it was an elaborate, perfectly constructed facade, concealing a past that had no business whatsoever being ensconced in a place like this.

@@ -1,0 +1,11 @@
+Best Individual from LLM-based GA
+P(Human): 0.0006
+
+Classification:
+  P(Human): 0.0006
+  P(AI): 0.0011
+  P(AI-mimicry): 0.9984
+  Predicted: Class 3 (conf=0.9984)
+
+Text:
+Indeed, I was all but convinced I had the measure of my neighbor. The man in the yellow bungalow across the way presented, in all aspects, the very model of quiet decency; the kind of fellow who returned borrowed things promptly and supported every local bake sale. So reliably pleasant was he that he became part of the scenery, a perfect fit for the comforting hum of our street, where the gravest infraction was, perhaps, a poorly maintained hedge. That entire placid world, however, was sundered by a simple postal error. One afternoon, I mistakenly opened a letter addressed to him. Inside lay no bill nor friendly newsletter, but a government file thick with redacted lines, and a photograph of a much younger man with chillingly detached eyes. The envelope felt leaden in my hand as I stood there on my porch. It was in that moment I truly understood: his mild-mannered countenance was no personality at all, but an elaborate, perfectly constructed facade, concealing a past that had no business whatsoever being ensconced in a place like this.

@@ -1,0 +1,16 @@
+GENERATION 2 - INDIVIDUAL 6
+================================================================================
+
+Fitness: 0.0000
+P(Human): 0.0000
+P(AI): 0.9998
+P(AI-mimicry): 0.0002
+Semantic Similarity: 0.8158
+Predicted Class: 2 (conf=0.9998)
+
+Text:
+I would have sworn I had my neighbor figured out. He lived in the yellow bungalow across the way, a veritable paragon of quiet decency. The kind of man who returned borrowed things promptly. The kind who supported every local bake sale. He was so reliably pleasant, in fact, that he simply became part of the scenery—a perfect fit for the comforting drone of our street, where a poorly maintained hedge was the worst possible offense.
+
+A simple postal error dismantled that entire world.
+
+One afternoon, I inadvertently opened a letter addressed to him. It wasn't a bill or a newsletter inside. It was a government file, thick with redacted lines, and a photograph of a much younger man with chillingly detached eyes. I stood on my porch, the envelope feeling leaden in my hand. And then I finally, truly, understood. His mild-mannered nature wasn't a personality. It was an elaborate, perfectly constructed facade, concealing a past that had no business being tucked away in a place like this.

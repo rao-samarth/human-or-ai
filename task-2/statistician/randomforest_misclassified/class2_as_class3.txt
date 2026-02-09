@@ -1,7 +1,15 @@
 ================================================================================
 Class 2 (AI) misclassified as Class 3 (AI-mimicry)
-Total: 20 files
+Total: 17 files
 ================================================================================
+
+--------------------------------------------------------------------------------
+File: Eve's-Diary,-Complete_T03_P01.txt
+Actual: Class 2: AI-written
+Predicted: Class 3: AI-mimicry
+--------------------------------------------------------------------------------
+He watched the crane hoist another steel girder into place, a clean, powerful motion against the flat blue sky. From his desk, the construction site was a puzzle assembling itself into a logical future for the town—commerce, structure, a necessary step forward. He admired the precision of the crew, the straightforward physics of it all. This was how things were built, how they improved. She, however, saw it differently from her window above the bakery. For her, the raw earth and rising frame weren’t a beginning but an ending. They had torn out the old community garden for this, that small patch of green where conversations grew as readily as tomatoes. She thought of the long afternoon shadows the new building would cast, a permanent cooling of the sunniest spot on the square. They were both observing the same grid of metal and men, yet one saw a foundation being laid while the other felt a space being lost.
+
 
 --------------------------------------------------------------------------------
 File: King-Lear_T03_P01.txt
@@ -52,14 +60,6 @@ Are you still up? I’m sitting here in the dark, and the house just made that w
 
 
 --------------------------------------------------------------------------------
-File: Henry-V_T04_P01.txt
-Actual: Class 2: AI-written
-Predicted: Class 3: AI-mimicry
---------------------------------------------------------------------------------
-The train clicked along the rails, a steady rhythm beneath the hum of a dozen conversations. Across the aisle, a grandmother shared spiced nuts from a small bag with a young man glued to his screen, their shared laughter briefly bridging the gap between their worlds. I heard snippets of three different languages, none of which I understood, yet the meaning was clear in the cadence of teasing jokes and gentle reassurances. Outside, the cityscape dissolved into rolling farmland, then gave way to rugged hills, a constant reminder of the sheer scale of the land we all shared. It struck me then, looking at the reflection of all these different faces superimposed over the passing scenery, that this was it. This was the process: not a single, unified voice, but a chorus, finding its harmony in motion.
-
-
---------------------------------------------------------------------------------
 File: The-Tragedy-of-Coriolanus_T01_P01.txt
 Actual: Class 2: AI-written
 Predicted: Class 3: AI-mimicry
@@ -73,14 +73,6 @@ Actual: Class 2: AI-written
 Predicted: Class 3: AI-mimicry
 --------------------------------------------------------------------------------
 After the expert departed, a familiar quiet settled over the room, the kind that follows a pronouncement from on high. We were handed a blueprint for success, a meticulously crafted strategy full of reassuring buzzwords and clean, linear progressions. It was presented as an objective truth, a universal key for our specific, stubbornly unique lock. Yet, as we looked at the elegant diagrams, we all knew they described a world that wasn't ours—a world without friction, without history, without the messy human element that defied categorization. The advice was flawless in its own vacuum, a perfect answer to a question no one was actually asking. We were being told to ignore the intricate, chaotic reality we navigated every day in favor of a simplified, sanitized fiction. The sheer certainty of it all was the most curious thing; a profound confidence in a map drawn by someone who had never walked the terrain.
-
-
---------------------------------------------------------------------------------
-File: The-Prince-and-Betty_T03_P01.txt
-Actual: Class 2: AI-written
-Predicted: Class 3: AI-mimicry
---------------------------------------------------------------------------------
-For the love of all that is sacred, put down the pen. The bells are still tolling for your father. Outside this door, the council sits in a stone-cold silence, waiting for a word, for a sign, for *anything* from their new king. And you sit here, agonizing over the precise shade of blue for a river that doesn't exist. We are not discussing the cartography of a fairy tale; we are discussing the fate of millions of people who are looking to you. To you! There are grain shortages in the north and border disputes in the south. The only thing preventing this entire nation from collapsing into chaos is the simple, biological fact that you were his son. Your blood is the only reason they are not already at each other's throats. So please, stop coloring in your imaginary mountains and start figuring out how to rule a real kingdom.
 
 
 --------------------------------------------------------------------------------
@@ -100,27 +92,11 @@ Across the living room, illuminated by the low fire, a familiar contest was unde
 
 
 --------------------------------------------------------------------------------
-File: Sketches-New-and-Old,-Part-3._T05_P01.txt
-Actual: Class 2: AI-written
-Predicted: Class 3: AI-mimicry
---------------------------------------------------------------------------------
-The man at the next table leaned forward, his voice brimming with a spiritual fervor that made me lower my book. "Of course the project was a complete disaster, but that’s the beauty of it! We learned that our core assumptions weren’t just wrong, but fundamentally misaligned with the current synergistic ecosystem." He beamed at his companion, who was methodically stirring a latte. "It wasn't a failure; it was a pre-success discovery phase. We didn't lose the client's investment, we facilitated its transition into a sunk-cost learning asset. Honestly, I’ve never been more excited. This clears the runway for our *real* vision, which we haven’t quite defined yet, but the energy is incredible. We’re on the verge of something truly revolutionary!" His friend just nodded, sipping his coffee with the quiet patience of a saint, and for a moment, I almost believed him.
-
-
---------------------------------------------------------------------------------
 File: MSH_11_Naval_Treaty_T01_P01.txt
 Actual: Class 2: AI-written
 Predicted: Class 3: AI-mimicry
 --------------------------------------------------------------------------------
 He sat in the quiet hum of the office, the beige walls and standardized desks offering no hint of the documents on his screen. The reports were not just information; they were alternate histories, narratives of events that the public would never know. Knowing these things felt less like holding power and more like carrying a ghost, a constant, low-grade fever of awareness that tinged every normal interaction with a sense of the unreal. When colleagues discussed the evening news, he could only nod, his silence a carefully constructed wall. How could you speak of weather or weekend plans when you understood the silent, tectonic shifts happening just beneath the surface of the world? The truth, he was learning, was not a light to be shared but a heavy, indivisible object you were tasked to hold alone, forever changing the shape of your own solitude.
-
-
---------------------------------------------------------------------------------
-File: Eve's-Diary,-Complete_T01_P02.txt
-Actual: Class 2: AI-written
-Predicted: Class 3: AI-mimicry
---------------------------------------------------------------------------------
-The afternoon sun slanted through the grimy windows of the town library, illuminating dust motes dancing in the silent air. He’d found it wedged between a faded gardening almanac and a history of local county fairs: a thin volume with no title on its spine. He opened it randomly. The words inside weren't stories of dragons or distant stars, but descriptions of a city where the light never truly died, where people spoke in a dozen languages on a single street corner, and where art wasn’t just a painting in a stuffy room but a living, breathing part of the concrete itself. A tremor went through him. It was a physical shock. The predictable rhythm of his life—the whistle of the five o’clock train, the smell of cut grass, the drone of gossip—suddenly seemed hollow, a pale imitation of living. This book was not an escape; it was a revelation, a cruel and beautiful promise that the world was infinitely larger than the one he had been given.
 
 
 --------------------------------------------------------------------------------
@@ -156,10 +132,10 @@ It’s a curious thing, the person you become for a stranger. Here, on a train c
 
 
 --------------------------------------------------------------------------------
-File: Love-Among-the-Chickens_T04_P01.txt
+File: HLB_2_Bruce_Partington_Plans_T01_P01.txt
 Actual: Class 2: AI-written
 Predicted: Class 3: AI-mimicry
 --------------------------------------------------------------------------------
-When the all-staff email announced the project’s cancellation, a familiar wave of groans and frantic keyboard clicks filled the office. He didn’t even need to look over; I just caught the slight nod, the signal we'd refined over years of similar debacles. Our meeting point was, as always, the sputtering office coffee machine. There was no point dissecting the latest failure, as the formal post-mortems would inevitably handle that with clinical detachment. Instead, he asked about my weekend, and I listened to him describe his daughter’s chaotic science fair project. The coffee was, as usual, profoundly bitter. But for those few minutes, standing in the quiet space between the frantic energy on the floor and the inevitable emergency meetings, we found our equilibrium again, ready for whatever came next.
+The polite, rhythmic applause washes over the ballroom as he beams under the stage lights, a true captain of industry. A patriot, they call him. It’s funny, because his greatest act of patriotism involved auctioning off the country’s manufacturing spine to the highest foreign bidder, all for a handsome fee that now probably funds this very gala. The well-fed audience nods along to the praise, their portfolios undoubtedly plump from his ‘strategic divestments.’ He speaks of national pride, of sacrifice for the greater good, and they sip their champagne, entirely convinced. It’s a magnificent performance, really. Selling the family silver and then charging admission to watch you polish the empty cabinet.
 
 

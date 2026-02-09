@@ -1,0 +1,12 @@
+GENERATION 0 - INDIVIDUAL 10
+================================================================================
+
+Fitness: 0.0000
+P(Human): 0.0000
+P(AI): 1.0000
+P(AI-mimicry): 0.0000
+Semantic Similarity: 0.8712
+Predicted Class: 2 (conf=1.0000)
+
+Text:
+I’d always found a deep sense of security in our neighborhood's gentle rhythm, a place where the biggest fuss was over an untrimmed hedge or a zoning variance. I was so sure I had the measure of the man across the street in the little yellow house. He was the picture of harmless decency, the type to return a lawnmower before you even missed it and buy entire boxes of Girl Scout cookies just to be supportive. That whole illusion imploded one afternoon, all because the postman put a letter in the wrong box. What I pulled out wasn't the expected power bill or a note from a relative; it was a thick government dossier, whole paragraphs blacked out, with a photo of him from two decades ago, his expression chillingly vacant. The envelope felt like a lead weight in my hand as I stood there and finally understood. His quiet kindness wasn't his character; it was a costume, a flawless disguise for a life that had no business existing in our sleepy world of bakeries and public libraries.

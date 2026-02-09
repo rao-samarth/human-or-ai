@@ -1,0 +1,12 @@
+GENERATION 7 - INDIVIDUAL 9
+================================================================================
+
+Fitness: 0.0000
+P(Human): 0.0000
+P(AI): 0.9992
+P(AI-mimicry): 0.0008
+Semantic Similarity: 0.7927
+Predicted Class: 2 (conf=0.9992)
+
+Text:
+Prior to that afternoon, I was convinced I had my neighbor completely pegged. The fellow in the canary-yellow bungalow across the street was a genuine embodiment of unassuming warmth—the sort of person who brought back borrowed items without delay and contributed to every neighborhood fundraiser. He was so consistently agreeable, in truth, that he had practically become a fixture of the landscape, a seamless match for the placid rhythm of our street, where the most serious infraction was an overgrown shrubbery. But then, that whole reality was shattered by a simple mix-up in the mail. One afternoon, I inadvertently opened an envelope meant for him. It held no utility bill or community bulletin; it was a federal dossier, heavy with blacked-out sentences, and a photo of a far younger man with a hauntingly empty gaze. The envelope felt impossibly heavy in my hand as I stood there on my porch and, at last, the full picture clicked into place. His easygoing persona was not a personality trait: it was a meticulous, flawlessly crafted façade, masking a history that was utterly out of place in a quiet corner of the world like ours.

@@ -1,0 +1,16 @@
+GENERATION 10 - INDIVIDUAL 7
+================================================================================
+
+Fitness: 0.0000
+P(Human): 0.0000
+P(AI): 0.9953
+P(AI-mimicry): 0.0047
+Semantic Similarity: 0.8025
+Predicted Class: 2 (conf=0.9953)
+
+Text:
+I was so sure I had the measure of my neighbor. He was the man in the yellow bungalow across the way, the very model of quiet decency. The kind of fellow who returned borrowed things promptly and supported every single local bake sale. So reliably pleasant, in fact, that he became part of the scenery. He was a perfect fit for the comforting hum of our street, a place where the gravest infraction was a poorly maintained hedge.
+
+A simple postal error shattered that entire world.
+
+One afternoon, I mistakenly opened a letter addressed to him. Inside, there was no bill. No newsletter. There was a government file, thick with redacted lines, and a photograph of a much younger man with chillingly detached eyes. I stood there on my porch, the envelope feeling leaden in my hand. It was then I truly understood. His mild-mannered countenance wasn't a personality at all. It was an elaborate, perfectly constructed facade, concealing a past that had no business whatsoever being ensconced in a place like this.

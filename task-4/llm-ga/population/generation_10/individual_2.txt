@@ -1,0 +1,16 @@
+GENERATION 10 - INDIVIDUAL 2
+================================================================================
+
+Fitness: 0.0003
+P(Human): 0.0003
+P(AI): 0.7902
+P(AI-mimicry): 0.2095
+Semantic Similarity: 0.8172
+Predicted Class: 2 (conf=0.7902)
+
+Text:
+I was all but certain I had the measure of my neighbor. The man in the yellow bungalow across the way was, to all appearances, the very model of quiet decency, the kind of fellow who returned borrowed things promptly and supported every local bake sale. He was so reliably pleasant that he simply became part of the scenery. A perfect fit for the comforting hum of our street, where the worst infraction was a poorly maintained hedge.
+
+But that entire world was shattered by a simple postal error.
+
+One afternoon, I happened to open a letter addressed to him. Inside was no bill. No newsletter. It was a government file, thick with redacted lines, and a photograph of a much younger man with chillingly detached eyes. The envelope felt leaden in my hand as I stood there on my porch. At last, I truly understood. His mild-mannered demeanor was no personality at all. It was an elaborate, perfectly constructed facade, concealing a past that had no business whatsoever being ensconced in a place like this.

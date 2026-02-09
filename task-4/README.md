@@ -1,4 +1,4 @@
-# Task 4: Memetic Algorithm Text Evolution (MATE 🦘)
+# Task 4: Memetic Algorithm Text Evolution (MATE)
 
 **I want to jailbreak your model**, one might say. Well, so do I. That's exactly what I'm going to do now here in task-4.  
 
@@ -14,7 +14,8 @@ I explain what memetic algorithms are in detail in [memetic.md](memetic.md).
 - [MATE vs Baseline Genetic Algorithm](#mate-vs-baseline)
 - [Example: Evolving AI Text into Human Text](#example-evolving-ai-text-into-human-text)
 - [Dictionary](#dictionary)
-- [Part-2 of the task](part-2.ipynb)
+- **Part 2 of the task: Manually Converting it:**: [Part-2 of the task](part-2.ipynb)
+- I have done a **detailed analysis of the initial AI-generated text and the final evolved text**. That can be found [here](results/final-evaluation.md).
 
 ---
 
@@ -26,12 +27,13 @@ All RESULTS as and when they were happening, as well as reports of my failure, a
 
 # Directory Structure
 
-The main implementation is in [mate.ipynb](mate.ipynb).  
-An implementation of the algorithm with Gradient Guided Search can be found in [ggs-mate.ipynb](ggs-mate.ipynb)  
+- The main implementation of MATE is in [mate.ipynb](mate.ipynb).  
+- An implementation of the algorithm with Gradient Guided Search can be found in [ggs/ggs-mate.ipynb](ggs/ggs-mate.ipynb)  
 `ggs/*` contains the evolution, population, offspring for the gradient guided search version.
-evolutopn/, population/ and offspring/ contain the evolution, population, offspring for the regular version which does not use Gradient Guided Search
-
-PART-2 of this task can be found in [part-2.ipynb](part-2.ipynb).
+- `evolution/`, `population/` and `offspring/` contain the evolution, population, offspring for the regular version which does not use Gradient Guided Search
+- [vanilla-ga.ipynb](vanilla-ga.ipynb) and `vanilla/` contains all of the implementation of a basic baseline vanilla GA
+- [llm-ga.ipynb](llm-ga.ipynb) and `llm-ga/` contains all of the implementation of the GA as required by the document
+- **PART-2 of this task** can be found in [part-2.ipynb](part-2.ipynb).
 
 # The structure of the algorithm
 
@@ -121,39 +123,41 @@ We repeat evolution. Every generation is printed to a new `.txt` file, so that w
 The goal is to see whether structured evolution can reliably push AI-written text past the detector’s decision boundary.
 
 
-# MATE vs Baseline
+# MATE vs Baseline vs LLM Genetic
 
 Here, I compare how MATE performed again a baseline *'vanilla'* genetic algorithm.
 
 ## Implementation Differences
 
-| Feature | Vanilla GA | MATE |
-|---------|-----------|------|
-| Mutation Strategy | Random synonym replacement (NLTK WordNet) | Saliency-guided token replacement (Gemini LLM) |
-| Local Search | None | Simulated annealing with saliency |
-| Population Initialization | Random synonym swaps | Gemini-generated diverse variations |
-| Constraint Handling | Static penalty (-100 if violated) | Lagrangian relaxation (adaptive weights) |
-| Crossover | One-point word concatenation | Semantic style blending (Gemini) |
-| Gradient Information | None | Uses gradient magnitude token saliency |
-| Population Size | 20 individuals | 10 individuals |
+| Feature | Vanilla GA | LLM GA | MATE |
+|---------|-----------|--------|------|
+| Mutation Strategy | Random synonym replacement (NLTK WordNet) | LLM-guided mutations | Saliency-guided token replacement (Gemini LLM) |
+| Local Search | None | None | Simulated annealing with saliency |
+| Population Initialization | Random synonym swaps | LLM-generated variations | Gemini-generated diverse variations |
+| Constraint Handling | Static penalty (-100 if violated) | No explicit penalties | Lagrangian relaxation (adaptive weights) |
+| Crossover | One-point word concatenation | LLM-guided crossover | Semantic style blending (Gemini) |
+| Gradient Information | None | None | Uses gradient magnitude token saliency |
+| Population Size | 20 individuals | 10 individuals | 10 individuals |
 
 ## Performance Comparison
 
-| Metric | Vanilla GA (Gen 50) | MATE (Gen 24) | Improvement |
-|--------|---------------------|---------------|-------------|
-| Best P(Human) | 0.0134 (1.34%) | 0.7772 (77.72%) | +76.38% |
-| Final Classification | Class 2 (AI) | Class 1 (Human) | Success |
-| Semantic Similarity | 0.8547 | 0.6894 | -0.1653 |
-| Generations to Success | Did not succeed | 12 generations | N/A |
-| Text Quality | Corrupted | Readable | Qualitative win |
+| Metric | Vanilla GA (Gen 50) | LLM GA (Gen 10) | MATE (Gen 24) | Best Performance |
+|--------|---------------------|-----------------|---------------|------------------|
+| Best P(Human) | 0.0134 (1.34%) | 0.0556 (5.56%) | 0.7772 (77.72%) | **MATE** (+72.16% vs LLM GA) |
+| Final Classification | Class 2 (AI) | Class 3 (Mimicry) | Class 1 (Human) | **MATE** (Success) |
+| Semantic Similarity | 0.8547 | 0.8212 | 0.6894 | LLM GA (better preservation) |
+| Generations to Success | Did not succeed | Did not succeed | 12 generations | **MATE** |
+| Text Quality | Corrupted | Readable | Readable | MATE/LLM GA |
 
 ### Key Observations
 
-The Vanilla GA failed to evade the detector despite 50 generations. It achieved P(Human) = 1.34% and remained classified as AI. The text became severely corrupted with repeated garbled tokens.
+**Vanilla GA** failed to evade the detector despite 50 generations. It achieved P(Human) = 1.34% and remained classified as AI. The text became severely corrupted with repeated garbled tokens.
 
-MATE successfully fooled the detector by generation 19, achieving P(Human) = 77.72% and maintaining text fluency. The evolved text remained readable while incorporating human-like stylistic patterns.
+**LLM GA** performed better than Vanilla GA but still failed to evade the detector after 10 generations. It achieved P(Human) = 5.56% and was misclassified as Class 3 (Mimicry) rather than Class 2 (AI). While the text quality remained readable, the LLM-based approach without gradient guidance couldn't find the optimal path to fool the detector. The semantic similarity (0.8212) was better preserved than MATE, suggesting the mutations were more conservative.
 
-This demonstrates the advantage of incorporating domain knowledge (saliency) and local refinement (memetic search) into evolutionary algorithms.
+**MATE** successfully fooled the detector by generation 19, achieving P(Human) = 77.72% and maintaining text fluency. The evolved text remained readable while incorporating human-like stylistic patterns. Though semantic similarity dropped to 0.6894 (indicating more aggressive changes), the text quality remained high and the goal was achieved.
+
+This demonstrates the advantage of incorporating domain knowledge (saliency) and local refinement (memetic search) into evolutionary algorithms. The LLM GA shows that using an LLM for mutations alone is not sufficient—gradient-based saliency information is crucial for efficient detector evasion.
 
 
 

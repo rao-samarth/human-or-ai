@@ -1,0 +1,16 @@
+GENERATION 4 - INDIVIDUAL 5
+================================================================================
+
+Fitness: 0.0000
+P(Human): 0.0000
+P(AI): 0.9913
+P(AI-mimicry): 0.0087
+Semantic Similarity: 0.8236
+Predicted Class: 2 (conf=0.9913)
+
+Text:
+I was quite certain I had my neighbor's measure. He was the man in the yellow bungalow across the way, a veritable paragon of quiet decency. The kind of man who returned borrowed things promptly, who supported every local bake sale. So reliably pleasant, in fact, he was almost part of the scenery. A perfect fit for the comforting hum of our street, where the worst infraction was a poorly maintained hedge.
+
+But a simple postal error dismantled that entire world.
+
+One afternoon, I inadvertently opened a letter addressed to him. It wasn't a bill. Or a newsletter. Inside was a government file, thick with redacted lines, and a photograph of a much younger man with chillingly detached eyes. The envelope felt leaden in my hand as I stood there on my porch. And I finally, truly, understood. His mild-mannered nature was no personality at all; it was an elaborate, perfectly constructed facade, concealing a past that had no business whatsoever being sequestered in a place like this.

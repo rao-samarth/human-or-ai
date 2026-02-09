@@ -1,0 +1,16 @@
+GENERATION 7 - INDIVIDUAL 5
+================================================================================
+
+Fitness: 0.0000
+P(Human): 0.0000
+P(AI): 1.0000
+P(AI-mimicry): 0.0000
+Semantic Similarity: 0.8244
+Predicted Class: 2 (conf=1.0000)
+
+Text:
+I thought I had my neighbor figured out. He was the man in the yellow bungalow across the way, the very picture of quiet decency—always returning borrowed things on time, always supporting the local bake sales. So reliably pleasant, he’d simply become part of the scenery, a perfect fit for the comforting hum of our street. Here, the worst crime was a poorly maintained hedge.
+
+A simple postal error undid that entire world.
+
+One afternoon, I opened a letter addressed to him by accident. It wasn’t a bill. It wasn’t a newsletter. Inside was a thick government file full of redacted lines and a photograph of a much younger man, his eyes chillingly detached. Standing there on my porch, the envelope felt like lead in my hand. And then I understood. Truly. His mild-mannered demeanor wasn't a personality. It was an elaborate, perfectly constructed facade, a careful concealment for a past that had absolutely no business being tucked away in a place like this.

@@ -1,0 +1,12 @@
+GENERATION 6 - INDIVIDUAL 4
+================================================================================
+
+Fitness: 0.0000
+P(Human): 0.0000
+P(AI): 0.9561
+P(AI-mimicry): 0.0439
+Semantic Similarity: 0.7878
+Predicted Class: 2 (conf=0.9561)
+
+Text:
+I was thoroughly convinced I had sized up my neighbor. Residing in the ochre bungalow across the street, he was the epitome of unassuming respectability; the sort of fellow who returned borrowed items without delay and patronized every community fundraiser. In fact, so unfailingly agreeable was he that he had become a fixture of the landscape—a seamless match for the tranquil rhythm of our lane, where the gravest offense was an untrimmed hedgerow. That whole perception, however, was obliterated by a simple mix-up in the mail. One afternoon, I inadvertently opened an envelope addressed to him. Inside was no utility bill or local circular, but an official dossier, dense with blacked-out lines, and a snapshot of a much younger man with a disturbingly vacant stare. The envelope felt impossibly heavy in my palm as I stood there on my doorstep. At last, the truth dawned on me. His gentle disposition was not a personality, but rather a meticulous, flawlessly engineered front, hiding a history that was entirely out of place in a setting like this.

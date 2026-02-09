@@ -1,0 +1,12 @@
+GENERATION 0 - INDIVIDUAL 6
+================================================================================
+
+Fitness: 0.0000
+P(Human): 0.0000
+P(AI): 0.9999
+P(AI-mimicry): 0.0001
+Semantic Similarity: 0.7910
+Predicted Class: 2 (conf=0.9999)
+
+Text:
+I had always found comfort in the predictable drone of our street, a steady rhythm where the worst that ever happened was a disagreement over property lines. To me, the man in the yellow bungalow was the embodiment of that peace—the kind of quiet neighbor who’d bring in your trash cans without being asked and always had a friendly, unassuming wave. That entire perception collapsed one afternoon because of a simple postal error. Instead of the utility bill I expected, my hands held a thick government file, its pages scarred with black redactions. Clipped to the front was a photo of him from two decades ago, his gaze so cold it was terrifying. Standing on my own porch, the flimsy envelope suddenly feeling like a lead weight, it hit me: his kindness wasn't a personality. It was a performance, a flawless disguise for a past that had no right to exist in our sleepy world of bake sales and book returns.

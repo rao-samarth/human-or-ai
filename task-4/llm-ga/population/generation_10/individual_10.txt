@@ -1,0 +1,16 @@
+GENERATION 10 - INDIVIDUAL 10
+================================================================================
+
+Fitness: 0.0000
+P(Human): 0.0000
+P(AI): 0.9978
+P(AI-mimicry): 0.0022
+Semantic Similarity: 0.7633
+Predicted Class: 2 (conf=0.9978)
+
+Text:
+I was thoroughly convinced I had my neighbor pegged. The gentleman in the yellow bungalow across the way was, from all outward signs, the epitome of unassuming respectability—the type of chap who promptly returned anything he borrowed and championed every neighborhood bake sale. His cordiality was so consistent that he more or less faded into the local landscape. An ideal component of our street’s peaceful cadence, where the gravest offense was an overgrown hedge.
+
+But that entire perception was fractured by a single, misdelivered letter.
+
+One afternoon, I found myself opening an envelope that was meant for him. It contained no invoice. No circular. It was an official dossier, heavy with blacked-out text, and a portrait of him in his youth, a man with a hauntingly remote stare. The envelope seemed to gain weight in my grasp as I stood rooted to my doorstep. And then, it all clicked into place. His placid temperament wasn't his nature in the slightest. It was a meticulous, carefully crafted front, masking a history that absolutely did not belong tucked away in a neighborhood such as ours.

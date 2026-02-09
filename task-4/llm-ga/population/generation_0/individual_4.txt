@@ -1,0 +1,12 @@
+GENERATION 0 - INDIVIDUAL 4
+================================================================================
+
+Fitness: 0.0000
+P(Human): 0.0000
+P(AI): 1.0000
+P(AI-mimicry): 0.0000
+Semantic Similarity: 0.8126
+Predicted Class: 2 (conf=1.0000)
+
+Text:
+For me, the steady pulse of this neighborhood was security itself, a comforting rhythm where the most dramatic event was a debate over property lines or an overgrown hedge. I would have sworn I had the man in the yellow bungalow figured out. He was the archetype of the quiet neighbor—the kind who returns your lawnmower with a full tank of gas and buys Girl Scout cookies without flinching. His decency was so consistent it made him part of the scenery. That whole picture dissolved one afternoon, all thanks to a simple postal error that put his mail in my hands. What I pulled from the envelope wasn't an electric bill or a note from a relative, but a thick government file, blacked out in heavy lines and stapled to a photo of his face from two decades ago, looking alarmingly stark. As I stood on my porch, the flimsy envelope suddenly feeling like a lead weight, it crashed down on me: his gentle nature wasn't a character trait. It was a perfectly constructed costume, hiding a life that simply didn't belong on a street tucked between the library and the bakery.

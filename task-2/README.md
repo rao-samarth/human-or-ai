@@ -28,21 +28,33 @@ The 3 approaches are:
 
 ## 1. Tier A: The Statistician
 
-Using the mathematical features we identified in Task 1, we trained two models: XGBoost and Random Forest. The detailed implementation is in [statistician/statistician.ipynb](statistician/statistician.ipynb).
+Using the mathematical features we identified in Task 1 (including perplexity from information theory), we trained two models: XGBoost and Random Forest. The detailed implementation is in [statistician/statistician.ipynb](statistician/statistician.ipynb).
 
 ### Results
 
-**XGBoost Performance:**
+**XGBoost Performance (without perplexity):**
 - Class 1 vs Class 2: **88.98% accuracy**
 - Class 1 vs Class 3: **93.00% accuracy**
 - Class 2 vs Class 3: **87.74% accuracy**
 - Multi-class (all 3 classes): **82.29% accuracy**
 
-**Random Forest Performance:**
+**XGBoost Performance (with perplexity):**
+- Class 1 vs Class 2: **92.88% accuracy**
+- Class 1 vs Class 3: **93.53% accuracy**
+- Class 2 vs Class 3: **88.30% accuracy**
+- Multi-class (all 3 classes): **87.39% accuracy**
+
+**Random Forest Performance (without perplexity):**
 - Class 1 vs Class 2: **87.00% accuracy**
 - Class 1 vs Class 3: **93.00% accuracy**  
 - Class 2 vs Class 3: **85.32% accuracy**
 - Multi-class (all 3 classes): **81.91% accuracy**
+
+**Random Forest Performance (with perplexity):**
+- Class 1 vs Class 2: **91.86% accuracy**
+- Class 1 vs Class 3: **93.19% accuracy**
+- Class 2 vs Class 3: **88.30% accuracy**
+- Multi-class (all 3 classes): **86.88% accuracy**
 
 ### Key Findings
 
@@ -61,7 +73,7 @@ The misclassified examples from both models are saved in [statistician/xgboost_m
 
 This approach uses **Word2Vec** embeddings with a Multi-Layer Perceptron (MLP) to classify text based purely on semantic vector embeddings. The detailed implementation is in [semanticist/semanticist.ipynb](semanticist/semanticist.ipynb).
 
-We use Google's pre-trained **300-dimensional Word2Vec embeddings** (`word2vec-google-news-300`), applying a "Bag of Means" approach where individual word vectors are averaged to create a single paragraph vector. Stopwords are removed to reduce noise, ensuring the averaged vector retains sufficient unique signal for classification.
+I use Google's pre-trained **300-dimensional Word2Vec embeddings** (`word2vec-google-news-300`), applying a "Bag of Means" approach where individual word vectors are averaged to create a single paragraph vector. Stopwords are removed to reduce noise, ensuring the averaged vector retains sufficient unique signal for classification.
 
 ### Results
 
@@ -84,7 +96,7 @@ Visuals of a 3-D PCA-esque vector space can be seen by running [semanticist/sema
 
 ## 3. Tier C: The Transformer
 
-This uses DistilBERT, a lighter transformer model. Transformers use self-attention. This is a mechanism that lets models understand which words matter most in context. For example, in the phrase *"The girl and her brother"*, the transformer associates *her* with *The girl* rather than treating each word independently. This context-awareness could help it pick up on the subtle stylistic patterns we identified in Task 1.
+This uses DistilBERT, a lighter transformer model. Transformers use self-attention. This is a mechanism that lets models understand which words matter most in context. For example, in the phrase *"The girl and her brother"*, the transformer associates *her* with *The girl* rather than treating each word independently. This context-awareness could help it pick up on the subtle stylistic patterns we couldn't identify in Task 1.
 
 ### Results
 
@@ -97,7 +109,7 @@ The suspiciously high accuracy prompted me to do 3 forensic tests. I brief about
 
 1. **Adapter On vs. Off:** With LoRA adapter enabled, the model achieved 99.64% confidence on AI text. Without it, confidence dropped to random guessing (~33% per class), proving the intelligence is contained in the fine-tuned adapter, not memorization.
 
-2. **Checkpoint Evolution:** Model confidence on a hard "Mimic" example grew progressively (89.8% → 95.6% → 96.4%), showing a genuine learning curve rather than instant memorization.
+2. **Checkpoint Evolution:** Model confidence on a clearly AI mimiced text example grew progressively (89.8% → 95.6% → 96.4%), showing a genuine learning curve rather than instant memorization.
 
 3. **Weight Inspection:** The adapter weights showed healthy standard deviation (0.0019), confirming the model learned distinct patterns rather than degenerate solutions.
 

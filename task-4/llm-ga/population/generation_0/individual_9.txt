@@ -1,0 +1,12 @@
+GENERATION 0 - INDIVIDUAL 9
+================================================================================
+
+Fitness: 0.0000
+P(Human): 0.0000
+P(AI): 0.9999
+P(AI-mimicry): 0.0001
+Semantic Similarity: 0.7675
+Predicted Class: 2 (conf=0.9999)
+
+Text:
+The steady, comforting drone of my neighborhood had always been my definition of safety, a place where the height of drama was a poorly parked car or a feud over a property line. I would have sworn I knew the man across the street in the little yellow house. He was the picture of unassuming decency, the kind of guy who’d buy a whole case of Samoas from a Girl Scout and return your hedge trimmer cleaner than he got it. That certainty dissolved the day the mailman switched our letters by mistake. Inside the manila envelope wasn't a newsletter or a credit card offer, but a heavily blacked-out government file. Stapled to the top was a photograph of him, twenty years younger, with a look of absolute steel in his eyes. Standing on my own welcome mat, the paper suddenly leaden in my grip, it hit me. His quiet friendliness wasn't a personality; it was a perfectly constructed disguise, a deep and dark story hiding in plain sight, utterly out of place in a world of bake sales and lost cats.

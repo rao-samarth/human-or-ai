@@ -1,0 +1,16 @@
+GENERATION 2 - INDIVIDUAL 9
+================================================================================
+
+Fitness: 0.0000
+P(Human): 0.0000
+P(AI): 0.9999
+P(AI-mimicry): 0.0001
+Semantic Similarity: 0.8303
+Predicted Class: 2 (conf=0.9999)
+
+Text:
+I really thought I had my neighbor pegged. He was the man in the yellow bungalow across the way, the very picture of quiet decency. He returned borrowed things promptly. He supported every local bake sale. So reliably pleasant he was almost part of the scenery, a perfect fit for the comforting drone of our street where a poorly maintained hedge was the worst possible offense.
+
+That entire world fell apart over a simple postal error.
+
+One afternoon, I mistakenly opened a letter addressed to him. Inside wasn't a bill or a newsletter, but a government file thick with blacked-out lines and a photograph—a much younger man with chillingly detached eyes. Standing on my porch, the envelope suddenly felt leaden in my hand. I finally understood. His mild-mannered nature wasn't a personality. It was an elaborate, perfectly constructed front, concealing a past that had no right to be tucked away in a place like this.

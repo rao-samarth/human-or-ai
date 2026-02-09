@@ -1,0 +1,12 @@
+GENERATION 8 - INDIVIDUAL 10
+================================================================================
+
+Fitness: 0.0001
+P(Human): 0.0001
+P(AI): 0.0028
+P(AI-mimicry): 0.9971
+Semantic Similarity: 0.8076
+Predicted Class: 3 (conf=0.9971)
+
+Text:
+Until that afternoon, I would have sworn I had the man’s measure. The fellow in the yellow bungalow across the way was a veritable paragon of quiet congeniality; the kind of man who returned borrowed things promptly and supported every local bake sale. He was so reliably pleasant, in fact, that he was almost part of the scenery, a perfect fit for the comforting hum of our street, where the gravest offense was a poorly maintained hedge. All of that, however, was upended by a simple postal error. One afternoon, I mistakenly opened a letter addressed to him. For inside was not a bill or a newsletter, but a government file, thick with redacted lines, and a photograph of a much younger man with chillingly vacant eyes. The envelope felt leaden in my hand as I stood on my porch and finally, truly, understood. His mild-mannered disposition was no personality at all—it was an elaborate, perfectly constructed veneer, concealing a past that had no business whatsoever being tucked away in a place like this.

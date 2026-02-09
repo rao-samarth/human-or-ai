@@ -1,0 +1,12 @@
+GENERATION 3 - INDIVIDUAL 7
+================================================================================
+
+Fitness: 0.0002
+P(Human): 0.0002
+P(AI): 0.5285
+P(AI-mimicry): 0.4713
+Semantic Similarity: 0.8174
+Predicted Class: 2 (conf=0.5285)
+
+Text:
+Until that afternoon, I would have sworn I had my neighbor entirely figured out. The man in the yellow bungalow across the way was a veritable paragon of quiet congeniality—the kind of man who returned borrowed things promptly and supported every local bake sale. He was so reliably pleasant, in fact, that he was almost part of the scenery, a perfect fit for the comforting hum of our street, where the gravest offense was a poorly maintained hedge. But then, that entire world was upended by a simple postal error. One afternoon, I mistakenly opened a letter addressed to him. Inside was not a bill or a newsletter; it was a government file, thick with redacted lines, and a photograph of a much younger man with chillingly vacant eyes. The envelope felt leaden in my hand as I stood on my porch and finally, truly, understood. His mild-mannered nature was no personality at all: it was an elaborate, perfectly constructed veneer, concealing a past that had no business whatsoever being tucked away in a place like this.

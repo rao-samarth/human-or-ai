@@ -4,35 +4,11 @@ Total: 17 files
 ================================================================================
 
 --------------------------------------------------------------------------------
-File: WODE_William-Tell-Told-Again_T01_02.txt
+File: SHAKE_The-Merry-Wives-of-WindsorThe-Works-of-William-Shakespeare-[Cambridge-Edition]-[9-vols]_T02_02.txt
 Actual: Class 3: AI-mimicry
 Predicted: Class 2: AI-written
 --------------------------------------------------------------------------------
-It was well past the hour when respectable owls knock off for the night, and yet here we were, young Biffy and I, huddled over the plans like a pair of conspirators in a tuppenny dreadful. The opposition, in the shape of Sir Roderick Finch, a man whose heart was constructed from the same sort of flinty material he intended to pave our village green with, had seemed a dashedly immovable object. For a week, gloom had descended upon the cottage. But then Biffy, after a thoughtful moment with his third crumpet, had produced this absolute corker of a scheme. It was a thing of beautiful, intricate madness, hinging on a misdirected flock of prize-winning geese and an anonymous tip-off to the local bird-watching society. As he sketched the final details, a warm glow began to suffuse the old spirit. One felt, with a surging certainty, that while chaps like Finch might have the big battalions on their side, we had the element of inspired lunacy, and in these sorts of dust-ups, that’s what invariably carries the day.
-
-
---------------------------------------------------------------------------------
-File: SHAKE_The-TempestThe-Works-of-William-Shakespeare-[Cambridge-Edition]-[9-vols]_T03_02.txt
-Actual: Class 3: AI-mimicry
-Predicted: Class 2: AI-written
---------------------------------------------------------------------------------
-I sit within this small demesne, its stone embrace a gentle warden. Beyond, the wild heath stretches forth, a boundless sea of green and gold, inviting the soul to wander without let or hindrance. A fool might call this garden a gaol and that wild land true liberty; for what man doth not yearn to cast off his fetters and run where he will, with only the heavens for his roof? Yet I have seen the lone hare hunted on that plain, and the winter winds show no mercy to the unsheltered tree. Here, within these very walls some name a prison, the tender rose is shielded from the blast. Is the soaring hawk, then, more truly free, that must forever seek its supper and fear the coming storm, than the penned sheep that knows not the wolf’s tooth? Thus do we oft mistake the nature of our bonds, and see a cage where we have built a sanctuary.
-
-
---------------------------------------------------------------------------------
-File: WODE_The-Prince-and-Betty_T01_01.txt
-Actual: Class 3: AI-mimicry
-Predicted: Class 2: AI-written
---------------------------------------------------------------------------------
-So that’s what you truly think of me, is it? That I am merely some sort of calculating machine in a fetching frock, ticking off the assets on a ledger while your uncle recites his perfectly ghastly sonnets. It’s a low blow, frankly, and a rummy sort of welcome to the family. I had rather imagined you saw something more in the arrangement—a flicker of warmth, perhaps, a modicum of honest-to-goodness fondness for the old dear—but I see now that was a dashed silly notion. You look at me and all you can see is the glint of the family silver reflected in my eyes, a walking balance sheet with an excellent dress sense. It isn’t the trust fund you mind, is it? It’s the appalling, unbelievable notion that someone could actually *care* for the man, saxophone and all, without a single thought for the consolidated stocks and shares. Well, it stings, you know. It stings like the very deuce.
-
-
---------------------------------------------------------------------------------
-File: SHAKE_The-Tragedy-of-Macbeth_T02_02.txt
-Actual: Class 3: AI-mimicry
-Predicted: Class 2: AI-written
---------------------------------------------------------------------------------
-The road doth cleave itself in twain, a serpent’s forked tongue laid upon the dust, and I am brought to a sudden halt, a man betwixt two futures. A crone in the last village spake of ruin should I take this leftward path, a doom she read in shifting smoke and brittle bone. Yet my very soul, a mutinous captain warring with my reason, cries out for that shadowed lane, for duty calls me there to face a sworn foe. Is this my moment, then, to fashion my own end, or is the choosing but a player's scene, its final line already writ by some unseen hand? To turn my horse toward the sunlit hill is wisdom, and the long life promised me. But what is life, if I must live a coward, haunted by the ghost of an oath unkept? Nay, I shall spur my steed into the gloom, and by that very act decide if I am master of my days, or but the fool preordained.
+He stood beneath the boughs of that most ancient oak, his knuckles grown as white as bone upon his staff, and watched her. What was it? A simple smile she did bestow upon the cooper’s son, a kindness merely for a mended pail, yet to his fever’d mind, a treasonous pact was sealed in the full light of day. With a cry that startled the grazing sheep, he strode forth upon the green, his voice a ragged thunder for all the parish folk to mark. “Fie, madam!” he proclaimed, his finger a shaking spear. “Dost thou so cheaply trade thy vows for a flattering tongue and a rogue’s glance?” The poor maid’s face, a moment past a rose of summer, turned to winter’s frost, whilst the boy stared with mouth agape, the pail clattering from his grasp. A hush fell, broken only by a titter from the baker’s wife, for all there knew the lad was but her cousin. And thus the man, seeing not his error but only the silent judgment in their eyes, stood marooned in his own mad choler, his honour not defended but drowned in the very poison he himself had brewed.
 
 
 --------------------------------------------------------------------------------
@@ -44,6 +20,14 @@ The thing was done, and with a terrible swiftness that left the quiet country la
 
 
 --------------------------------------------------------------------------------
+File: TWAIN_Adventures-of-Huckleberry-Finn,-Chapters-21-to-25_T05_01.txt
+Actual: Class 3: AI-mimicry
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+The old man squinted at me over his spectacles, the lamplight making his face a geography of shadows. “So, you reckon Judge Morrison is a fine, upstanding man on account of him funding the new orphanage?” he grumbled, polishing a lens with his thumb. “Well, I suppose a man does need a place to store the children of the fellows he’s ruined. It’s a peculiar brand of Christian charity, ain’t it? He’ll foreclose on a man’s farm for a piddling debt on a Tuesday, leaving a family to the wind, and then get praised to the heavens on a Sunday for donating a bag of coins to shelter the very consequences. The town applauds the magnificent generosity of the fire-starter for tossing a bucket of water on the blaze he lit himself. They call it civic virtue, but it seems to me a scoundrel with good penmanship and a fat checkbook can purchase himself a saint’s reputation for pennies on the dollar.
+
+
+--------------------------------------------------------------------------------
 File: SHAKE_Othello-the-Moor-of-Venice_T04_01.txt
 Actual: Class 3: AI-mimicry
 Predicted: Class 2: AI-written
@@ -52,27 +36,19 @@ My Dearest Cousin, I write to you from these quiet fields, where the loudest sou
 
 
 --------------------------------------------------------------------------------
-File: SHAKE_The-Life-of-King-Henry-V_T04_01.txt
+File: DOYLE_ASH_02_Red_Headed_League_T05_01.txt
 Actual: Class 3: AI-mimicry
 Predicted: Class 2: AI-written
 --------------------------------------------------------------------------------
-A sheep, Lord Pembroke? Hath some strange fever addled thy wits, that thou shouldst wish to make our new standard the very symbol of a fool's flock? By what mad reckoning shall we hoist a banner that proclaims our chiefest virtues to be timidity and an abundance of wool? Our foes would not tremble; nay, they would fetch their carving knives and think on mutton! We are a people forged in fire, of spirit—a lion, sir, a roaring, golden lion must be our emblem, to show a heart of such courage that none dare question it. Almeric scoffed, waving a dismissive hand. "And be known as common brutes, whose only argument is a claw? Prithee, your lion starves when the hunt is poor. My sheep, good sir, provides for itself, clothes its masters, and through its gentle nature, fosters a land of quiet plenty. Tell me, which image better promises a lasting realm: a beast of ceaseless, hungry fury, or one of unassuming, bountiful strength?"
+You have played your game with a certain low artfulness, Mr. Davies, I shall grant you that. Your manipulation of the quarterly reports was a neat piece of work, designed to cast suspicion upon a man who had already departed our firm, and you covered your tracks with a diligence that might have been commendable in a more honest enterprise. But you made one elementary error, an oversight so common amongst those who believe their own shrewdness to be an impenetrable shield. You presumed that no one would examine the source of your figures, only their final sum. Pray, observe the paper stock on which your falsified invoices are printed; it is a watermark we did not procure until March of this year. How, then, could it possibly bear the shipping dates of the previous autumn? It is upon such trifling yet immutable facts, sir, that elaborate deceptions are so often and so utterly dashed to pieces.
 
 
 --------------------------------------------------------------------------------
-File: WODE_The-Man-Upstairs-and-Other-Stories_T04_02.txt
+File: SHAKE_King-Lear_T02_02.txt
 Actual: Class 3: AI-mimicry
 Predicted: Class 2: AI-written
 --------------------------------------------------------------------------------
-He sat alone in the library as the clock on the mantelpiece ticked its way towards three, a singularly mournful hour. The whole intricate stratagem, which had seemed so fiendishly sound when he’d first mapped it out on the back of a menu, now looked a bit thin in the cold light of hindsight. His feigned expertise in the migration patterns of the Lesser Spotted Gudgeon, a topic he’d swotted up at ruinous expense to his peace of mind, had precipitated not the melting glance he’d anticipated from Cynthia, but merely a polite, glassy stare. She had then changed the subject to rain. The entire enterprise, he reflected, stirring the dregs of a flat soda water, had been a wash-out from the start. A chap concocts these dashed complicated plans to demonstrate his worth, believing them to be the very pinnacle of romantic engineering, only to discover that the girl of his dreams thinks a gudgeon is a type of hat. It was enough to make a fellow give up altogether and take to bee-keeping.
-
-
---------------------------------------------------------------------------------
-File: SHAKE_Henry-VIII_T03_01.txt
-Actual: Class 3: AI-mimicry
-Predicted: Class 2: AI-written
---------------------------------------------------------------------------------
-In the great square, where commerce and clamour make their daily war, a silence fell, for the magistrate's decree was to be read aloud. A thousand eyes, hungry for a villain's fall, fixed upon the wretched soul brought forth in chains; he, a simple carter accused of some grand theft, wore not the mien of a cunning rogue, but the bewildered look of a beast caught in a snare it cannot comprehend. The law, that great and heavy book, had been shut upon his fate, and the crowd did roar its satisfaction. Yet who amongst that baying throng, or on that gilded bench, could truly know the heart's own secret? They cheered the sentence, for it gave them comfort and a sense of order restored. But the scales, held by mortal hands, must ever tremble, and a pronouncement made with iron certainty is oft but fortune’s cruelest guess, writ down as truth for all the world to see.
+My lord uncle sat staring at the fire, plucking at his sleeve, whilst my father held forth on matters of state and commerce to his esteemed guests. "Pay him no mind," my father whispered to me, with a look of deepest shame, "for his reason, poor soul, hath long since fled its mortal house." Yet when the talk did turn to a question of justice, and all the learned men were tangled in their laws and precedents, my uncle laughed, a strange and hollow sound. "You seek justice in a book?" he cried, his eyes alight with a fearsome clarity. "Nay, you are fools; for justice is no dead letter writ on parchment, but the very breath a drowning man doth gasp for when the world's great weight is on his chest. You must first feel the water in your own lungs ere you know its truth." A silence fell upon the room, for in his fractured sense, a greater sense was found than all their sober reason could afford.
 
 
 --------------------------------------------------------------------------------
@@ -84,11 +60,11 @@ I observed the junior clerk, Mr. Atherton, as the damning telegram was laid upon
 
 
 --------------------------------------------------------------------------------
-File: WODE_The-White-Feather_T02_02.txt
+File: DOYLE_MSH_06_Musgrave_Ritual_T03_02.txt
 Actual: Class 3: AI-mimicry
 Predicted: Class 2: AI-written
 --------------------------------------------------------------------------------
-It's a dashed peculiar business, this whole matter of forming a sound judgment of one's fellow man. Take the cove I shared a railway carriage with from Paddington, a rather stout specimen with a tie that was, if not precisely singing in the choir, at least humming the tune respectably. For the first hour, I found him a thoroughly good sort, full of what seemed to be unimpeachable views on the proper way to treat a sprained ankle and the utter folly of the modern novel. A sound egg, I thought to myself. And then, just as we were rattling past Slough, he happened to mention in an off-hand way that he’d spent his formative years at Market Snodsbury Grammar. Well, I ask you. The whole structure of his reasoning immediately collapsed like a badly-made jelly. You can’t, you see, place any real stock in the opinions of a chap who hasn’t had the basic principles of life hammered into him at a proper institution; his entire mental outlook is bound to be wobbly.
+Inspector Davies slapped the crumpled note upon the table with a frustrated hand. “It is pure gibberish, I tell you! ‘Three steps from the blind man’s watch.’ There was no blind man at the scene, and not a single timepiece was found upon the victim!” My companion, however, merely retrieved the paper, smoothing it with an almost reverential calm. “You mistake a poetic flourish for a literal instruction, Inspector,” he observed, his voice steady. “The mind we pursue thinks in symbols, not in facts. He does not refer to a man, but to a fixture—perchance a statue, like that of Justice, so often depicted with her eyes covered? And her ‘watch’ would not be a mechanical device, but her constant, unseeing vigil over the courtyard below. The puzzle is not in the words themselves, but in the chain of reasoning they are designed to ignite within a mind capable of seeing past the obvious.”
 
 
 --------------------------------------------------------------------------------
@@ -100,11 +76,19 @@ Here in the quiet of this meadow, where only the wind stands as witness to thy s
 
 
 --------------------------------------------------------------------------------
-File: SHAKE_The-Tragedy-of-Macbeth_T04_01.txt
+File: DOYLE_ASH_07_Blue_Carbuncle_T04_02.txt
 Actual: Class 3: AI-mimicry
 Predicted: Class 2: AI-written
 --------------------------------------------------------------------------------
-Pray, hear me, sir, for this hollow peace I wear is but a mask for a soul most grievously afflicted. That ledger I presented, which spoke of such fine profit from the northern shipment, was a lie; a cunning fiction painted with a careful quill to hide mine own costly error. Yet what advantage is there in a master’s praise when one’s own conscience proves a ceaseless inquisitor? Since that foul moment, sleep hath forsook my chamber, and every shadow in your office seems a pointing finger, every closing door the sound of my discovery. This secret, like a canker, gnaws within, turning my bread to ash and my labour to a pageant of deceit. I sought to cheat the reckoning, and in so doing have only made my own heart a prison. Therefore, pass what judgment you will, for any penance is a mercy next to the one I do inflict upon myself each waking hour.
+As the carriage swayed on its journey northward, my idle gaze fell upon the man seated across from me, a figure who, upon first inspection, was entirely unremarkable. Yet it is upon such unremarkable canvases that the most telling portraits are often painted. His boots, though polished, bore upon the left heel a peculiar scuffing of reddish clay, a soil quite foreign to our London environs but common in the dales of the Peak District. Upon his waistcoat, I noted a single, almost imperceptible, sprig of bog-myrtle, a plant which flourishes upon those same moors. From these simple facts, a clear picture began to emerge: he was no city man journeying out, but a countryman returning home, one who had walked some distance from a station to conduct his business and who now carried the scent and soil of his native lands with him, a silent declaration of his origins more eloquent than any spoken word.
+
+
+--------------------------------------------------------------------------------
+File: TWAIN_The-Innocents-Abroad-—-Volume-04_T02_02.txt
+Actual: Class 3: AI-mimicry
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+The Colonel, a man whose piety was as starched and formidable as his collar, cornered me by the potted ferns to recount the origins of his ancestral faith. He spoke of a founding prophet who, with nothing but a hickory stick and a stern word, commanded a mountain to move three inches to the left to improve the morning view from his hovel. “A true marvel of divine engineering!” the Colonel boomed, sloshing his brandy. I allowed that it was, indeed, a considerable feat of geology. Privately, though, I couldn’t help but wonder if the fellow hadn’t just misremembered where he’d been standing the day before. It has always struck me that the Almighty, for all His cosmic spectacle, seems to have a peculiar fondness for small, unverifiable adjustments that are later written down in very large books by men who weren’t there to see it. It saves on the expense of witnesses, I suppose.
 
 
 --------------------------------------------------------------------------------
@@ -124,6 +108,22 @@ Hark, my dear son, and look you upon this gathering, a kingdom built not with th
 
 
 --------------------------------------------------------------------------------
+File: DOYLE_Sign_of_Four_T04_02.txt
+Actual: Class 3: AI-mimicry
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+The chamber was a veritable cauldron of human passion, with accusations hurled like stones across the grimy, gaslit space and the press of bodies lending a suffocating heat to the proceedings. One might have thought the very truth itself had been torn to shreds amidst the frantic gesticulations and weeping fits which dominated the hour. Yet, in the eye of this tempest stood a single, unmoving figure whose mind, I could well surmise, was a fortress against the onslaught of sentiment. He sifted through the clamour, discarding the irrelevant tears and the hollow threats, isolating each salient point as a botanist might isolate a specimen upon a slide. He arranged them, not according to their emotional weight, but to their immutable, logical sequence, until the whole sordid affair lay plain. When he finally spoke, his voice cut through the din not with volume, but with the sheer, cold force of a perfectly constructed case, and the hubbub died at once into a stunned, uneasy silence.
+
+
+--------------------------------------------------------------------------------
+File: TWAIN_The-Prince-and-the-Pauper,-Part-8._T04_01.txt
+Actual: Class 3: AI-mimicry
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+Mr. Gable, who lorded over the shipping manifests with the solemnity of a king reviewing his troops, had worked himself into a first-class tizzy. He paced and he fretted, his fine waistcoat seeming to shrink with every bellow about a lost consignment that was sure to bring ruination down upon us all—a regular hurricane of a man in a space no bigger than a pantry. The whole office was walking on eggshells, pretending to be busy but really just watching the show. Then Chester, the new boy whose main duties involved inkwells and dust rags, shuffled forward, looking like he’d rather be anywhere else on God's green earth. He cleared his throat, a sound no louder than a moth’s sneeze, and pointed a dirt-smudged finger at the ledger. “Sir,” he whispered, “that there’s the mark for the Pittsburgh shipment, not the Providence one.” A great silence fell. It does seem a peculiar fact of life that the loudest horn ain’t always on the wagon that’s carrying the goods.
+
+
+--------------------------------------------------------------------------------
 File: SHAKE_The-Tragedy-of-Julius-Caesar_T04_01.txt
 Actual: Class 3: AI-mimicry
 Predicted: Class 2: AI-written
@@ -132,10 +132,10 @@ The sun warms this old stone wall where I sit, and the clamour of the city's gre
 
 
 --------------------------------------------------------------------------------
-File: WODE_The-White-Feather_T04_02.txt
+File: TWAIN_The-Tragedy-of-Pudd'nhead-Wilson_T01_02.txt
 Actual: Class 3: AI-mimicry
 Predicted: Class 2: AI-written
 --------------------------------------------------------------------------------
-It’s a rummy business, when you stop to ponder it—this whole affair of simply not giving up. I look at this rose garden now, a thing of beauty and a joy forever and all that sort of rot, and find it dashed difficult to reconcile with the chump who started it. That fellow, I recall, was more of an artist in the business of chucking in the towel; if a thing wasn't a breeze from the word go, he'd be off to the nearest hammock with a stiffish brandy. The early days here were a proper sticky wicket, all thorns and blighted buds, enough to make a chap question his fundamental sanity. Yet, somehow, I gritted the old teeth and ploughed on, day after bally day. And now, blow me down if I haven't become the sort of cove who knows his aphids from his elbow. A reformed character, what? Positively stalwart.
+The whole house is as quiet as a church mouse in winter, and there’s the boy, sleeping in his little cot with a look of pure and simple peace. A body could get to thinking about how a person comes to be. Some folks will tell you he’s got this-or-that in his blood—a measure of his grandpa’s stubbornness or his uncle’s mischief, as if he were a jug already filled and corked right at the start. But that ain’t the whole truth of it, not by a long shot. The jug is mostly empty, I’d say, and the world, and the people who love him, get to pour in the good stuff. We fill it with kindness, with laughter, with the notion that a man ought to be fair even when it’s hard. The shape of his heart ain’t stamped on him from the get-go; it’s carved, day by day, by the gentle hands that raise him up. Why, with the right sort of tending, a soul can learn to grow as straight and true as an oak, and that’s a mighty comforting thought on a long night.
 
 

@@ -1,0 +1,12 @@
+GENERATION 7 - INDIVIDUAL 7
+================================================================================
+
+Fitness: 0.0000
+P(Human): 0.0000
+P(AI): 0.9996
+P(AI-mimicry): 0.0004
+Semantic Similarity: 0.8278
+Predicted Class: 2 (conf=0.9996)
+
+Text:
+I was utterly sure I had my neighbor pegged. Residing in the canary-colored bungalow across the street, he was the epitome of unassuming respectability; the sort of fellow who brought back borrowed items without delay and patronized every neighborhood fundraiser. In fact, his demeanor was so consistently agreeable that he nearly blended into the background—seamlessly woven into the tranquil rhythm of our block, where the gravest offense was an untrimmed shrub. That whole perception, however, came crashing down because of a mere mix-up in the mail. One afternoon, I inadvertently opened a piece of his mail. Inside was no utility statement or community bulletin, but an official dossier, dense with blacked-out sentences, and a photograph of a much younger man with an unnervingly vacant gaze. The envelope felt impossibly heavy in my hand as I stood frozen on my front steps. At last, the truth dawned on me. His gentle disposition wasn't a personality trait at all, but rather a meticulous, flawlessly built disguise, hiding a history that had absolutely no business being nestled in a neighborhood like ours.

@@ -1,0 +1,12 @@
+GENERATION 5 - INDIVIDUAL 10
+================================================================================
+
+Fitness: 0.0001
+P(Human): 0.0001
+P(AI): 0.0120
+P(AI-mimicry): 0.9878
+Semantic Similarity: 0.7997
+Predicted Class: 3 (conf=0.9878)
+
+Text:
+Until that afternoon, I would have sworn I knew my neighbor through and through. The man in the yellow bungalow across the way was a paragon of quiet congeniality—the kind of fellow who returned borrowed things promptly and supported every local bake sale. He was so reliably pleasant, in fact, that he was almost part of the scenery, a perfect fit for the comforting hum of our street, where the gravest offense heretofore had been a poorly maintained hedge. That entire world, however, was upended by a simple postal error. One afternoon, I mistakenly opened a letter addressed to him. Within was not a bill or a newsletter; it was a government file, thick with redacted lines, and a photograph of a much younger man with chillingly vacant eyes. The envelope felt leaden in my hand as I stood on my porch and finally—truly—understood. His mild-mannered mien was no personality at all: it was an elaborate, perfectly constructed veneer, concealing a past that had no business whatsoever being tucked away in a place like this.

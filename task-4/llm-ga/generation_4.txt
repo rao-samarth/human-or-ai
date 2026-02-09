@@ -1,0 +1,154 @@
+LLM-BASED GA - GENERATION 4
+================================================================================
+
+Rank 1 | Individual 1
+
+Fitness (P(Human)): 0.0002
+  - P(AI): 0.5285
+  - P(AI-mimicry): 0.4713
+  - Semantic similarity: 0.8174
+  - Predicted class: 2 (conf=0.5285)
+
+Text:
+Until that afternoon, I would have sworn I had my neighbor entirely figured out. The man in the yellow bungalow across the way was a veritable paragon of quiet congeniality—the kind of man who returned borrowed things promptly and supported every local bake sale. He was so reliably pleasant, in fact, that he was almost part of the scenery, a perfect fit for the comforting hum of our street, where the gravest offense was a poorly maintained hedge. But then, that entire world was upended by a simple postal error. One afternoon, I mistakenly opened a letter addressed to him. Inside was not a bill or a newsletter; it was a government file, thick with redacted lines, and a photograph of a much younger man with chillingly vacant eyes. The envelope felt leaden in my hand as I stood on my porch and finally, truly, understood. His mild-mannered nature was no personality at all: it was an elaborate, perfectly constructed veneer, concealing a past that had no business whatsoever being tucked away in a place like this.
+
+================================================================================
+
+Rank 2 | Individual 2
+
+Fitness (P(Human)): 0.0002
+  - P(AI): 0.0559
+  - P(AI-mimicry): 0.9439
+  - Semantic similarity: 0.8161
+  - Predicted class: 3 (conf=0.9439)
+
+Text:
+I was quite certain I had my neighbor's measure. Living in the yellow bungalow across the way, he was a veritable paragon of quiet decency: the kind of man who returned borrowed things promptly and supported every local bake sale. So reliably pleasant was he, in fact, that he was almost part of the scenery—a perfect fit for the comforting hum of our street, where the worst infraction was a poorly maintained hedge. But that entire world was dismantled by a simple postal error. One afternoon, I inadvertently opened a letter addressed to him. Within was not a bill or a newsletter, but a government file, thick with redacted lines, and a photograph of a much younger man with chillingly detached eyes. The envelope felt leaden in my hand as I stood there on my porch and finally, truly, understood. His mild-mannered nature was no personality at all; it was an elaborate, perfectly constructed facade, concealing a past that had no business whatsoever being sequestered in a place like this.
+
+================================================================================
+
+Rank 3 | Individual 8
+
+Fitness (P(Human)): 0.0001
+  - P(AI): 0.0838
+  - P(AI-mimicry): 0.9161
+  - Semantic similarity: 0.8222
+  - Predicted class: 3 (conf=0.9161)
+
+Text:
+I had, I thought, my neighbor's measure. From his yellow bungalow across the way, he was a paragon of quiet decency—the kind of man who returned borrowed things promptly and supported every local bake sale. Indeed, so reliably pleasant was he that he was almost a fixture of the landscape, a perfect fit for the comforting hum of our street, where the worst infraction was a poorly maintained hedge. That entire world, however, was upended by a simple postal error. One afternoon, I inadvertently opened a letter addressed to him. Within was not a bill or a newsletter, but a government file thick with redacted lines, and with it, a photograph of a much younger man with chillingly detached eyes. The envelope felt leaden in my hand as I stood on my porch and finally, truly, understood. His mild-mannered nature was no personality at all; it was an elaborate, perfectly constructed facade, concealing a past that had no business whatsoever being sequestered in a place like this.
+
+================================================================================
+
+Rank 4 | Individual 3
+
+Fitness (P(Human)): 0.0001
+  - P(AI): 0.4053
+  - P(AI-mimicry): 0.5945
+  - Semantic similarity: 0.8151
+  - Predicted class: 3 (conf=0.5945)
+
+Text:
+I would have sworn I had my neighbor entirely figured out. Living in the yellow bungalow across the way, he was a veritable paragon of quiet decency; the kind of man who returned borrowed things promptly and supported every local bake sale. He was so reliably pleasant, indeed, that he was almost part of the scenery—a perfect fit for the comforting drone of our street, where the worst offense was a poorly maintained hedge. And yet, that entire world was dismantled by a simple postal error. One afternoon, I inadvertently opened a letter addressed to him. Inside was not a bill or a newsletter, but a government file, thick with redacted lines, and a photograph of a much younger man with chillingly detached eyes. The envelope felt leaden in my hand as I stood there on my porch and finally, truly, understood. His mild-mannered nature was no personality at all—it was an elaborate, perfectly constructed facade, concealing a past that had no business whatsoever being tucked away in a place like this.
+
+================================================================================
+
+Rank 5 | Individual 6
+
+Fitness (P(Human)): 0.0000
+  - P(AI): 0.0087
+  - P(AI-mimicry): 0.9913
+  - Semantic similarity: 0.7359
+  - Predicted class: 3 (conf=0.9913)
+
+Text:
+I fancied I had my neighbor's measure. From his yellow bungalow across the way, he was a veritable paragon of quiet decency; the sort of man who returned borrowed things promptly and supported every local bake sale. So reliably pleasant was he, indeed, that he was almost part of the scenery—a perfect fit for the comforting hum of our street, where the worst known infraction was a poorly maintained hedge. Yet that entire, placid world was dismantled by a simple postal error. One afternoon, I inadvertently opened a letter addressed to him. Within was not a bill or a newsletter, but a government file, thick with redacted lines, and a photograph of a much younger man with chillingly detached eyes. The envelope felt leaden in my hand as I stood there on my porch and—finally, truly—understood. His mild-mannered nature was not a personality, but an artifice: an elaborate, perfectly constructed facade, concealing a past that had no earthly business being sequestered in a place like this.
+
+================================================================================
+
+Rank 6 | Individual 10
+
+Fitness (P(Human)): 0.0000
+  - P(AI): 0.9779
+  - P(AI-mimicry): 0.0221
+  - Semantic similarity: 0.8201
+  - Predicted class: 2 (conf=0.9779)
+
+Text:
+I was quite certain I had my neighbor's measure. He was the man in the yellow bungalow across the way, a veritable paragon of quiet decency who returned borrowed things promptly and supported every local bake sale. So reliably pleasant, in fact, he was almost part of the scenery. A perfect fit for the comforting hum of our street, where the worst infraction was a poorly maintained hedge.
+
+But a simple postal error dismantled that entire world.
+
+One afternoon, I inadvertently opened a letter addressed to him. Inside was no bill. No newsletter. It was a government file, thick with redacted lines, and a photograph of a much younger man with chillingly detached eyes. Standing on my porch, the envelope felt leaden in my hand. I finally, truly, understood. His mild-mannered nature was no personality at all; it was an elaborate, perfectly constructed facade, concealing a past that had no business whatsoever being sequestered in a place like this.
+
+================================================================================
+
+Rank 7 | Individual 5
+
+Fitness (P(Human)): 0.0000
+  - P(AI): 0.9913
+  - P(AI-mimicry): 0.0087
+  - Semantic similarity: 0.8236
+  - Predicted class: 2 (conf=0.9913)
+
+Text:
+I was quite certain I had my neighbor's measure. He was the man in the yellow bungalow across the way, a veritable paragon of quiet decency. The kind of man who returned borrowed things promptly, who supported every local bake sale. So reliably pleasant, in fact, he was almost part of the scenery. A perfect fit for the comforting hum of our street, where the worst infraction was a poorly maintained hedge.
+
+But a simple postal error dismantled that entire world.
+
+One afternoon, I inadvertently opened a letter addressed to him. It wasn't a bill. Or a newsletter. Inside was a government file, thick with redacted lines, and a photograph of a much younger man with chillingly detached eyes. The envelope felt leaden in my hand as I stood there on my porch. And I finally, truly, understood. His mild-mannered nature was no personality at all; it was an elaborate, perfectly constructed facade, concealing a past that had no business whatsoever being sequestered in a place like this.
+
+================================================================================
+
+Rank 8 | Individual 9
+
+Fitness (P(Human)): 0.0000
+  - P(AI): 0.9975
+  - P(AI-mimicry): 0.0025
+  - Semantic similarity: 0.8280
+  - Predicted class: 2 (conf=0.9975)
+
+Text:
+I would have sworn I had my neighbor figured out. Entirely. Until that afternoon, the man in the yellow bungalow across the way was a veritable paragon of quiet congeniality. He was the kind of man who returned borrowed things promptly and supported every local bake sale. So reliably pleasant, in fact, that he was almost part of the scenery. A perfect fit for the comforting hum of our street, where a poorly maintained hedge was the gravest offense.
+
+But then, a simple postal error upended that entire world.
+
+One afternoon, I mistakenly opened a letter addressed to him. Inside wasn't a bill or a newsletter. It was a government file. Thick with redacted lines. And there was a photograph of a much younger man with chillingly vacant eyes. As I stood on my porch, the envelope felt leaden in my hand, and I finally, truly, understood. His mild-mannered nature wasn't a personality at all; it was an elaborate, perfectly constructed veneer, concealing a past that had no business whatsoever being tucked away in a place like this.
+
+================================================================================
+
+Rank 9 | Individual 7
+
+Fitness (P(Human)): 0.0000
+  - P(AI): 0.9987
+  - P(AI-mimicry): 0.0012
+  - Semantic similarity: 0.8081
+  - Predicted class: 2 (conf=0.9987)
+
+Text:
+Before that day, I would have bet my life I had a complete read on my neighbor. The fellow in the yellow house across the street was the very model of unassuming friendliness—the sort of person who brought back borrowed tools without delay and bought something at every school fundraiser. His disposition was so dependably agreeable, in fact, that he had become an unremarkable fixture, seamlessly integrated into the gentle rhythm of our neighborhood, where the most serious transgression was an untrimmed shrub. But then, that whole reality was shattered by a simple mix-up with the mail. One afternoon, I inadvertently opened an envelope intended for him. Inside was no utility bill or community newsletter; it was an official-looking dossier, heavy with blacked-out sentences, and a photo of a much younger man with a hauntingly empty gaze. The envelope felt impossibly heavy in my grip as I stood there on my front steps and, at last, truly saw. His easygoing demeanor wasn't a personality; it was a meticulous, perfectly built facade, masking a history that should never have found its way into a quiet corner of the world like ours.
+
+================================================================================
+
+Rank 10 | Individual 4
+
+Fitness (P(Human)): 0.0000
+  - P(AI): 0.9994
+  - P(AI-mimicry): 0.0006
+  - Semantic similarity: 0.8243
+  - Predicted class: 2 (conf=0.9994)
+
+Text:
+I would have sworn I had my neighbor entirely figured out. He lived in the yellow bungalow across the way, a veritable paragon of quiet decency—the kind of man who returned borrowed things promptly and supported every local bake sale. He was so reliably pleasant, almost part of the scenery. A perfect fit for the comforting drone of our street, where the worst offense was a poorly maintained hedge.
+
+But a simple postal error dismantled that entire world.
+
+One afternoon, I inadvertently opened a letter addressed to him. Inside was not a bill or a newsletter. It was a government file, thick with redacted lines, and a photograph of a much younger man with chillingly detached eyes. The envelope felt leaden in my hand. Standing there on my porch, I finally, truly, understood. His mild-mannered nature was no personality at all; it was an elaborate, perfectly constructed facade, concealing a past that had no business whatsoever being tucked away in a place like this.
+
+================================================================================
+
+SUMMARY STATISTICS
+Best fitness: 0.0002
+Avg fitness:  0.0001
+Worst fitness: 0.0000
+Avg similarity: 0.8111

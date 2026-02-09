@@ -1,6 +1,6 @@
 ================================================================================
 Class 1 (Human) misclassified as Class 2 (AI)
-Total: 31 files
+Total: 19 files
 ================================================================================
 
 --------------------------------------------------------------------------------
@@ -19,177 +19,84 @@ that you are a bachelor, a solicitor, a Freemason, and an asthmatic, I
 know nothing whatever about you."
 
 --------------------------------------------------------------------------------
-File: 008_Love-Among-the-Chickens_12.txt
+File: 013_ASH_11_Beryl_Coronet_06.txt
 Actual: Class 1: Human-written
 Predicted: Class 2: AI-written
 --------------------------------------------------------------------------------
-I opened the envelope. No. Father's blessings were absent. The letter
-was in the third person. Professor Derrick begged to inform Mr. Garnet
-that, by defeating Mr. Saul Potter, he had qualified for the final
-round of the Combe Regis Golf Tournament, in which, he understood, Mr.
-Garnet was to be his opponent. If it would be convenient for Mr. Garnet
-to play off the match on the present afternoon, Professor Derrick would
-be obliged if he would be at the Club House at half-past two. If this
-hour and day were unsuitable, would he kindly arrange others. The
-bearer would wait.
+My friend rose lazily from his armchair and stood with his hands
+in the pockets of his dressing-gown, looking over my shoulder. It
+was a bright, crisp February morning, and the snow of the day
+before still lay deep upon the ground, shimmering brightly in the
+wintry sun. Down the centre of Baker Street it had been ploughed
+into a brown crumbly band by the traffic, but at either side and
+on the heaped-up edges of the foot-paths it still lay as white as
+when it fell. The grey pavement had been cleaned and scraped, but
+was still dangerously slippery, so that there were fewer
+passengers than usual. Indeed, from the direction of the
+Metropolitan Station no one was coming save the single gentleman
+whose eccentric conduct had drawn my attention.
 
 --------------------------------------------------------------------------------
-File: 026_The-Intrusion-of-Jimmy_02.txt
+File: 005_ASH_03_Case_Of_Identity_07.txt
 Actual: Class 1: Human-written
 Predicted: Class 2: AI-written
 --------------------------------------------------------------------------------
-Everybody in the room on this July night had come from the theater.
-Most of those present had been acting, but a certain number had been
-to the opening performance of the latest better-than-Raffles play.
-There had been something of a boom that season in dramas whose
-heroes appealed to the public more pleasantly across the footlights
-than they might have done in real life. In the play that had opened
-to-night, Arthur Mifflin, an exemplary young man off the stage, had
-been warmly applauded for a series of actions which, performed
-anywhere except in the theater, would certainly have debarred him
-from remaining a member of the Strollers' or any other club. In
-faultless evening dress, with a debonair smile on his face, he had
-broken open a safe, stolen bonds and jewelry to a large amount, and
-escaped without a blush of shame via the window. He had foiled a
-detective through four acts, and held up a band of pursuers with a
-revolver. A large audience had intimated complete approval
-throughout.
+"Well, of course it was obvious from the first that this Mr.
+Hosmer Angel must have some strong object for his curious
+conduct, and it was equally clear that the only man who really
+profited by the incident, as far as we could see, was the
+stepfather. Then the fact that the two men were never together,
+but that the one always appeared when the other was away, was
+suggestive. So were the tinted spectacles and the curious voice,
+which both hinted at a disguise, as did the bushy whiskers. My
+suspicions were all confirmed by his peculiar action in
+typewriting his signature, which, of course, inferred that his
+handwriting was so familiar to her that she would recognise even
+the smallest sample of it. You see all these isolated facts,
+together with many minor ones, all pointed in the same
+direction."
 
 --------------------------------------------------------------------------------
-File: 036_Three-Men-and-a-Maid_01.txt
+File: 100_Sketches-New-and-Old_05.txt
 Actual: Class 1: Human-written
 Predicted: Class 2: AI-written
 --------------------------------------------------------------------------------
-Sam felt that fortune was playing into his hands. His four-days'
-acquaintance with the bard had been sufficient to show him that the man
-was there forty ways when it came to writing about love. You could open
-his collected works almost anywhere and shut your eyes and dab down
-your finger on some red-hot passage. A proposal of marriage is a thing
-which it is rather difficult to bring neatly into the ordinary run of
-conversation. It wants leading up to. But, if you once start reading
-poetry, especially Tennyson's, almost anything is apt to give you your
-cue. He bounded light-heartedly into the state-room, waking Eustace
-Hignett from an uneasy dose.
+There was no possible way of getting out of it, and so, in deep
+humiliation, I set about preparing to “answer” a mass of baseless charges
+and mean and wicked falsehoods.  But I never finished the task, for the
+very next morning a paper came out with a new horror, a fresh malignity,
+and seriously charged me with burning a lunatic asylum with all its
+inmates, because it obstructed the view from my house.  This threw me
+into a sort of panic.  Then came the charge of poisoning my uncle to get
+his property, with an imperative demand that the grave should be opened.
+This drove me to the verge of distraction.  On top of this I was accused
+of employing toothless and incompetent old relatives to prepare the food
+for the foundling hospital when I was warden.  I was wavering--wavering.
+And at last, as a due and fitting climax to the shameless persecution
+that party rancor had inflicted upon me, nine little toddling children,
+of all shades of color and degrees of raggedness, were taught to rush
+onto the platform at a public meeting, and clasp me around the legs and
+call me PA!
 
 --------------------------------------------------------------------------------
-File: 002_Sign_of_Four_04.txt
+File: 002_Sign_of_Four_18.txt
 Actual: Class 1: Human-written
 Predicted: Class 2: AI-written
 --------------------------------------------------------------------------------
-"'Look here, Small,' said the major.  'We have been talking it over, my
-friend here and I, and we have come to the conclusion that this secret
-of yours is hardly a government matter, after all, but is a private
-concern of your own, which of course you have the power of disposing of
-as you think best.  Now, the question is, what price would you ask for
-it?  We might be inclined to take it up, and at least look into it, if
-we could agree as to terms.'  He tried to speak in a cool, careless
-way, but his eyes were shining with excitement and greed.
-
---------------------------------------------------------------------------------
-File: 034_The-Swoop!-or,-How-Clarence-Saved-England:-A-Tale-of-the-Great-Invasion_09.txt
-Actual: Class 1: Human-written
-Predicted: Class 2: AI-written
---------------------------------------------------------------------------------
-They had a perfectly miserable time. Edgar Wallace seems to have lost
-his way almost at once. He was found two days later in an almost
-starving condition at Steeple Bumpstead. How he got there nobody knows.
-He said he had set out to walk to where the noise of the guns seemed to
-be, and had gone on walking. Bennett Burleigh, that crafty old
-campaigner, had the sagacity to go by Tube. This brought him to
-Hampstead, the scene, it turned out later, of the fiercest operations,
-and with any luck he might have had a story to tell. But the lift stuck
-half-way up, owing to a German shell bursting in its neighbourhood, and
-it was not till the following evening that a search-party heard and
-rescued him.
-
---------------------------------------------------------------------------------
-File: 024_The-Head-of-Kay's_06.txt
-Actual: Class 1: Human-written
-Predicted: Class 2: AI-written
---------------------------------------------------------------------------------
-As he turned the corner of the house he saw what he had been looking
-for. The very first window was wide open. His spirits shot up, and for
-the first time since he had left the theatre he was conscious of
-taking a pleasure in his adventurous career. Fate was with him after
-all. He could not help smiling as he remembered how he had felt during
-that ten minutes on the garden-seat, when the future seemed blank and
-devoid of any comfort whatsoever. And all the time he could have got
-in without an effort, if he had only thought of walking half a dozen
-yards.
-
---------------------------------------------------------------------------------
-File: 047_Following-the-Equator:-A-Journey-Around-the-World.-Part-4_06.txt
-Actual: Class 1: Human-written
-Predicted: Class 2: AI-written
---------------------------------------------------------------------------------
-January 4, 1898.   Christmas in Melbourne, New Year's Day in Adelaide,
-and saw most of the friends again in both places .  .  .  .  Lying here
-at anchor all day--Albany (King George's Sound), Western Australia.  It
-is a perfectly landlocked harbor, or roadstead--spacious to look at, but
-not deep water.  Desolate-looking rocks and scarred hills.  Plenty of
-ships arriving now, rushing to the new gold-fields.  The papers are full
-of wonderful tales of the sort always to be heard in connection with new
-gold diggings.  A sample: a youth staked out a claim and tried to sell
-half for L5; no takers; he stuck to it fourteen days, starving, then
-struck it rich and sold out for L10,000.  .  .  About sunset, strong
-breeze blowing, got up the anchor.  We were in a small deep puddle, with
-a narrow channel leading out of it, minutely buoyed, to the sea.
-
---------------------------------------------------------------------------------
-File: 002_A-Prefect's-Uncle_07.txt
-Actual: Class 1: Human-written
-Predicted: Class 2: AI-written
---------------------------------------------------------------------------------
-With the arrival of the Deathless Author an unwelcome change came over
-the game. His cricket style resembled his literary style. Both were
-straightforward and vigorous. The first two balls he received from
-Gosling he drove hard past cover point to the ropes. Gosling, who had
-been bowling unchanged since the innings began, was naturally feeling a
-little tired. He was losing his length, and bowling more slowly than
-was his wont. Norris now gave him a rest for a few overs, Bruce going
-on with rather innocuous medium left-hand bowling. The professional
-continued to jog along slowly. The novelist hit. Everything seemed to
-come alike to him. Gosling resumed, but without effect, while at the
-other end bowler after bowler was tried. From a hundred and ten the
-score rose and rose, and still the two remained together. A hundred and
-ninety went up, and Norris in despair threw the ball to Marriott.
-
---------------------------------------------------------------------------------
-File: 013_Psmith-in-the-City_07.txt
-Actual: Class 1: Human-written
-Predicted: Class 2: AI-written
---------------------------------------------------------------------------------
-'That's a sample of Rossiter,' he said. 'You'd think from the fuss he's
-made that the business of the place was at a standstill till we got to
-work. Perfect rot! There's never anything to do here till after lunch,
-except checking the stamps and petty cash, and I've done that ages ago.
-There are three letters. You may as well enter them. It all looks like
-work. But you'll find the best way is to wait till you get a couple of
-dozen or so, and then work them off in a batch. But if you see Rossiter
-about, then start stamping something or writing something, or he'll run
-you in for neglecting your job. He's a nut. I'm jolly glad I'm under
-old Waller now. He's the pick of the bunch. The other heads of
-departments are all nuts, and Bickersdyke's the nuttiest of the lot.
-Now, look here. This is all you've got to do. I'll just show you, and
-then you can manage for yourself. I shall have to be shunting off to my
-own work in a minute.'
-
---------------------------------------------------------------------------------
-File: 027_The-Little-Nugget_08.txt
-Actual: Class 1: Human-written
-Predicted: Class 2: AI-written
---------------------------------------------------------------------------------
-'Well, well, well, young man,' said Sam, eyeing me affectionately,
-'it's pleasant to meet you again, under happier conditions than
-last time. You certainly have all the luck, sonny, or you would
-have been badly hurt that night. I was getting scared how the
-thing would end. Buck's a plain roughneck, and his gang are as bad
-as he is, and they had got mighty sore at you, mighty sore. If
-they had grabbed you, there's no knowing what might not have
-happened. However, all's well that ends well, and this little game
-has surely had the happy ending. I shall get that job, sonny. Old
-man Ford isn't a fool, and it won't take him long, when he gets to
-thinking it over, to see that I'm right. He'll hire me.'
+The little man stopped to relight his hookah and puffed thoughtfully
+for a few moments.  We had all sat absorbed, listening to his
+extraordinary narrative.  At the short account of her father's death
+Miss Morstan had turned deadly white, and for a moment I feared that
+she was about to faint.  She rallied however, on drinking a glass of
+water which I quietly poured out for her from a Venetian carafe upon
+the side-table.  Sherlock Holmes leaned back in his chair with an
+abstracted expression and the lids drawn low over his glittering eyes.
+As I glanced at him I could not but think how on that very day he had
+complained bitterly of the commonplaceness of life.  Here at least was
+a problem which would tax his sagacity to the utmost.  Mr. Thaddeus
+Sholto looked from one to the other of us with an obvious pride at the
+effect which his story had produced, and then continued between the
+puffs of his overgrown pipe.
 
 --------------------------------------------------------------------------------
 File: 050_Following-the-Equator:-A-Journey-Around-the-World.-Part-7_07.txt
@@ -213,25 +120,6 @@ the fact that the commander of the 94th regiment--already on the march to
 suppress this rebellion--had been heard to say that "the Boers would turn
 tail at the first beat of the big drum."--["South Africa As It Is,"
 by F. Reginald Statham, page 82.  London: T.  Fisher Unwin, 1897.]
-
---------------------------------------------------------------------------------
-File: 012_Piccadilly-Jim_16.txt
-Actual: Class 1: Human-written
-Predicted: Class 2: AI-written
---------------------------------------------------------------------------------
-To this remarkable metamorphosis in Mr. Peter Pett several causes
-had contributed. In the first place, the sudden dismissal of
-Jerry Mitchell had obliged him to go two days without the
-physical exercises to which his system had become accustomed, and
-this had produced a heavy, irritable condition of body and mind.
-He had brooded on the injustice of his lot until he had almost
-worked himself up to rebellion. And then, as sometimes happened
-with him when he was out of sorts, a touch of gout came to add to
-his troubles. Being a patient man by nature, he might have borne
-up against these trials, had he been granted an adequate night's
-rest. But, just as he had dropped off after tossing restlessly
-for two hours, things had begun to happen noisily in the library.
-He awoke to a vague realisation of tumult below.
 
 --------------------------------------------------------------------------------
 File: 086_Roughing-It,-Part-3._04.txt
@@ -268,27 +156,6 @@ stopped and gathered in a yard which faced a high building. The words,
 lit windows. From within came the clanking of the printing press.
 
 --------------------------------------------------------------------------------
-File: 034_The-Swoop!-or,-How-Clarence-Saved-England:-A-Tale-of-the-Great-Invasion_11.txt
-Actual: Class 1: Human-written
-Predicted: Class 2: AI-written
---------------------------------------------------------------------------------
-The Russians, led by General Vodkakoff, arrived at Hampstead half an
-hour after the bombardment had ceased, and the rest of the invaders,
-including Raisuli, who had got off on an _alibi_, dropped in at
-intervals during the week. By the evening of Saturday, the sixth of
-August, even the Chinese had limped to the metropolis. And the question
-now was, What was going to happen? England displayed a polite
-indifference to the problem. We are essentially a nation of
-sight-seers. To us the excitement of staring at the invaders was
-enough. Into the complex international problems to which the situation
-gave rise it did not occur to us to examine. When you consider that a
-crowd of five hundred Londoners will assemble in the space of two
-minutes, abandoning entirely all its other business, to watch a
-cab-horse that has fallen in the street, it is not surprising that the
-spectacle of nine separate and distinct armies in the metropolis left
-no room in the British mind for other reflections.
-
---------------------------------------------------------------------------------
 File: 042_HLB_1_Wisteria_Lodge_MULTIPART_04.txt
 Actual: Class 1: Human-written
 Predicted: Class 2: AI-written
@@ -305,37 +172,6 @@ room was dark at the time--and asked me if I had rung.  I said that I
 had not.  He apologized for having disturbed me so late, saying that it
 was nearly one o'clock.  I dropped off after this and slept soundly all
 night.
-
---------------------------------------------------------------------------------
-File: 029_The-Man-Upstairs-and-Other-Stories_08.txt
-Actual: Class 1: Human-written
-Predicted: Class 2: AI-written
---------------------------------------------------------------------------------
-'There is money in this picture,' he said. 'Oh, it is beautiful. I call
-it "The Awakening". It is a woodland scene. I come back from my work
-here, hot and tired, and a mere glance at that wood refreshes me. It is
-so cool, so green. The sun filters in golden splashes through the
-foliage. On a mossy bank, between two trees, lies a beautiful girl
-asleep. Above her, bending fondly over her, just about to kiss that
-flower-like face, is a young man in the dress of a shepherd. At the
-last moment he has looked over his shoulder to make sure that there is
-nobody near to see. He is wearing an expression so happy, so proud,
-that one's heart goes out to him.'
-
---------------------------------------------------------------------------------
-File: 017_Tales-of-St.-Austin's_20.txt
-Actual: Class 1: Human-written
-Predicted: Class 2: AI-written
---------------------------------------------------------------------------------
-And this ambition is a laudable one. For the athlete is the product of
-nature--a step towards the more perfect type of animal, while the
-scholar is the outcome of artificiality. What, I ask, does the scholar
-gain, either morally or physically, or in any other way, by knowing who
-was tribune of the people in 284 BC or what is the precise difference
-between the various constructions of _cum_? It is not as if
-ignorance of the tribune's identity caused him any mental unrest. In
-short, what excuse is there for the student? 'None,' shrieks Echo
-enthusiastically. 'None whatever.'
 
 --------------------------------------------------------------------------------
 File: 145_The-Prince-and-the-Pauper,-Part-9._04.txt
@@ -358,20 +194,20 @@ became holy enough to answer a like purpose for English monarchs.  Both
 the throne and its footstool are covered with cloth of gold.
 
 --------------------------------------------------------------------------------
-File: 017_Tales-of-St.-Austin's_06.txt
+File: 096_Sketches-New-and-Old,-Part-4._06.txt
 Actual: Class 1: Human-written
 Predicted: Class 2: AI-written
 --------------------------------------------------------------------------------
-The kick-off from the twenty-five line which followed upon the small
-discussion alluded to above, reached Graham. Under ordinary
-circumstances he would have kicked, but in a winning game original
-methods often pay. He dodged a furious sportsman in green and yellow,
-and went away down the touch-line. He was almost through when he
-stumbled. He recovered himself, but too late. Before he could pass,
-someone was on him. Graham was not heavy, and his opponent was
-muscular. He was swung off his feet, and the next moment the two came
-down together, Graham underneath. A sharp pain shot through his
-shoulder.
+The trial was at hand.  All the great lords and barons of Brandenburgh
+were assembled in the Hall of Justice in the ducal palace.  No space was
+left unoccupied where there was room for a spectator to stand or sit.
+Conrad, clad in purple and ermine, sat in the premier's chair, and on
+either side sat the great judges of the realm.  The old Duke had sternly
+commanded that the trial of his daughter should proceed, without favor,
+and then had taken to his bed broken-hearted.  His days were numbered.
+Poor Conrad had begged, as for his very life, that he might be spared the
+misery of sitting in judgment upon his cousin's crime, but it did not
+avail.
 
 --------------------------------------------------------------------------------
 File: 086_Roughing-It,-Part-3._02.txt
@@ -392,21 +228,18 @@ and finished, and the miracle of the enchanter complete.  Then to
 "business."
 
 --------------------------------------------------------------------------------
-File: 031_The-Politeness-of-Princes,-and-Other-School-Stories_17.txt
+File: 088_Roughing-It,-Part-5._13.txt
 Actual: Class 1: Human-written
 Predicted: Class 2: AI-written
 --------------------------------------------------------------------------------
-For the second round Shields' drew Appleby's, a poor team. Space on
-the Wrykyn field being a consideration, with three house matches to be
-played off at the same time, Clephane's men fought their first battle
-on rugged ground in an obscure corner. As the captain of cricket
-ordered these matters, Henfrey had naturally selected the best bit of
-turf for Day's _v_. Dexter's. That section of the ground which
-was sacred to the school second-eleven matches was allotted to
-Spence's _v_. the School House. The idle public divided its
-attention between the two big games, and paid no attention to the
-death struggle in progress at the far end of the field. Whereby it
-missed a deal of quiet fun.
+My two columns were filled.  When I read them over in the morning I felt
+that I had found my legitimate occupation at last.  I reasoned within
+myself that news, and stirring news, too, was what a paper needed, and I
+felt that I was peculiarly endowed with the ability to furnish it.
+Mr. Goodman said that I was as good a reporter as Dan.  I desired no
+higher commendation.  With encouragement like that, I felt that I could
+take my pen and murder all the immigrants on the plains if need be and
+the interests of the paper demanded it.
 
 --------------------------------------------------------------------------------
 File: 041_Extract-from-Captain-Stormfield's-Visit-to-Heaven_15.txt
@@ -424,6 +257,34 @@ He got me to describe our planet and its distance from the sun, and then
 he says to his chief—
 
 --------------------------------------------------------------------------------
+File: 031_King-Lear_07.txt
+Actual: Class 1: Human-written
+Predicted: Class 2: AI-written
+--------------------------------------------------------------------------------
+Gon. [aside] I had rather lose the battle than that sister
+     Should loosen him and me.
+  Alb. Our very loving sister, well bemet.
+     Sir, this I hear: the King is come to his daughter,
+     With others whom the rigour of our state
+     Forc'd to cry out. Where I could not be honest,
+     I never yet was valiant. For this business,
+     It toucheth us as France invades our land,
+     Not bolds the King, with others whom, I fear,
+     Most just and heavy causes make oppose.
+  Edm. Sir, you speak nobly.
+  Reg. Why is this reason'd?
+  Gon. Combine together 'gainst the enemy;
+     For these domestic and particular broils
+     Are not the question here.
+  Alb. Let's then determine
+     With th' ancient of war on our proceeding.
+  Edm. I shall attend you presently at your tent.
+  Reg. Sister, you'll go with us?
+  Gon. No.
+  Reg. 'Tis most convenient. Pray you go with us.
+  Gon. [aside] O, ho, I know the riddle.- I will go.
+
+--------------------------------------------------------------------------------
 File: 132_The-Innocents-Abroad-—-Volume-06_17.txt
 Actual: Class 1: Human-written
 Predicted: Class 2: AI-written
@@ -439,21 +300,6 @@ high-priest of this ancient Samaritan community, at great expense, a
 secret document of still higher antiquity and far more extraordinary
 interest, which I propose to publish as soon as I have finished
 translating it.
-
---------------------------------------------------------------------------------
-File: 003_A-Wodehouse-Miscellany:-Articles-&-Stories_14.txt
-Actual: Class 1: Human-written
-Predicted: Class 2: AI-written
---------------------------------------------------------------------------------
-I have seldom missed a first night. No sooner has one periodical got
-rid of me than another has had the misfortune to engage me, with the
-result that I am now the foremost critic of the day, read assiduously
-by millions, fawned upon by managers, courted by stagehands. My
-lightest word can make or mar a new production. If I say a piece is
-bad, it dies. It may not die instantly. Generally it takes forty weeks
-in New York and a couple of seasons on the road to do it, but it
-cannot escape its fate. Sooner or later it perishes. That is the sort
-of man I am.
 
 --------------------------------------------------------------------------------
 File: 031_RSH_03_Dancing_Men_19.txt
@@ -476,55 +322,21 @@ of the Norfolk coast, and the driver pointed with his whip to two old
 Riding Thorpe Manor," said he.
 
 --------------------------------------------------------------------------------
-File: 006_Jill-the-Reckless_06.txt
+File: 006_A-Connecticut-Yankee-in-King-Arthur's-Court,-Part-5._09.txt
 Actual: Class 1: Human-written
 Predicted: Class 2: AI-written
 --------------------------------------------------------------------------------
-A taxi-cab stopped at the door of Number Twenty-two, Ovingdon Square.
-Freddie Rooke emerged, followed by Jill. While Freddie paid the
-driver, Jill sniffed the afternoon air happily. It had turned into a
-delightful day. A westerly breeze, springing up in the morning, had
-sent the thermometer up with a run and broken the cold spell which had
-been gripping London. It was one of those afternoons which intrude on
-the bleakness of winter with a false but none the less agreeable
-intimation that Spring is on its way. The sidewalks were wet
-underfoot, and the gutters ran with thawed snow. The sun shone
-exhilaratingly from a sky the colour of a hedge-sparrow's egg.
-
---------------------------------------------------------------------------------
-File: 017_Tales-of-St.-Austin's_18.txt
-Actual: Class 1: Human-written
-Predicted: Class 2: AI-written
---------------------------------------------------------------------------------
-At tea on the following evening the first really serious engagement of
-the campaign took place. The cat strolled into the tea-room in the
-patronizing way characteristic of his kind, but was heavily shelled
-with lump-sugar, and beat a rapid retreat. That was the signal for the
-outbreak of serious hostilities. From that moment its paw was against
-every man, and the tale of the things it stole is too terrible to
-relate in detail. It scored all along the line. Like Death in the poem,
-it knocked at the doors of the highest and the lowest alike. Or rather,
-it did not exactly knock. It came in without knocking. The palace of
-the prefect and the hovel of the fag suffered equally. Trentham, the
-head of the House, lost sausages to an incredible amount one evening,
-and the next day Ripton, of the Lower Third, was robbed of his one ewe
-lamb in the shape of half a tin of anchovy paste. Panic reigned.
-
---------------------------------------------------------------------------------
-File: 012_Piccadilly-Jim_20.txt
-Actual: Class 1: Human-written
-Predicted: Class 2: AI-written
---------------------------------------------------------------------------------
-Mr. Pett stood in the doorway, regarding his step-son with a
-sombre eye. He resented the boy's tone of easy patronage, all the
-harder to endure with philosophic calm at the present moment from
-the fact that the latter was lounging in his favourite chair.
-Even from an aesthetic point of view the sight of the bulging
-child offended him. Ogden Ford was round and blobby and looked
-overfed. He had the plethoric habit of one to whom wholesome
-exercise is a stranger and the sallow complexion of the confirmed
-candy-fiend. Even now, a bare half hour after breakfast, his jaws
-were moving with a rhythmical, champing motion.
+He raised a smoke this time that darkened all the region, and must
+have made matters uncomfortable for the hermits, for the wind
+was their way, and it rolled down over their dens in a dense and
+billowy fog.  He poured out volumes of speech to match, and contorted
+his body and sawed the air with his hands in a most extraordinary
+way.  At the end of twenty minutes he dropped down panting, and
+about exhausted.  Now arrived the abbot and several hundred monks
+and nuns, and behind them a multitude of pilgrims and a couple of
+acres of foundlings, all drawn by the prodigious smoke, and all
+in a grand state of excitement.  The abbot inquired anxiously for
+results.  Merlin said:
 
 --------------------------------------------------------------------------------
 File: 043_HLB_2_Bruce_Partington_Plans_12.txt

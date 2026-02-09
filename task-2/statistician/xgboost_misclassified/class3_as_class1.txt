@@ -1,31 +1,7 @@
 ================================================================================
 Class 3 (AI-mimicry) misclassified as Class 1 (Human)
-Total: 19 files
+Total: 12 files
 ================================================================================
-
---------------------------------------------------------------------------------
-File: SHAKE_The-Shakespeare-Story-Book_T03_02.txt
-Actual: Class 3: AI-mimicry
-Predicted: Class 1: Human-written
---------------------------------------------------------------------------------
-Pray, mark the butcher's wife, how she bestows her alms upon the poor with such a gentle hand, her lips forming blessings as if she were a sainted mother to this wretched town. A most holy visage, is it not? Forsooth, her charity doth cost her naught, for I know well the heavy thumbs she puts upon the scales when weighing out the commoner's meat, and those very blessings are but whispers to disguise the coin she clips from every shilling. She paints her soul with virtue's colours, yet the canvas underneath is rotten through, a thing of such base avarice it would make a devil blush, though here it walks in sunlight and doth smile upon its neighbours. She is praised for a lamb, when in her heart there lurks a wolf that feeds on the very flock she pretends to shepherd.
-
-
---------------------------------------------------------------------------------
-File: SHAKE_Shakespeares-Tragedy-of-Romeo-and-Juliet_T04_02.txt
-Actual: Class 3: AI-mimicry
-Predicted: Class 1: Human-written
---------------------------------------------------------------------------------
-"Cease this talk, I pray you," the elder man hissed, his voice a dry rasp beneath the market’s clamour, though his eyes darted about to see who might attend their words. "Would you have all the city know you prize a fickle passion above your sworn purpose? Your heart is a small and private country, oft given to rebellion, but your name is the kingdom you must govern for all to see." The younger man’s face was a mask of pale resolve. "And what good is such a kingdom, sir," he countered, his voice low but clear, "if its king be a stranger to himself? Must I forever chain my soul's own true desire to the cold iron of another's expectation? I tell you, such a life is but a gilded cage, and the songbird within perishes for want of its own sky." A passing merchant slowed his step, his ears pricked by the heat of their exchange, before his wife pulled him onward into the throng.
-
-
---------------------------------------------------------------------------------
-File: SHAKE_The-Merry-Wives-of-WindsorThe-Works-of-William-Shakespeare-[Cambridge-Edition]-[9-vols]_T02_02.txt
-Actual: Class 3: AI-mimicry
-Predicted: Class 1: Human-written
---------------------------------------------------------------------------------
-He stood beneath the boughs of that most ancient oak, his knuckles grown as white as bone upon his staff, and watched her. What was it? A simple smile she did bestow upon the cooper’s son, a kindness merely for a mended pail, yet to his fever’d mind, a treasonous pact was sealed in the full light of day. With a cry that startled the grazing sheep, he strode forth upon the green, his voice a ragged thunder for all the parish folk to mark. “Fie, madam!” he proclaimed, his finger a shaking spear. “Dost thou so cheaply trade thy vows for a flattering tongue and a rogue’s glance?” The poor maid’s face, a moment past a rose of summer, turned to winter’s frost, whilst the boy stared with mouth agape, the pail clattering from his grasp. A hush fell, broken only by a titter from the baker’s wife, for all there knew the lad was but her cousin. And thus the man, seeing not his error but only the silent judgment in their eyes, stood marooned in his own mad choler, his honour not defended but drowned in the very poison he himself had brewed.
-
 
 --------------------------------------------------------------------------------
 File: SHAKE_The-Shakespeare-Story-Book_T02_01.txt
@@ -41,38 +17,6 @@ Actual: Class 3: AI-mimicry
 Predicted: Class 1: Human-written
 --------------------------------------------------------------------------------
 Lord Bramwell sat in judgment, his brow a furrowed field of vexation, whilst before him stood the cause: a trembling page who had, with damnable audacity, purloined the final marzipan swan. The law, as barked by the puffed-chested steward, demanded a public whipping for such an affront to the evening's dignity, a stern and righteous balancing of the scales. Yet Her Ladyship, whose heart was ever a softer substance than her husband's head, did plead for clemency, arguing that the boy's stomach, and not his soul, was the true villain of the piece. To punish a rumbling belly as one would a traitorous heart seemed a disproportionate cruelty, she declared, for what is a confection against the tears of a child? The whole hall waited upon his word: would the rod of discipline fall, to satisfy the ordinance and the cook’s fury, or would a gentle pardon prevail, and in so doing, make a mockery of the very order of the feast?
-
-
---------------------------------------------------------------------------------
-File: DOYLE_RSH_04_Solitary_Cyclist_T02_01.txt
-Actual: Class 3: AI-mimicry
-Predicted: Class 1: Human-written
---------------------------------------------------------------------------------
-The grandfather clock in the hall struck two, its chimes echoing through the otherwise silent house where she sat alone by the hearth. There was a time, not so very long ago, when such profound stillness would have sent a chill of apprehension through her; when every creak of a floorboard or whisper of the wind in the chimney would have seemed the footfall of some approaching menace. Yet tonight, a most singular and welcome peace had settled upon her spirit. The solitude was not an emptiness to be feared but a quiet space in which to cultivate a newfound fortitude. The firelight danced upon the book in her lap, its pages unread, for her thoughts were turned not to fictional adventures but to the very real and promising chapter of her own life, which she now felt, with a certainty that was both logical and profound, was about to begin. The world outside might be fraught with its own peculiar dangers, but within these walls, she had at last discovered that the most reliable guardian was not a locked door, but a steady and determined heart.
-
-
---------------------------------------------------------------------------------
-File: WODE_The-Head-of-Kay's_T04_02.txt
-Actual: Class 3: AI-mimicry
-Predicted: Class 1: Human-written
---------------------------------------------------------------------------------
-Of course, a chap with the moral fibre of a lightly-poached egg would simply have confessed to the entire affair, but in a place like Pellingham-on-Ouse, one’s standing is not a thing to be trifled with; it is, if you follow my meaning, the very foundation upon which one builds a life of tranquil afternoons and correctly-brewed tea. So when a certain prize-winning marrow, the pride of the vicar's garden, took an unscheduled and frankly terminal plunge into the ornamental duck pond—an incident in which my left foot may or may not have played a brief, walk-on part—it became clear that immediate action was required. A lesser man might have panicked; I simply saw it as my duty to perform a spot of
-
-
---------------------------------------------------------------------------------
-File: SHAKE_Othello-the-Moor-of-Venice_T05_02.txt
-Actual: Class 3: AI-mimicry
-Predicted: Class 1: Human-written
---------------------------------------------------------------------------------
-Alas, poor Colin’s constancy, which but a sennight past seemed as fixed as the northern star, now proves a thing of gossamer and whey. His Phillida, a maid of simple wit and peerless complexion, hath given ear to the poisonous whisperings of a rival shepherd, one whose tongue is smoother than his heart is true. This serpent did convince her that Colin’s prize ram, whose fleece is whiter than the driven snow, is in fact an enchanted beast, and that its bleating doth cast a glamour upon her senses, forcing her affection where it would not naturally grow. And so she, poor fool, now flees from Colin’s sight, mistaking his honest love for base sorcery and his prized animal for a horned devil. Her love, once a sturdy sapling, is felled by the axe of a single, ridiculous lie, proving a heart’s devotion may be undone by no more than a fool’s tale told of a sheep.
-
-
---------------------------------------------------------------------------------
-File: SHAKE_Richard-II_T05_01.txt
-Actual: Class 3: AI-mimicry
-Predicted: Class 1: Human-written
---------------------------------------------------------------------------------
-Pray, madam, have done with such a carefully wrought sorrow, for this quiet pasture is no royal court that you must needs instruct it in the art of weeping. You fashion your despair into a public monument, and even the wind that stirs the grass seems to learn its mournful part from you. Hath your heart no private chamber for its ache, that it must ever be upon display, dressed in the grand robes of tragedy for all the world, or even for these dumb beasts, to witness? What you call feeling, I call a practiced masque! The lady turned, her face a pale moon in the fading light. “Thou, who hast known only common sorrows, canst not perceive the truth of mine. This countenance I wear is not a lie, but rather the last remaining rampart of my state; should it fall, and my true ruin show itself, what then were left of me? A queen must grieve as a queen, sir, else she is but a woman, and a woman’s tears are soon forgot.”
 
 
 --------------------------------------------------------------------------------
@@ -124,6 +68,14 @@ Hark, my dear son, and look you upon this gathering, a kingdom built not with th
 
 
 --------------------------------------------------------------------------------
+File: DOYLE_HLB_3_Devils_Foot_T05_01.txt
+Actual: Class 3: AI-mimicry
+Predicted: Class 1: Human-written
+--------------------------------------------------------------------------------
+As the carriage rattled over the moorland road, I observed a most dreadful transformation in my companion, a man whom I had hitherto known as a creature of pure, dispassionate reason. His hands, which could trace the most delicate of chemical experiments, were clenched now into white-knuckled fists, and his gaze was fixed upon the grey, passing landscape with an intensity that was altogether chilling. He had spoken but once in the last hour, to name the blackguard who had brought such ruin upon the woman to whom his entire soul was devoted, and in the utterance of that name, I saw his purpose harden. A profound and noble love had, by some terrible alchemy of injustice, been transmuted into an equally profound and single-minded lust for retribution. It was a fearful thing to witness, for I knew that the man he hunted deserved the very worst that the law might devise, yet I could not quiet the question in my own heart as to whether I was now accomplice to a righteous judgment, or merely to a savage and private war.
+
+
+--------------------------------------------------------------------------------
 File: DOYLE_RSH_06_Black_Peter_T02_01.txt
 Actual: Class 3: AI-mimicry
 Predicted: Class 1: Human-written
@@ -137,14 +89,6 @@ Actual: Class 3: AI-mimicry
 Predicted: Class 1: Human-written
 --------------------------------------------------------------------------------
 Mark you, my lord, the most perilous road to Hell is oft paved, not with sin, but with the purest dreams of Heaven. For when a man conceives a perfect world, a commonwealth of such flawless reason that it shames our own poor, stumbling state, he looks upon his fellow men not as brothers, but as misshapen clay to be remade in his image. He sees their vices, their petty loyalties, their very freedoms, as cankers upon the body politic that must be excised. And what surgeon's tool doth he employ for such a task? Why, 'tis the sword, the fire, the headsman's block. He who would build a new Jerusalem upon the earth must first clear the ground, and in his righteous haste, he mistakes the cries of men for the groaning of old timbers. So his utopia is founded not on virtue, but on graves, and the glorious dawn he promised brings only the shadow of the gallows.
-
-
---------------------------------------------------------------------------------
-File: SHAKE_The-Merry-Wives-of-WindsorThe-Works-of-William-Shakespeare-[Cambridge-Edition]-[9-vols]_T04_02.txt
-Actual: Class 3: AI-mimicry
-Predicted: Class 1: Human-written
---------------------------------------------------------------------------------
-The candle sputters low, and with it, my resolve doth flicker in this heavy dark. By morning’s light, I am to stand before the court and spin a lie, a cunning fiction woven with but threads of what is true, to snare a man whose sins are blacker than this very night. I must swear I saw him turn to the west, though his path went east; that his words were soft, when in truth they were a serpent’s hiss. Doth my soul cry foul at such a mask of verity? Perchance it doth. Yet, when plain honesty serves only as a shield for villainy, and truth itself is gagged and bound by a tyrant’s purse, what recourse hath a man but to play the knave for a righteous end? Let them call me forsworn, so long as justice, by whatever crooked road, at last arrives.
 
 
 --------------------------------------------------------------------------------

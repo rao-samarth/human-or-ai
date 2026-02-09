@@ -1,14 +1,14 @@
 ================================================================================
 Class 2 (AI) misclassified as Class 3 (AI-mimicry)
-Total: 25 files
+Total: 21 files
 ================================================================================
 
 --------------------------------------------------------------------------------
-File: Sign_of_Four_T05_P02.txt
+File: Eve's-Diary,-Complete_T03_P01.txt
 Actual: Class 2: AI-written
 Predicted: Class 3: AI-mimicry
 --------------------------------------------------------------------------------
-From across the ballroom, I watched them assemble for the photograph, a dynasty in miniature. They arranged themselves with practiced ease, smiles polished for the camera’s flash. Yet, what the lens could never capture was the architecture of their silence, the vast, unacknowledged space between them. It was a structure built years ago, reinforced with every avoided topic and every redirected question, its foundations laid in a moment no one dared revisit. Each member was a custodian of a piece of it, a secret they guarded not out of malice, but from a misguided belief that the shared fiction was more durable than the fractured truth. They thought they were preserving the family, but they were merely curating a museum of what it was supposed to be, a pristine exhibit for public view. The real foundation was eroding beneath their feet, hollowed out by the immense, collective weight of the unspoken.
+He watched the crane hoist another steel girder into place, a clean, powerful motion against the flat blue sky. From his desk, the construction site was a puzzle assembling itself into a logical future for the town—commerce, structure, a necessary step forward. He admired the precision of the crew, the straightforward physics of it all. This was how things were built, how they improved. She, however, saw it differently from her window above the bakery. For her, the raw earth and rising frame weren’t a beginning but an ending. They had torn out the old community garden for this, that small patch of green where conversations grew as readily as tomatoes. She thought of the long afternoon shadows the new building would cast, a permanent cooling of the sunniest spot on the square. They were both observing the same grid of metal and men, yet one saw a foundation being laid while the other felt a space being lost.
 
 
 --------------------------------------------------------------------------------
@@ -17,14 +17,6 @@ Actual: Class 2: AI-written
 Predicted: Class 3: AI-mimicry
 --------------------------------------------------------------------------------
 It was two in the morning, and the battle for the Wi-Fi had entered its fourth hour, a silent, vicious siege conducted entirely through glowing screens from separate rooms. My mother, the instigator, had changed the password after a perceived slight involving the dishwasher. Now, my father was methodically working his way through every possible combination of our dog’s name and my mother’s birthday, muttering about psychological warfare. My sister, meanwhile, had adopted a scorched-earth policy, attempting to factory-reset the router from her phone, an act of digital treason that would plunge us all into a connectivity dark age. I sat on the stairs, a neutral observer in this domestic Hague Convention violation, watching the router’s little light blink. It was no longer a signal for the internet; it was a tiny, pulsing white flag that nobody was willing to accept. We hadn't spoken a word to each other since dinner.
-
-
---------------------------------------------------------------------------------
-File: ASH_08_Speckled_Band_T04_P02.txt
-Actual: Class 2: AI-written
-Predicted: Class 3: AI-mimicry
---------------------------------------------------------------------------------
-Every day in this concrete maze, you see the same old show. The guy in the pickup truck, a vehicle big enough to house a family of four, leans on his horn as if the sheer volume will magically part the sea of yellow cabs. He revs his engine, a modern-day gorilla beating his chest, convinced his noise and steel are a declaration of dominance. It’s almost cute. While he’s busy performing his little power play for an audience of annoyed pedestrians, some unassuming courier on an electric scooter has already glanced at a traffic app, noted the jackknifed semi two avenues over, and is now calmly zipping through a service alley. The big guy gets the momentary thrill of being the loudest idiot in the gridlock, but the quiet one actually gets where they're going. It's always the same pathetic story: the ones who roar the loudest are usually just stuck in a cage of their own making, too dense to even look for the key.
 
 
 --------------------------------------------------------------------------------
@@ -49,22 +41,6 @@ Actual: Class 2: AI-written
 Predicted: Class 3: AI-mimicry
 --------------------------------------------------------------------------------
 You could feel the energy shift in the office after the all-hands meeting. Our new director, a woman with an almost impossible amount of enthusiasm, had laid out her vision on a single, deceptively simple slide. It was just a circle labeled “Our True North,” but people clung to it. Walking back to our desks, I heard snippets of conversation—not about the practical hurdles or the budget, but about how this new purpose would change everything. They were already sketching out projects, their faces bright with a kind of sincere devotion. Some might call it naive, this collective leap of faith, but I saw it differently. For the first time in years, we weren't just clocking in; we were all pulling together toward a destination we had chosen to believe in, and that shared journey felt more valuable than any guaranteed outcome.
-
-
---------------------------------------------------------------------------------
-File: RSH_01_Empty_House_T04_P02.txt
-Actual: Class 2: AI-written
-Predicted: Class 3: AI-mimicry
---------------------------------------------------------------------------------
-He stood across the street, watching the people flow in and out of the granite entrance like a tide. For two decades, that building had been a monument to his powerlessness, a cold stone fortress guarding a buried truth. Today, it was just a destination. The city's cacophony—the screech of tires, the layered chatter of a thousand conversations—felt impossibly distant, a memory from someone else's life. His own world had shrunk to this single block, this final crossing. He felt the worn envelope in his coat pocket, its contents the only compass he had possessed through all the silent years. The light changed. He took a breath, the city air sharp and metallic, and stepped off the curb, moving not with the crowd but through it, a solitary figure on a collision course with a history that had waited long enough.
-
-
---------------------------------------------------------------------------------
-File: ASH_08_Speckled_Band_T05_P01.txt
-Actual: Class 2: AI-written
-Predicted: Class 3: AI-mimicry
---------------------------------------------------------------------------------
-The ambient chatter of the awards dinner served as the perfect cover, a gentle hum of professional cordiality. He was telling the story again, the one about the failed business venture. To the couple beside them, it was an amusing anecdote of youthful folly, and they laughed on cue. But for her, each detail was a carefully selected instrument: the mention of her initial optimism, the lighthearted jab at her “creative” accounting, the final, magnanimous note of how he had helped her pick up the pieces. The architecture of the humiliation was flawless. Any protest would seem petulant, an inability to take a joke, while her silence was a concession, an acceptance of the narrative he was so skillfully weaving for their audience. She simply smiled, a small, tight movement of her lips, and understood that this was not an attack but a maintenance of control, as meticulously planned as the seating chart.
 
 
 --------------------------------------------------------------------------------
@@ -97,14 +73,6 @@ Actual: Class 2: AI-written
 Predicted: Class 3: AI-mimicry
 --------------------------------------------------------------------------------
 After the expert departed, a familiar quiet settled over the room, the kind that follows a pronouncement from on high. We were handed a blueprint for success, a meticulously crafted strategy full of reassuring buzzwords and clean, linear progressions. It was presented as an objective truth, a universal key for our specific, stubbornly unique lock. Yet, as we looked at the elegant diagrams, we all knew they described a world that wasn't ours—a world without friction, without history, without the messy human element that defied categorization. The advice was flawless in its own vacuum, a perfect answer to a question no one was actually asking. We were being told to ignore the intricate, chaotic reality we navigated every day in favor of a simplified, sanitized fiction. The sheer certainty of it all was the most curious thing; a profound confidence in a map drawn by someone who had never walked the terrain.
-
-
---------------------------------------------------------------------------------
-File: The-Prince-and-Betty_T03_P01.txt
-Actual: Class 2: AI-written
-Predicted: Class 3: AI-mimicry
---------------------------------------------------------------------------------
-For the love of all that is sacred, put down the pen. The bells are still tolling for your father. Outside this door, the council sits in a stone-cold silence, waiting for a word, for a sign, for *anything* from their new king. And you sit here, agonizing over the precise shade of blue for a river that doesn't exist. We are not discussing the cartography of a fairy tale; we are discussing the fate of millions of people who are looking to you. To you! There are grain shortages in the north and border disputes in the south. The only thing preventing this entire nation from collapsing into chaos is the simple, biological fact that you were his son. Your blood is the only reason they are not already at each other's throats. So please, stop coloring in your imaginary mountains and start figuring out how to rule a real kingdom.
 
 
 --------------------------------------------------------------------------------
@@ -164,14 +132,6 @@ The earth smelled of raw mud and progress. He stood on the new embankment, liste
 
 
 --------------------------------------------------------------------------------
-File: Following-the-Equator:-A-Journey-Around-the-World.-Part-7_T05_P02.txt
-Actual: Class 2: AI-written
-Predicted: Class 3: AI-mimicry
---------------------------------------------------------------------------------
-Watching the slow train snake through the valley, I considered the markers we use to chart human progress. We so often equate it with speed, with monumental construction, with the sheer volume of data we can generate and store. We build our cities ever higher, convinced that this vertical ambition is the primary measure of an advanced society. Yet from this window, I see villages that have followed the contours of the land for a thousand years, their permanence rooted not in concrete but in a complex understanding of seasons and soil. They have no skyscrapers, but their social structures are resilient and their knowledge of the local ecology is encyclopedic. It’s hard not to wonder if we’ve confused scale with substance, mistaking the architecture of dominance for the art of endurance.
-
-
---------------------------------------------------------------------------------
 File: Tales-of-St.-Austin's_T02_P02.txt
 Actual: Class 2: AI-written
 Predicted: Class 3: AI-mimicry
@@ -193,6 +153,14 @@ Actual: Class 2: AI-written
 Predicted: Class 3: AI-mimicry
 --------------------------------------------------------------------------------
 It’s a curious thing, the person you become for a stranger. Here, on a train cutting through an unfamiliar countryside, it felt remarkably easy to claim I spent my summers sailing when, in reality, I’ve never been on a boat larger than a ferry. The lie wasn't malicious; it was an architecture of hope, a small scaffold built to reach the version of myself I thought they might admire. The details flow surprisingly well, coloring in the outlines of a more adventurous life than my own. Each shared smile and easy conversation now rests on that invented past, creating a connection that is both intensely present and fundamentally fragile. You start to analyze the half-truths, the careful omissions, and wonder how long you can live in a house you didn't actually build, especially when you begin to wish you could stay.
+
+
+--------------------------------------------------------------------------------
+File: HLB_2_Bruce_Partington_Plans_T01_P01.txt
+Actual: Class 2: AI-written
+Predicted: Class 3: AI-mimicry
+--------------------------------------------------------------------------------
+The polite, rhythmic applause washes over the ballroom as he beams under the stage lights, a true captain of industry. A patriot, they call him. It’s funny, because his greatest act of patriotism involved auctioning off the country’s manufacturing spine to the highest foreign bidder, all for a handsome fee that now probably funds this very gala. The well-fed audience nods along to the praise, their portfolios undoubtedly plump from his ‘strategic divestments.’ He speaks of national pride, of sacrifice for the greater good, and they sip their champagne, entirely convinced. It’s a magnificent performance, really. Selling the family silver and then charging admission to watch you polish the empty cabinet.
 
 
 --------------------------------------------------------------------------------

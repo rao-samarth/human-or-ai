@@ -1,61 +1,47 @@
 ================================================================================
 Class 1 (Human) misclassified as Class 3 (AI-mimicry)
-Total: 9 files
+Total: 11 files
 ================================================================================
 
 --------------------------------------------------------------------------------
-File: 013_ASH_11_Beryl_Coronet_06.txt
+File: 145_The-Prince-and-the-Pauper,-Part-9._11.txt
 Actual: Class 1: Human-written
 Predicted: Class 3: AI-mimicry
 --------------------------------------------------------------------------------
-My friend rose lazily from his armchair and stood with his hands
-in the pockets of his dressing-gown, looking over my shoulder. It
-was a bright, crisp February morning, and the snow of the day
-before still lay deep upon the ground, shimmering brightly in the
-wintry sun. Down the centre of Baker Street it had been ploughed
-into a brown crumbly band by the traffic, but at either side and
-on the heaped-up edges of the foot-paths it still lay as white as
-when it fell. The grey pavement had been cleaned and scraped, but
-was still dangerously slippery, so that there were fewer
-passengers than usual. Indeed, from the direction of the
-Metropolitan Station no one was coming save the single gentleman
-whose eccentric conduct had drawn my attention.
+At noon he was still tramping--among the rabble which followed after the
+royal procession, now; for he argued that this regal display would
+attract his little lunatic powerfully.  He followed the pageant through
+all its devious windings about London, and all the way to Westminster and
+the Abbey.  He drifted here and there amongst the multitudes that were
+massed in the vicinity for a weary long time, baffled and perplexed, and
+finally wandered off, thinking, and trying to contrive some way to better
+his plan of campaign.  By-and-by, when he came to himself out of his
+musings, he discovered that the town was far behind him and that the day
+was growing old.  He was near the river, and in the country; it was a
+region of fine rural seats--not the sort of district to welcome clothes
+like his.
 
 --------------------------------------------------------------------------------
-File: 041_RSH_13_Second_Stain_08.txt
+File: 026_The-Intrusion-of-Jimmy_02.txt
 Actual: Class 1: Human-written
 Predicted: Class 3: AI-mimicry
 --------------------------------------------------------------------------------
-It was my first visit to the scene of the crime--a high, dingy,
-narrow-chested house, prim, formal, and solid, like the century which
-gave it birth. Lestrade's bulldog features gazed out at us from the
-front window, and he greeted us warmly when a big constable had opened
-the door and let us in. The room into which we were shown was that in
-which the crime had been committed, but no trace of it now remained save
-an ugly, irregular stain upon the carpet. This carpet was a small square
-drugget in the centre of the room, surrounded by a broad expanse
-of beautiful, old-fashioned wood-flooring in square blocks, highly
-polished. Over the fireplace was a magnificent trophy of weapons, one of
-which had been used on that tragic night. In the window was a sumptuous
-writing-desk, and every detail of the apartment, the pictures, the rugs,
-and the hangings, all pointed to a taste which was luxurious to the
-verge of effeminacy.
-
---------------------------------------------------------------------------------
-File: 006_A-Connecticut-Yankee-in-King-Arthur's-Court,-Part-5._03.txt
-Actual: Class 1: Human-written
-Predicted: Class 3: AI-mimicry
---------------------------------------------------------------------------------
-"Verily, in the all-wise and unknowable providence of God, who
-moveth in mysterious ways his wonders to perform, have I never
-heard the fellow to this question for confusion of the mind and
-congestion of the ducts of thought.  Wherefore I beseech you let
-the dog and the onions and these people of the strange and godless
-names work out their several salvations from their piteous and
-wonderful difficulties without help of mine, for indeed their
-trouble is sufficient as it is, whereas an I tried to help I should
-but damage their cause the more and yet mayhap not live myself
-to see the desolation wrought."
+Everybody in the room on this July night had come from the theater.
+Most of those present had been acting, but a certain number had been
+to the opening performance of the latest better-than-Raffles play.
+There had been something of a boom that season in dramas whose
+heroes appealed to the public more pleasantly across the footlights
+than they might have done in real life. In the play that had opened
+to-night, Arthur Mifflin, an exemplary young man off the stage, had
+been warmly applauded for a series of actions which, performed
+anywhere except in the theater, would certainly have debarred him
+from remaining a member of the Strollers' or any other club. In
+faultless evening dress, with a debonair smile on his face, he had
+broken open a safe, stolen bonds and jewelry to a large amount, and
+escaped without a blush of shame via the window. He had foiled a
+detective through four acts, and held up a band of pursuers with a
+revolver. A large audience had intimated complete approval
+throughout.
 
 --------------------------------------------------------------------------------
 File: 002_Sign_of_Four_15.txt
@@ -94,6 +80,27 @@ surprised him some, because he thought he had reasons to believe he was
 pointed for a warmer climate than this one.”
 
 --------------------------------------------------------------------------------
+File: 034_The-Swoop!-or,-How-Clarence-Saved-England:-A-Tale-of-the-Great-Invasion_11.txt
+Actual: Class 1: Human-written
+Predicted: Class 3: AI-mimicry
+--------------------------------------------------------------------------------
+The Russians, led by General Vodkakoff, arrived at Hampstead half an
+hour after the bombardment had ceased, and the rest of the invaders,
+including Raisuli, who had got off on an _alibi_, dropped in at
+intervals during the week. By the evening of Saturday, the sixth of
+August, even the Chinese had limped to the metropolis. And the question
+now was, What was going to happen? England displayed a polite
+indifference to the problem. We are essentially a nation of
+sight-seers. To us the excitement of staring at the invaders was
+enough. Into the complex international problems to which the situation
+gave rise it did not occur to us to examine. When you consider that a
+crowd of five hundred Londoners will assemble in the space of two
+minutes, abandoning entirely all its other business, to watch a
+cab-horse that has fallen in the street, it is not surprising that the
+spectacle of nine separate and distinct armies in the metropolis left
+no room in the British mind for other reflections.
+
+--------------------------------------------------------------------------------
 File: 008_ASH_06_Man_With_Twisted_Lip_17.txt
 Actual: Class 1: Human-written
 Predicted: Class 3: AI-mimicry
@@ -112,27 +119,6 @@ and I was walking down the street with Sherlock Holmes. For two
 streets he shuffled along with a bent back and an uncertain foot.
 Then, glancing quickly round, he straightened himself out and
 burst into a hearty fit of laughter.
-
---------------------------------------------------------------------------------
-File: 032_RSH_04_Solitary_Cyclist_17.txt
-Actual: Class 1: Human-written
-Predicted: Class 3: AI-mimicry
---------------------------------------------------------------------------------
-In the whirl of our incessant activity, it has often been difficult for
-me, as the reader has probably observed, to round off my narratives, and
-to give those final details which the curious might expect. Each case
-has been the prelude to another, and the crisis once over, the actors
-have passed for ever out of our busy lives. I find, however, a short
-note at the end of my manuscript dealing with this case, in which I have
-put it upon record that Miss Violet Smith did indeed inherit a large
-fortune, and that she is now the wife of Cyril Morton, the senior
-partner of Morton & Kennedy, the famous Westminster electricians.
-Williamson and Woodley were both tried for abduction and assault, the
-former getting seven years the latter ten. Of the fate of Carruthers,
-I have no record, but I am sure that his assault was not viewed very
-gravely by the court, since Woodley had the reputation of being a most
-dangerous ruffian, and I think that a few, months were sufficient to
-satisfy the demands of justice.
 
 --------------------------------------------------------------------------------
 File: 056_Life-on-the-Mississippi,-Part-10._16.txt
@@ -166,4 +152,59 @@ neck hung the order of the Garter, and several princely foreign orders;’
 and wherever light fell upon him jewels responded with a blinding flash.
  O Tom Canty, born in a hovel, bred in the gutters of London, familiar
 with rags and dirt and misery, what a spectacle is this!
+
+--------------------------------------------------------------------------------
+File: 144_The-Prince-and-the-Pauper,-Part-8._08.txt
+Actual: Class 1: Human-written
+Predicted: Class 3: AI-mimicry
+--------------------------------------------------------------------------------
+Hendon was touched.  The water welled to his eyes, yet at the same time
+the grisly humour of the situation and circumstances so undermined his
+gravity that it was all he could do to keep some sign of his inward mirth
+from showing outside.  To be suddenly hoisted, naked and gory, from the
+common stocks to the Alpine altitude and splendour of an Earldom, seemed
+to him the last possibility in the line of the grotesque.  He said to
+himself, "Now am I finely tinselled, indeed!  The spectre-knight of the
+Kingdom of Dreams and Shadows is become a spectre-earl--a dizzy flight
+for a callow wing!  An' this go on, I shall presently be hung like a very
+maypole with fantastic gauds and make-believe honours.  But I shall value
+them, all valueless as they are, for the love that doth bestow them.
+Better these poor mock dignities of mine, that come unasked, from a clean
+hand and a right spirit, than real ones bought by servility from grudging
+and interested power."
+
+--------------------------------------------------------------------------------
+File: 017_Tales-of-St.-Austin's_18.txt
+Actual: Class 1: Human-written
+Predicted: Class 3: AI-mimicry
+--------------------------------------------------------------------------------
+At tea on the following evening the first really serious engagement of
+the campaign took place. The cat strolled into the tea-room in the
+patronizing way characteristic of his kind, but was heavily shelled
+with lump-sugar, and beat a rapid retreat. That was the signal for the
+outbreak of serious hostilities. From that moment its paw was against
+every man, and the tale of the things it stole is too terrible to
+relate in detail. It scored all along the line. Like Death in the poem,
+it knocked at the doors of the highest and the lowest alike. Or rather,
+it did not exactly knock. It came in without knocking. The palace of
+the prefect and the hovel of the fag suffered equally. Trentham, the
+head of the House, lost sausages to an incredible amount one evening,
+and the next day Ripton, of the Lower Third, was robbed of his one ewe
+lamb in the shape of half a tin of anchovy paste. Panic reigned.
+
+--------------------------------------------------------------------------------
+File: 012_Piccadilly-Jim_20.txt
+Actual: Class 1: Human-written
+Predicted: Class 3: AI-mimicry
+--------------------------------------------------------------------------------
+Mr. Pett stood in the doorway, regarding his step-son with a
+sombre eye. He resented the boy's tone of easy patronage, all the
+harder to endure with philosophic calm at the present moment from
+the fact that the latter was lounging in his favourite chair.
+Even from an aesthetic point of view the sight of the bulging
+child offended him. Ogden Ford was round and blobby and looked
+overfed. He had the plethoric habit of one to whom wholesome
+exercise is a stranger and the sallow complexion of the confirmed
+candy-fiend. Even now, a bare half hour after breakfast, his jaws
+were moving with a rhythmical, champing motion.
 

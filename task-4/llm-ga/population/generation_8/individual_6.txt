@@ -1,0 +1,12 @@
+GENERATION 8 - INDIVIDUAL 6
+================================================================================
+
+Fitness: 0.0000
+P(Human): 0.0000
+P(AI): 0.9740
+P(AI-mimicry): 0.0260
+Semantic Similarity: 0.7822
+Predicted Class: 2 (conf=0.9740)
+
+Text:
+I was thoroughly convinced I had my neighbor pegged. Occupying the canary-yellow cottage across the street, he was the very picture of unassuming integrity; the sort of fellow who returned borrowed tools right away and never missed a local fundraiser. In fact, he was so consistently agreeable that he had almost become a fixture of the landscape—blending in seamlessly with the tranquil rhythm of our lane, where the most serious transgression was an untrimmed shrubbery. That entire reality, however, was upended by a simple mistake with the mail. One afternoon, I inadvertently opened a piece of correspondence meant for him. Within was not an invoice or a circular, but an official dossier, dense with blacked-out text, and a snapshot of a considerably younger man with an unnervingly vacant gaze. The envelope felt impossibly heavy in my grasp as I stood there on my stoop. At last, I truly saw. His gentle disposition was not a personality, but instead an intricate, perfectly crafted illusion, hiding a history that had no right whatsoever to be tucked away in a community like this.

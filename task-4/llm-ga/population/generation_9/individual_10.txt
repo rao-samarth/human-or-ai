@@ -1,0 +1,12 @@
+GENERATION 9 - INDIVIDUAL 10
+================================================================================
+
+Fitness: 0.0000
+P(Human): 0.0000
+P(AI): 0.9621
+P(AI-mimicry): 0.0379
+Semantic Similarity: 0.7669
+Predicted Class: 2 (conf=0.9621)
+
+Text:
+I was thoroughly convinced I had a complete read on my neighbor. Residing in the yellow bungalow just opposite, he was the epitome of unassuming virtue; the sort of fellow who returned borrowed items with haste and chipped in for every community fundraiser. In fact, his unfailingly cordial nature made him blend into the background—ideally suited for the peaceful rhythm of our lane, where the most serious transgression was an unkempt hedge. That whole perception, however, was obliterated by a mere mix-up in the mail. One afternoon, I inadvertently opened an envelope meant for him. Inside was neither a bill nor a circular, but an official dossier, heavy with blacked-out sentences, and an image of a much younger man with an unnervingly vacant gaze. The envelope felt impossibly heavy in my grasp as I remained there on my stoop. At last, the truth dawned on me. His placid demeanor wasn't a personality, but a meticulous and flawless charade, masking a history that had no right to be tucked away in a place like this.

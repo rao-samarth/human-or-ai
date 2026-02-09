@@ -1,0 +1,12 @@
+GENERATION 9 - INDIVIDUAL 2
+================================================================================
+
+Fitness: 0.0003
+P(Human): 0.0003
+P(AI): 0.0477
+P(AI-mimicry): 0.9520
+Semantic Similarity: 0.8226
+Predicted Class: 3 (conf=0.9520)
+
+Text:
+I was all but certain I had my neighbor's measure. Living in the yellow bungalow across the way, he was the very model of quiet decency; the kind of man who returned borrowed things promptly and supported every local bake sale. Indeed, so reliably pleasant was he that he was almost part of the scenery—a perfect fit for the comforting hum of our street, where the worst infraction was a poorly maintained hedge. That entire world, however, was shattered by a simple postal error. One afternoon, I by chance opened a letter addressed to him. Inside was not a bill or a newsletter, but a government file, thick with redacted lines, and a photograph of a much younger man with chillingly detached eyes. The envelope felt leaden in my hand as I stood there on my porch. I finally, truly, understood. His mild-mannered nature was no personality at all, but rather an elaborate, perfectly constructed facade, concealing a past that had no business whatsoever being ensconced in a place like this.

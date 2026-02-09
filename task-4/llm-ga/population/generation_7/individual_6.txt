@@ -1,0 +1,12 @@
+GENERATION 7 - INDIVIDUAL 6
+================================================================================
+
+Fitness: 0.0000
+P(Human): 0.0000
+P(AI): 0.9980
+P(AI-mimicry): 0.0020
+Semantic Similarity: 0.7987
+Predicted Class: 2 (conf=0.9980)
+
+Text:
+I was utterly convinced I had the man figured out. Residing in the yellow bungalow across the street, he was the epitome of unassuming respectability; the sort of fellow who returned borrowed items punctually and patronized every neighborhood fundraiser. In fact, so unfailingly cordial was he that he had become a fixture of the landscape—seamlessly integrated into the soothing cadence of our street, where the gravest transgression was an untrimmed hedge. That entire perception, however, was fractured by a simple mix-up in the mail. One afternoon, I inadvertently opened a letter meant for him. Within was not an invoice or a circular, but an official dossier, dense with blacked-out text, and a snapshot of a much younger man with an unnervingly vacant gaze. The envelope felt impossibly heavy in my palm as I stood frozen on my doorstep. Then, with absolute clarity, I understood. His placid demeanor wasn't a personality at all, but rather a meticulous, perfectly engineered front, concealing a history that was utterly incongruous with a place like this.

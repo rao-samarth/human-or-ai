@@ -1,0 +1,12 @@
+GENERATION 9 - INDIVIDUAL 9
+================================================================================
+
+Fitness: 0.0000
+P(Human): 0.0000
+P(AI): 0.9991
+P(AI-mimicry): 0.0009
+Semantic Similarity: 0.7942
+Predicted Class: 2 (conf=0.9991)
+
+Text:
+I was practically convinced I had a handle on my neighbor. The resident of the yellow cottage across the street was, seemingly, the epitome of unassuming respectability; the sort of gentleman who brought back borrowed items without delay and patronized each neighborhood fundraiser. He was so dependably good-natured that he blended into the background—seamlessly suited to the tranquil pulse of our lane, where the gravest transgression was an untidy hedgerow. However, that entire perception came crashing down because of a simple mix-up with the mail. One afternoon, I mistakenly opened an envelope intended for him. Inside was no invoice, no circular, but a federal dossier, heavy with blacked-out sentences, and a photo of a far younger man with an unnervingly remote gaze. The letter felt unnaturally weighty in my grasp as I stood there on my front steps. In that moment, the truth dawned on me. His placid nature was no personality at all, but a sophisticated, flawlessly built mask, concealing a history that had no right whatsoever to be tucked away in a community like this one.

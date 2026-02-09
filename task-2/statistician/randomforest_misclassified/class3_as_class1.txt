@@ -1,15 +1,7 @@
 ================================================================================
 Class 3 (AI-mimicry) misclassified as Class 1 (Human)
-Total: 19 files
+Total: 14 files
 ================================================================================
-
---------------------------------------------------------------------------------
-File: SHAKE_The-Shakespeare-Story-Book_T03_02.txt
-Actual: Class 3: AI-mimicry
-Predicted: Class 1: Human-written
---------------------------------------------------------------------------------
-Pray, mark the butcher's wife, how she bestows her alms upon the poor with such a gentle hand, her lips forming blessings as if she were a sainted mother to this wretched town. A most holy visage, is it not? Forsooth, her charity doth cost her naught, for I know well the heavy thumbs she puts upon the scales when weighing out the commoner's meat, and those very blessings are but whispers to disguise the coin she clips from every shilling. She paints her soul with virtue's colours, yet the canvas underneath is rotten through, a thing of such base avarice it would make a devil blush, though here it walks in sunlight and doth smile upon its neighbours. She is praised for a lamb, when in her heart there lurks a wolf that feeds on the very flock she pretends to shepherd.
-
 
 --------------------------------------------------------------------------------
 File: SHAKE_Shakespeares-Tragedy-of-Romeo-and-Juliet_T04_02.txt
@@ -17,22 +9,6 @@ Actual: Class 3: AI-mimicry
 Predicted: Class 1: Human-written
 --------------------------------------------------------------------------------
 "Cease this talk, I pray you," the elder man hissed, his voice a dry rasp beneath the market’s clamour, though his eyes darted about to see who might attend their words. "Would you have all the city know you prize a fickle passion above your sworn purpose? Your heart is a small and private country, oft given to rebellion, but your name is the kingdom you must govern for all to see." The younger man’s face was a mask of pale resolve. "And what good is such a kingdom, sir," he countered, his voice low but clear, "if its king be a stranger to himself? Must I forever chain my soul's own true desire to the cold iron of another's expectation? I tell you, such a life is but a gilded cage, and the songbird within perishes for want of its own sky." A passing merchant slowed his step, his ears pricked by the heat of their exchange, before his wife pulled him onward into the throng.
-
-
---------------------------------------------------------------------------------
-File: SHAKE_The-Shakespeare-Story-Book_T02_01.txt
-Actual: Class 3: AI-mimicry
-Predicted: Class 1: Human-written
---------------------------------------------------------------------------------
-As this weary road doth carry me from that sad town, my soul is much disquieted by what I there did witness. For in that place, two houses of a noble stock have, by their long and canker’d enmity, made a desert of their own inheritance, feeding their malice until it hath consumed all goodness. What pride, what devilish and unnatural spleen, could so possess a man that he would see his own blood spilt upon the stones rather than yield an inch of ground? Methinks the very air is sick with the ghost of their choler, and the dust itself is made of nought but the crumbled monuments to their endless strife. Their children now learn to curse ere they can pray, and the patrimony they shall one day claim is but a heap of ash and sorrow, a foul inheritance bought with the coin of their fathers’ venom.
-
-
---------------------------------------------------------------------------------
-File: TWAIN_Sketches-New-and-Old,-Part-7._T03_01.txt
-Actual: Class 3: AI-mimicry
-Predicted: Class 1: Human-written
---------------------------------------------------------------------------------
-I went to Mr. Abernathy’s office to ask for a new box of pens, a simple enough errand, and one which ought to have been dispatched with a simple nod. But Mr. Abernathy, he has been to some manner of business school, and it has soured his tongue. He leaned back in his leather chair, a great and solemn ship of a man, and commenced to speak of “synergizing our asset-procurement protocols” and “leveraging inter-departmental communication streams to optimize resource allocation.” I stood there while the words washed over me, a great, warm, meaningless river of noise, and a peculiar sadness settled in my bones. Here was a man who had forgotten the plain names for things, who had traded the simple truth of a pen for a cloudy kingdom of important-sounding nonsense; and I could not help but feel I was watching a soul slowly burying itself under a mountain of its own fine words. It was a lonesome kind of spectacle.
 
 
 --------------------------------------------------------------------------------
@@ -44,11 +20,11 @@ The grandfather clock in the hall struck two, its chimes echoing through the oth
 
 
 --------------------------------------------------------------------------------
-File: SHAKE_King-Lear_T02_02.txt
+File: SHAKE_King-Richard-III_T04_02.txt
 Actual: Class 3: AI-mimicry
 Predicted: Class 1: Human-written
 --------------------------------------------------------------------------------
-My lord uncle sat staring at the fire, plucking at his sleeve, whilst my father held forth on matters of state and commerce to his esteemed guests. "Pay him no mind," my father whispered to me, with a look of deepest shame, "for his reason, poor soul, hath long since fled its mortal house." Yet when the talk did turn to a question of justice, and all the learned men were tangled in their laws and precedents, my uncle laughed, a strange and hollow sound. "You seek justice in a book?" he cried, his eyes alight with a fearsome clarity. "Nay, you are fools; for justice is no dead letter writ on parchment, but the very breath a drowning man doth gasp for when the world's great weight is on his chest. You must first feel the water in your own lungs ere you know its truth." A silence fell upon the room, for in his fractured sense, a greater sense was found than all their sober reason could afford.
+I mark how men are swayed, not by the plain and honest substance of a cause, but by the cunning tune to which it is set. A man’s conviction is a fragile craft, and a glib orator the sudden storm that drives it upon the rocks, all whilst persuading him the shore is near. Just yestermorn, upon the cobbled square, I did observe a rabble-rouser twist the common grievance of the poor into a sharp and glittering dagger, which he then, by subtle rhetoric, placed into their very hands to aim against their neighbour. He spoke of freedom, yet forged a cage of choler; he decried tyranny, whilst making himself a king of their blind rage. Thus are men’s minds but instruments, and he that knows the fingering may play what jarring melody he will, and call it reason’s fairest song.
 
 
 --------------------------------------------------------------------------------
@@ -65,14 +41,6 @@ Actual: Class 3: AI-mimicry
 Predicted: Class 1: Human-written
 --------------------------------------------------------------------------------
 Mark how the senior clerk, with spectacles perched upon his solemn nose, doth pore upon his ledger as if it were a holy text. The guild master praises his unceasing diligence, whilst lesser men whisper of his piety, noting how his thin lips move in silent prayer even as his quill records their profits and their losses. They see an anchor of a man, a fixed and honest point in a turning world of trade. Yet were their sight so keen to pierce the veil of custom and regard, they would spy the truth that festers in the ink: that with each careful stroke he shaves a phantom sliver for himself, his quiet prayers not to any god in heaven but to the growing idol of his secret coffers. His sober coat is but the costume for his greed, and the stage whereon he plays the part of loyal servant is built with planks of pure deceit.
-
-
---------------------------------------------------------------------------------
-File: SHAKE_Henry-V_T02_02.txt
-Actual: Class 3: AI-mimicry
-Predicted: Class 1: Human-written
---------------------------------------------------------------------------------
-Hark, how the city’s throat doth roar my name, and the air, thick with rose-petals and the commons’ shouts, proclaims me victor. They hoist me on their shoulders, a hero gilded by a sun I can no longer feel; for every cheer that strikes my ear, a brother’s dying whisper answers from the grave. What victory is this, when my mind’s eye sees not these smiling maids but the gape-mouthed horror of young Philip, his life-blood staining the foreign mud? They praise the sharp-edged steel that won the day, yet know not how it feels to sunder flesh from bone, nor see the vacant stare that follows after. Wherefore do they praise the harvest when they have not witnessed the bloody scythe that reaped it? This lauded triumph feels but a hollow, gilded cage, and I, its feted prisoner, must smile upon the throng whilst my soul doth scream for the quiet dark of oblivion.
 
 
 --------------------------------------------------------------------------------
@@ -105,14 +73,6 @@ Actual: Class 3: AI-mimicry
 Predicted: Class 1: Human-written
 --------------------------------------------------------------------------------
 Must we proceed with such a foul disguise, my lord?” the younger man whispered, his face pale in the lone candlelight. “To praise him to his teeth, to bow and fawn when all my soul cries out for his swift ruin; it doth make a villain of me.” The elder statesman turned, his weary eyes holding no comfort. “And what art thou, a simpleton? Wouldst thou throw plain truth against a fortress wall and hope it crumbles? Nay, a lie well-told is but a sharper blade than any honest steel when wielded for a righteous cause. We speak with sweetened words to mask the bitter draught we brew for him; we fashion this false amity to be the very ground from which his downfall springs. Let not thy squeamish heart betray our purpose, for in this wretched court, a virtuous tongue is but a quick path to a silent grave. Clothe thyself in falsehood; ‘tis the only armour that shall keep our noble end alive.
-
-
---------------------------------------------------------------------------------
-File: SHAKE_Hamlet-Prince-of-Denmark_T03_01.txt
-Actual: Class 3: AI-mimicry
-Predicted: Class 1: Human-written
---------------------------------------------------------------------------------
-By the guttering candle's light, he sat alone, his own shadow a monstrous giant thrown against the wall. He swore he saw it stir, a twitch of some unholy life where none should be; and in that instant, his very reason seemed to quake upon its throne. For who can say where the true world ends and the mind’s foul pageant begins? This malady of seeing what is not, or not seeing what is plain, doth make a mockery of a man’s judgment, turning his own thoughts to traitors in his head. One man sees a ghost and is deemed mad, whilst another sees God’s own angels and is called a saint; yet both have spurned the solid earth for visions their fellows cannot share. Perchance the truest lunacy is to trust our senses overmuch, for they are but fickle windows in this prison of the skull, and what they show is oft a distorted, tricksome play.
 
 
 --------------------------------------------------------------------------------

@@ -1,0 +1,12 @@
+GENERATION 3 - INDIVIDUAL 8
+================================================================================
+
+Fitness: 0.0000
+P(Human): 0.0000
+P(AI): 0.9998
+P(AI-mimicry): 0.0002
+Semantic Similarity: 0.7987
+Predicted Class: 2 (conf=0.9998)
+
+Text:
+I was certain I knew precisely what made my neighbor tick. Residing in the little yellow house across the street, he seemed the very personification of understated respectability; the sort of fellow who was quick to return any borrowed item and never missed a chance to support a neighborhood fundraiser. He was so consistently agreeable that he practically blended into the background, a natural component of the peaceful rhythm of our block, where the most serious transgression was an overgrown hedge. But then, that whole illusion shattered, all thanks to a simple mail mix-up. One afternoon, I opened a letter meant for him by mistake. Inside was not a utility bill or a local flyer, but an official dossier heavy with redacted sentences, and a photograph of a much younger man, his expression unreadable and his gaze unnervingly remote. The envelope felt impossibly heavy in my hand as I stood there on my front steps, and all at once, the pieces fell into place. His placid demeanor wasn't his true character—it was a meticulous, flawlessly engineered front, masking a history that was utterly incongruous with a neighborhood like ours.

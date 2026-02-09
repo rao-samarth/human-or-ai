@@ -3,7 +3,7 @@
 This task explores how to mathematically distinguish between human-written and AI-generated text. I've analyzed lexical richness, syntactic complexity, punctuation patterns, readability, and information-theoretic signatures across three classes of text.
 
 **IMPORTANT NOTE:** I have spoken in significant detail and provided sources for each claim I make in `markdown` boxes in [the Jupyter Notebook](task-1.ipynb).  
-This README.md provides only a brief overview of our findings. For more details, please step by step read through the python notebook. 
+This README.md provides only a brief overview of my findings. For more details, please step by step read through the python notebook. 
 
 ## Dataset Classes
 
@@ -61,14 +61,5 @@ Academic papers cited:
 - **Information Theory Blog** - "Chaos and predictability in language models" - [Link](https://kuiper2000.github.io/chaos_and_predictability/week9/week9)
 - **Peeperkorn et al., 2024** - "Is Temperature the Creativity Parameter of Large Language Models" - [Link](https://arxiv.org/html/2405.00492v1)
 
-## Running the Notebook
-
-```bash
-# Install dependencies
-pip install -r requirements.txt
-
-# Launch notebook
-jupyter notebook task-1.ipynb
-```
 
 All visualizations and statistical tests are included in the notebook with detailed markdown explanations.

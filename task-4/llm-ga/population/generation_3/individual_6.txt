@@ -1,0 +1,12 @@
+GENERATION 3 - INDIVIDUAL 6
+================================================================================
+
+Fitness: 0.0000
+P(Human): 0.0000
+P(AI): 0.9991
+P(AI-mimicry): 0.0009
+Semantic Similarity: 0.7224
+Predicted Class: 2 (conf=0.9991)
+
+Text:
+For my entire life, the subtle pulse of our lane had been the very essence of safety—a reliable rhythm where the peak of commotion was an errant recycling container. I must admit, I was completely certain I had a complete read on the man residing in the yellow cottage across the street. He was the epitome of ordinary kindness, the type of person who’d bring back your lawnmower topped off with fuel and buy out the entire table at a school fundraiser. That whole impression, however, shattered one afternoon when a mistaken delivery led me to open his correspondence. It held no casual hello or routine invoice: it was an official file, dense with blacked-out sentences and a picture of him from decades past, his expression one of cold determination. The letter felt impossibly heavy in my hand as the realization dawned on me. His serene, neighborly disposition wasn't just his character; it was an impeccable front, a seamless concealment for a past completely and frighteningly at odds with our tranquil little community.

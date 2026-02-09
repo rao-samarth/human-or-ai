@@ -1,0 +1,12 @@
+GENERATION 0 - INDIVIDUAL 5
+================================================================================
+
+Fitness: 0.0000
+P(Human): 0.0000
+P(AI): 0.9999
+P(AI-mimicry): 0.0001
+Semantic Similarity: 0.7332
+Predicted Class: 2 (conf=0.9999)
+
+Text:
+I’d always found comfort in the predictable rhythm of our street, a place where the most dramatic event was typically a debate over property lines or a rogue dandelion patch. Take the guy in the yellow bungalow, for instance; I was sure I had him pegged. He was the epitome of a good neighbor—tools returned before you even missed them, a whole-hearted supporter of every school fundraiser. His kindness was so constant it was unremarkable. That entire perception crumbled one Tuesday, all thanks to a simple postal error. Instead of the expected power bill or junk mail, I found myself staring at a thick government file, whole lines blacked out with marker. Pinned to the top was a photograph: a version of him from two decades ago, his face hard and chillingly unfamiliar. The manila envelope felt impossibly heavy in my hands as I stood frozen on my own front steps, realizing his pleasant nature wasn't a personality. It was a masterful disguise, a flawless cover for a past that simply didn't belong in a world of bake sales and borrowed lawnmowers.

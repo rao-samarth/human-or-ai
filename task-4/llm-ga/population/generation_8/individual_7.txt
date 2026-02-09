@@ -1,0 +1,12 @@
+GENERATION 8 - INDIVIDUAL 7
+================================================================================
+
+Fitness: 0.0000
+P(Human): 0.0000
+P(AI): 0.9998
+P(AI-mimicry): 0.0002
+Semantic Similarity: 0.8095
+Predicted Class: 2 (conf=0.9998)
+
+Text:
+Prior to that day, I was absolutely convinced I had a complete picture of my neighbor. The gentleman in the lemon-colored bungalow across the street was the very embodiment of peaceful amiability—the sort of person who returned borrowed tools right away and always bought a cake at every school fundraiser. He was so unfailingly good-natured, in fact, that he practically blended into the background, seamlessly suited to the tranquil rhythm of our neighborhood, where the most serious transgression was an overgrown lawn. But that whole perception was shattered by a simple mix-up with the mail. That afternoon, I inadvertently opened a piece of his mail. It held no utility bill or community flyer; instead, it was an official dossier, dense with blacked-out text, and a photograph of a far younger man with a disturbingly hollow stare. The manila envelope felt impossibly heavy in my hand as I stood there on my doorstep and finally, genuinely comprehended. His gentle, unassuming disposition wasn't a personality trait at all: it was an intricate, flawlessly crafted facade, hiding a history that had absolutely no place in a quiet corner of the world like ours.

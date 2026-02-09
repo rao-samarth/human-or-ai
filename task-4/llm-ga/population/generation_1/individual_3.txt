@@ -1,0 +1,12 @@
+GENERATION 1 - INDIVIDUAL 3
+================================================================================
+
+Fitness: 0.0000
+P(Human): 0.0000
+P(AI): 0.9996
+P(AI-mimicry): 0.0004
+Semantic Similarity: 0.7941
+Predicted Class: 2 (conf=0.9996)
+
+Text:
+I would have sworn I had the man in the yellow bungalow pegged. He was the soul of our sleepy neighborhood, a place whose gentle pulse was measured in things like zoning squabbles and overgrown hedges. His brand of decency was so predictable it was almost a form of invisibility; he’d return a borrowed hammer cleaner than he got it and buy a dozen boxes of any kid’s fundraiser cookies. That comfortable certainty disintegrated the day a misdelivered letter landed in my hands. What I opened wasn’t junk mail or a note from a relative, but a government file thick with blacked-out lines. Clipped to it was a photograph of him from another life—decades younger, with a chilling emptiness in his eyes. The flimsy envelope suddenly felt like a lead weight in my palm as the truth dawned on me: his quiet, pleasant nature wasn't who he was. It was a masterful costume, a flawless facade hiding a past that simply didn't belong in a world of bakeries and public libraries.

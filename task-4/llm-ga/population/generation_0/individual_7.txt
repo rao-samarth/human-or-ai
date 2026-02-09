@@ -1,0 +1,12 @@
+GENERATION 0 - INDIVIDUAL 7
+================================================================================
+
+Fitness: 0.0000
+P(Human): 0.0000
+P(AI): 1.0000
+P(AI-mimicry): 0.0000
+Semantic Similarity: 0.8596
+Predicted Class: 2 (conf=1.0000)
+
+Text:
+I'd always found a deep sense of security in the gentle rhythm of our neighborhood, a place where the most dramatic event was usually a heated debate over property lines or an overgrown lawn. I was so sure I had the man in the yellow bungalow across the way completely pegged. He was the epitome of quiet decency—the type to return a borrowed ladder before you even missed it and single-handedly fund a local troop's cookie drive. That entire perception was demolished one afternoon because of a simple postal error. I mistakenly tore open an envelope addressed to him, but inside wasn't a utility bill or a friendly greeting. It was a thick government file, full of blacked-out lines, and a photograph of him from two decades ago with eyes that were utterly chilling. Standing there on my porch, the letter suddenly feeling like a lead weight in my hand, it all became clear. His mild-mannered nature wasn't a personality; it was a masterful, impenetrable disguise, concealing a past that had no right to exist on a quiet street tucked between the library and the bakery.
